@@ -6,7 +6,7 @@ authors:
 - Claire Madigan
 - Nikolaos Pandis
 - Martin Loef
-- Harald Walach 6
+- Harald Walach
 - admin
 - Jos Kleijnen
 - Jadbinder Seehra
