@@ -1,4 +1,4 @@
----
+  ---
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -46,6 +46,11 @@ title: Sebastian Sauer
 
 Sebastian Sauer is a professor with a focus on data science and statistics at the University of applied sciences Ansbach. 
 His research interests include applied machine learning, didactics of statistics, mindfulness, and social media analysis.
+He thinks that science is obligated to truth and the social good.
+And in particular, each scientist is also citizen and should strive to defend and support basic ethical principles.
+For the moment, this includes lending a voice to the cause of Ukraine in her struggle to fight off the Russian invasion 🇺🇦.
+
+
 
 
 Check-out my [LinkedIn Profile](https://www.linkedin.com/in/dr-sebastian-sauer-4791762/) for details on my vita.
