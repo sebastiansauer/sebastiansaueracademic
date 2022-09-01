@@ -1,6 +1,6 @@
 ---
 date: "2020-07-01"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
+external_link: "https://sebastiansauer.github.io/datascience1/"
 image:
   caption: Title Cover by klölk 
   focal_point: Smart
