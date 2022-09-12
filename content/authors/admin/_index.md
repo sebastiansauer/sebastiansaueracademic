@@ -1,6 +1,5 @@
   ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include applying statistics and machine learning to psychological phenomena such as mindfulness and learning behavior.
 education:
   courses:
   - course: habilitation in Psychology (item response theory modeling)
