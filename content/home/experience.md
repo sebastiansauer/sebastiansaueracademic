@@ -25,7 +25,7 @@ experience:
   - title: Research Professor, head of field of study in Business Psychology
     company: Ansbach University 
     company_url: 'https://www.hs-ansbach.de/bachelor/angewandte-wirtschafts-und-medienpsychologie/'
-    company_logo: org-gc
+    company_logo: org-x
     location: Ansbach
     date_start: '2020-10-01'
     date_end: ''
