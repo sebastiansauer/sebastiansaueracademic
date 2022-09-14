@@ -15,8 +15,6 @@ url_slides: "https://sebastiansauer-academic.netlify.app/uploads/Kausal-Workshop
 ---
 
 
----
-
 
  
  
