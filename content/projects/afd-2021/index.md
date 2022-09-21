@@ -4,7 +4,8 @@ date: "2022-03-01"
 image:
   caption: Title Cover by Sebastian Sauer
   focal_point: Smart
-summary: Analyse des Wahlerfolgs der AfD bei der BTW 21 als methodisches Tutorial
+summary: "Analyse des Wahlerfolgs der AfD bei der BTW 21 als methodisches Tutorial"
+
 tags:
 - R
 - statistics

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/projects/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/</link>
+    </image>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</guid>
+      <description>&lt;p&gt;Also check-out this &lt;a href=&#34;https://github.com/sebastiansauer/afd-personality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related work on the possible impact of personality and voting for the AfD&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Template for the FOM University</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/xafom/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

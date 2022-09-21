@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/research/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>research</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/research/</link>
+    </image>
+    
+    <item>
+      <title>Forschungspraktikum in Psychologie</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Videosammlung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/videos/</guid>
+      <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
+&lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
+&lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exam | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/exam/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/exam/index.xml" rel="self" type="application/rss+xml" />
+    <description>exam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>exam</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/exam/</link>
+    </image>
+    
+    <item>
+      <title>Textbausteine zur Korrektur</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/textbausteine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/textbausteine/</guid>
+      <description>&lt;p&gt;In diesem Repositorium finden sich Textbausteine, die zur Korrektur von studentischen Seminar- und Abschlussarbeiten verwendet werden können.&lt;/p&gt;
+&lt;p&gt;Die Textbausteine sind primär dazu gedacht, wissenschaftliche Arbeiten in der Psychologie zu bewerten.&lt;/p&gt;
+&lt;p&gt;Dazu werden einige Bewertungskriterien eingeführt:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formales&lt;/li&gt;
+&lt;li&gt;Methodik&lt;/li&gt;
+&lt;li&gt;Inhalt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Für jeden der Punkte werden mehrere Unterkriterien beschrieben. Für die meisten der Unterkriterien existieren sowohl Bewertungssätze als auch Hinweissätze.&lt;/p&gt;
+&lt;p&gt;Bewertungssätze veorten die Leistung der Arbeit zu einem Bewertungskriterium auf einem Kriterium von sehr gut bis ungenügend. Hinweissätze erläutern Fehler, Schwächen, Verbesserungspotenzial oder Stärken zu einem Bewertungskriterium.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

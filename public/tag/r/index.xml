@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>R</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Objective: To estimate the proportion of healthcare interventions tested within Cochrane Reviews that are effective according to high-quality evidence.&lt;/p&gt;
+&lt;p&gt;Methods: We selected a random sample of 2,428 (35%) of all Cochrane Reviews published between 1 January 2008 and 5 March 2021. We extracted data about interventions within these reviews that were compared with placebo, or no treatment, and whose outcome quality was rated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. We calculated the proportion of interventions whose benefits were based on high-quality evidence (defined as having high quality GRADE rating for at least one primary outcome, statistically significant positive results, and being judged by review authors as effective. We also calculated the proportion of interventions that suggested harm.&lt;/p&gt;
+&lt;p&gt;Results: Of 1,567 eligible interventions, 87 (5.6%) had high-quality evidence supporting their benefits. Harms were measured for 577 (36.8%) interventions. There was statistically significant evidence for harm in 127 (8.1%) of these. Our dependence on the reliability of Cochrane author assessments (including their GRADE assessments) was the main potential limitation of our study.&lt;/p&gt;
+&lt;p&gt;Conclusion: More than 9 in 10 healthcare interventions studied within recent Cochrane Reviews are not supported by high-quality evidence, and harms are under-reported.&lt;/p&gt;
+&lt;p&gt;Keywords: Epidemiology; Evidence; Harm; Quality; Safety; Systematic review.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The above figure does NOT appear in the final article.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stats Nutshell</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
+&lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim Datenwerk: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 1</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds1/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
+      <description>&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</guid>
+      <description>&lt;p&gt;Also check-out this &lt;a href=&#34;https://github.com/sebastiansauer/afd-personality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related work on the possible impact of personality and voting for the AfD&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Template for the FOM University</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/xafom/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</guid>
+      <description>&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forschungspraktikum in Psychologie</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Blitzkurs</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</guid>
+      <description>&lt;p&gt;R ist die führende Software für Datenanalyse und insofern Eintrittskarte in das Datenzeitalter. Sie würden gerne R kennenlernen, aber das kostet Sie zu viel Zeit? Dann kommen Sie zum R-Blitzkurs! In 60 Minuten lernen Sie zentrale Schritte der Datenanalyse. OK, vielleicht reicht die Zeit auch nur für einen ersten Eindruck - aber der erste Schritt ist der wichtigste. Aus dem Inhalt: Daten importieren in R, deskriptive Statistiken erstellen, Diagramme erzeugen, Daten und Ergebnisse exportieren, inferenzstatistische Tests durchführen. Sie brauchen keine Software vorab installieren; im Kurs wird Ihnen eine Online-Version von R bereitgestellt (kostenlos). Es ist aber nötig, sich ein Konto dafür vorab anzulegen, bitte lesen Sie die Details in der Kursbeschreibung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vorhersagemodellierung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/qm1/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/qm1/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wie man Umfragen auswertet</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
+      <description>&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+&lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package teachertools</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/teachertools/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/teachertools/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/status-early%20state-red&#34; alt=&#34;Beware, very early status&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This repo provides tools for writing and grading exams/exercises, as well as publishing course materials.
+The tools consists of R functions.&lt;/p&gt;
+&lt;p&gt;Check-out the &lt;a href=&#34;https://github.com/sebastiansauer/teachertools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Videosammlung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/videos/</guid>
+      <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
+&lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
+&lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/astra/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/astra/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;
+The effectiveness of most cancer targeted therapies is short-lived. Tumors often develop resistance that might be overcome with drug combinations. However, the number of possible combinations is vast, necessitating data-driven approaches to find optimal patient-specific treatments. Here we report AstraZeneca’s large drug combination dataset, consisting of 11,576 experiments from 910 combinations across 85 molecularly characterized cancer cell lines, and results of a DREAM Challenge to evaluate computational strategies for predicting synergistic drug pairs and biomarkers. 160 teams participated to provide a comprehensive methodological development and benchmarking. Winning methods incorporate prior knowledge of drug-target interactions. Synergy is predicted with an accuracy matching biological replicates for &amp;gt;60% of combinations. However, 20% of drug combinations are poorly predicted by all methods. Genomic rationale for synergy predictions are identified, including ADAM17 inhibitor antagonism when combined with PIK3CB/D inhibition contrasting to synergy when combined with other PI3K-pathway inhibitors in PIK3CA mutant cells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moderne Datenanalyse mit R</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/modar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/modar/</guid>
+      <description>&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
+&lt;p&gt;Ziel ist es, Leser mit der Art und Weise vertraut zu machen, wie führende Organisationen und Praktiker angewandte Statistik heute einsetzen. Weil sich mit der Digitalisierung auch die statistischen Verfahren verändert haben, vermittelt der Autor neben klassischen Analysemethoden wie Regression auch moderne Methoden wie Textmining und Random-Forest-Modelle. Dabei sind die Inhalte des Buchs durchgehend so aufbereitet, dass sie auch für Leser ohne umfangreiche mathematische Vorkenntnisse verständlich sind. Anhand von Fallbeispielen und Übungen werden die Leser durch alle Phasen der Datenanalyse geführt: Sie lernen, wie Daten eingelesen, aufbereitet, visualisiert, modelliert und kommuniziert werden können. Dabei wird vor allem die Aufbereitung, Umformung und Prüfung der Daten ausführlicher als in anderen Publikationen behandelt, da dieser Teil in der Praxis oft einen wesentlichen Teil des Aufwands ausmacht. Aber auch die Visualisierung bekommt viel Raum, denn gute Diagramme ermöglichen Einblicke, die Zahlen und Worte verbergen.
+Mit seinem praxisorientierten Ansatz will das Buch dazu befähigen,
+alle grundlegenden Schritte eines Datenanalyseprojekts durchzuführen,
+Daten kompetent in R zu bearbeiten,
+simulationsbasierte Inferenzstatistik anzuwenden und kritisch zu hinterfragen,
+klassische und moderne Vorhersagemethoden anzuwenden und
+betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodelle zu beantworten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handson data exploration with the R/tidyverse</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

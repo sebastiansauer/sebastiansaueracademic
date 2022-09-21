@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/machine-learning/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine-learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>machine-learning</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performanz in Echtzeit vorhersagen auf Basis von Pupillendaten</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/pupil1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/pupil1/</guid>
+      <description>&lt;h2 id=&#34;fragestellung&#34;&gt;Fragestellung&lt;/h2&gt;
+&lt;p&gt;Lässt sich die Performanz von Computer-Arbeitenden anhand der dynamischen Veränderung der Pupillengröße vorhersagen (vgl. Buettner et al. 2015)?&lt;/p&gt;
+&lt;h2 id=&#34;untersuchungsdesign&#34;&gt;Untersuchungsdesign&lt;/h2&gt;
+&lt;p&gt;In einer Beobachtungsstudie im Labor wurden N = 129 Probanden untersucht. Gemessen wurde primär die kontinuierliche Veränderung der Puppillengröße als Prädiktor für den Erfolg in drei verschiedenen realistischen Aufgaben von computerbezogenen Aufgaben aus einem Wirtschaftskontext.&lt;/p&gt;
+&lt;h2 id=&#34;ergebnisse&#34;&gt;Ergebnisse&lt;/h2&gt;
+&lt;p&gt;Ein Algorithmus aus dem Maschinellen Lernen (Random Forests) sagte die Performanz überzufällig gut vorher. Dieser Erfolg ist beachtenswert, da die Vorhersage ex-ante verlief: Die Pupillendilation während der Bearbeitung sagte den Erfolg am Ende der Bearbeitungszeit vorher.&lt;/p&gt;
+&lt;h2 id=&#34;limitationen&#34;&gt;Limitationen&lt;/h2&gt;
+&lt;p&gt;Zwar wurden eine Reihe von Störvariablen (z.B. Streulicht) im Labor kontrolliert, aber personengebundene Störvariablen könnten ebenfalls die Vorhersage beeinflusst haben. Das Aufgabenszenario war praxisnah gestaltet, aber die ökologische Validität einer Laborsituation ist eingeschränkt.&lt;/p&gt;
+&lt;h2 id=&#34;theoretischepraktische-implikationen&#34;&gt;Theoretische/Praktische Implikationen&lt;/h2&gt;
+&lt;p&gt;Der Grad von kognitiven Belastung bei Computerarbeit ist ein ausschlaggebender Faktor für die Performanz der Nutzer; Über-, Fehl- aber auch Unterbelastung können die Performanz von Nutzern begrenzen. Der Messung der kognitiven Belastung kommt daher hohe praktische Bedeutung bei Mensch-Maschine-Interaktionen zu. Gelänge es, die kognitive Belastung valide, praktikabel und in Echtzeit zu messen, so könnte die Nutzer-Performanz u.U. gesteigert werden. So könnte z.B. die Fehlerrate bei Fluglotsen verringert werden. Darüber hinaus sind genaue Vorhersagen sind ein Schlüssel zum besseren Verständnis der psycho-physiologischen Abläufe bei kognitiver Belastung.&lt;/p&gt;
+&lt;h2 id=&#34;relevanzbeitrag&#34;&gt;Relevanz/Beitrag&lt;/h2&gt;
+&lt;p&gt;Bislang liegen nur wenige Studien vor, die anhand einer größeren Stichprobe und in einem praxisnahem Design, Nutzer-Performanz in Echtzeit vorhersagen. Der Nutzen von alternativen prädiktiven Algorithmen wird durch den Vorhersageerfolg in dieser Studie demonstriert; damit ist zu hoffen, dass Maschinelles Lernen in anderen Forschungsgebieten zu verbesserten Vorhersageerfolgen führt.&lt;/p&gt;
+&lt;h2 id=&#34;literatur&#34;&gt;Literatur&lt;/h2&gt;
+&lt;p&gt;Buettner, Ricardo, Sebastian Sauer, Christian Maier, and Andreas Eckhardt. 2015. “Towards Ex Ante Prediction of User Performance: A Novel Neurois Methodology Based on Real-Time Measurement of Mental Effort.” In System Sciences (Hicss), 2015 48th Hawaii International Conference on, 533–42. IEEE.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Böse. Psychologie eines Phänomens.</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/boese/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/boese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible paper writing: Some practical recommendations</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/repro1/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/repro1/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Reproducible Paper Writing&lt;/p&gt;
+&lt;p&gt;Scientiﬁc publications should both announce a result and convince readers that the result is correct (Mesirov, 2010). Reproducibility refers to methods which help the reader to convince themselves by own means that a given result is plausible, at least. Thus, reproducibility, as opposed to replicability, is particularly important because successfully replicating a study is not neccessarily possible even if the study was well conducted (Peng, 2015). In any case, a reanalysis of the data must result in similar or identical results.&lt;/p&gt;
+&lt;p&gt;The current “reproducibility crisis” (Open Science Collaboration, 2015) is partly due to a lack of technical and statistical skills (Peng, 2015). Thus better technical skills for reproducible paper writing and data analyses may provide a remedy to the reproducibility crisis. In this talk, we present a method that is well-suited for writing reproducible academic papers. This method is a combination of Latex, R, Knitr, Git, and Pandoc. These software tools are robust, well established and not more than reasonable complex. Additional approaches, such as using word processors (MS Word), Markdown, or online collaborative writing tools (Authorea) are presented brieﬂy. The presentation is based on a practical software demonstration. A Github repository for easy reproducibility is provided.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;REFERENCES&lt;/h2&gt;
+&lt;p&gt;Mesirov, J. P. (2010). COMPUTER SCIENCE. Accessible Reproducible Research. Science, 327(5964), 10.1126/science.1179653. &lt;a href=&#34;http://doi.org/10.1126/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1126/&lt;/a&gt; science.1179653&lt;/p&gt;
+&lt;p&gt;Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251). &lt;a href=&#34;http://doi.org/10.1126/science.aac4716&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1126/science.aac4716&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Peng, R. (2015). The reproducibility crisis in science: A statistical counterattack. Signiﬁcance, 12(3), 30–32. &lt;a href=&#34;http://doi.org/10.1111/j.1740-9713.2015.00827.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1111/j.1740-9713.2015.00827.x&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

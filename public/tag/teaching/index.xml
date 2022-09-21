@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/teaching/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>teaching</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Wie man Umfragen auswertet</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
+      <description>&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+&lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package teachertools</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/teachertools/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/teachertools/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/status-early%20state-red&#34; alt=&#34;Beware, very early status&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This repo provides tools for writing and grading exams/exercises, as well as publishing course materials.
+The tools consists of R functions.&lt;/p&gt;
+&lt;p&gt;Check-out the &lt;a href=&#34;https://github.com/sebastiansauer/teachertools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Textbausteine zur Korrektur</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/textbausteine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/textbausteine/</guid>
+      <description>&lt;p&gt;In diesem Repositorium finden sich Textbausteine, die zur Korrektur von studentischen Seminar- und Abschlussarbeiten verwendet werden können.&lt;/p&gt;
+&lt;p&gt;Die Textbausteine sind primär dazu gedacht, wissenschaftliche Arbeiten in der Psychologie zu bewerten.&lt;/p&gt;
+&lt;p&gt;Dazu werden einige Bewertungskriterien eingeführt:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formales&lt;/li&gt;
+&lt;li&gt;Methodik&lt;/li&gt;
+&lt;li&gt;Inhalt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Für jeden der Punkte werden mehrere Unterkriterien beschrieben. Für die meisten der Unterkriterien existieren sowohl Bewertungssätze als auch Hinweissätze.&lt;/p&gt;
+&lt;p&gt;Bewertungssätze veorten die Leistung der Arbeit zu einem Bewertungskriterium auf einem Kriterium von sehr gut bis ungenügend. Hinweissätze erläutern Fehler, Schwächen, Verbesserungspotenzial oder Stärken zu einem Bewertungskriterium.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

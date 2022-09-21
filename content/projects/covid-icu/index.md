@@ -1,10 +1,10 @@
 ---
 date: "2022-03-01"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
 image:
   caption: Title Cover by Sebastian Sauer
   focal_point: Smart
 summary: Analysis related to Covid 19 severity in patients at an ICU
+
 tags:
 - R
 - statistics
@@ -12,7 +12,7 @@ tags:
 - modelling
 - machine-learning
 
-title: Bayes:Start
+title: "Covid ICU"
 url_code: "https://github.com/sebastiansauer/covid-icu"
 ---
 

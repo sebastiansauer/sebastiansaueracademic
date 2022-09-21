@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Sauer Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>Sebastian Sauer Academic</title>
+      <link>https://sebastiansauer-academic.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Acting Data-Driven - But How?</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal3/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal3/</guid>
+      <description>&lt;p&gt;Talk presented at &lt;a href=&#34;http://ecda2020.unina.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECDA 2022&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;Karsten Lübke (FOM)&lt;/p&gt;
+&lt;p&gt;Matthias Gehrke (FOM)&lt;/p&gt;
+&lt;p&gt;Jörg Horst (FH Bielfeld)&lt;/p&gt;
+&lt;p&gt;Sebastian Sauer (HS Ansbach)&lt;/p&gt;
+&lt;p&gt;Gero Szepannek (HS Stralsund)&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In many cases, data is used to draw conclusions, e.g., to support decision-making processes.
+But quite often, the data is inconclusive, with Simpson&amp;rsquo;s paradox being the most prominent example where the adjusted or unadjusted effect may even show in opposite directions.
+But as causal inference is one of the data science tasks (Hern et al., 2019), the qualitative assumptions about the data generating process need to be considered and discussed in order to draw correct conclusions.&lt;/p&gt;
+&lt;p&gt;In a simulated scenario we asked students as well as practioners which conclusions they draw from a given regression output. In the simulation the sign of the estimate of interest changes if a covariable is added to the model.
+First the result is presented without a causal diagram, afterwards with a causal diagram.
+The results show that the chosen conclusions are quite often wrong given the information provided (with or without the causal diagram).
+As a consequence for data science projects, more emphasis should be put on the mapping and link between subject matter knowledge and data modeling to avoid drowning in the data.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+&lt;p&gt;HERN, M.A and HSU, J. and  HEALY, B. (2019). A Second Chance to Get
+Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42&amp;ndash;49.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Objective: To estimate the proportion of healthcare interventions tested within Cochrane Reviews that are effective according to high-quality evidence.&lt;/p&gt;
+&lt;p&gt;Methods: We selected a random sample of 2,428 (35%) of all Cochrane Reviews published between 1 January 2008 and 5 March 2021. We extracted data about interventions within these reviews that were compared with placebo, or no treatment, and whose outcome quality was rated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. We calculated the proportion of interventions whose benefits were based on high-quality evidence (defined as having high quality GRADE rating for at least one primary outcome, statistically significant positive results, and being judged by review authors as effective. We also calculated the proportion of interventions that suggested harm.&lt;/p&gt;
+&lt;p&gt;Results: Of 1,567 eligible interventions, 87 (5.6%) had high-quality evidence supporting their benefits. Harms were measured for 577 (36.8%) interventions. There was statistically significant evidence for harm in 127 (8.1%) of these. Our dependence on the reliability of Cochrane author assessments (including their GRADE assessments) was the main potential limitation of our study.&lt;/p&gt;
+&lt;p&gt;Conclusion: More than 9 in 10 healthcare interventions studied within recent Cochrane Reviews are not supported by high-quality evidence, and harms are under-reported.&lt;/p&gt;
+&lt;p&gt;Keywords: Epidemiology; Evidence; Harm; Quality; Safety; Systematic review.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The above figure does NOT appear in the final article.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stats Nutshell</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
+&lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim Datenwerk: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 1</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds1/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
+      <description>&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</guid>
+      <description>&lt;p&gt;Also check-out this &lt;a href=&#34;https://github.com/sebastiansauer/afd-personality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related work on the possible impact of personality and voting for the AfD&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Template for the FOM University</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/xafom/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Causality 2: How to interpret observational studies causally</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal2/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</guid>
+      <description>&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forschungspraktikum in Psychologie</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Blitzkurs</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</guid>
+      <description>&lt;p&gt;R ist die führende Software für Datenanalyse und insofern Eintrittskarte in das Datenzeitalter. Sie würden gerne R kennenlernen, aber das kostet Sie zu viel Zeit? Dann kommen Sie zum R-Blitzkurs! In 60 Minuten lernen Sie zentrale Schritte der Datenanalyse. OK, vielleicht reicht die Zeit auch nur für einen ersten Eindruck - aber der erste Schritt ist der wichtigste. Aus dem Inhalt: Daten importieren in R, deskriptive Statistiken erstellen, Diagramme erzeugen, Daten und Ergebnisse exportieren, inferenzstatistische Tests durchführen. Sie brauchen keine Software vorab installieren; im Kurs wird Ihnen eine Online-Version von R bereitgestellt (kostenlos). Es ist aber nötig, sich ein Konto dafür vorab anzulegen, bitte lesen Sie die Details in der Kursbeschreibung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vorhersagemodellierung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/qm1/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/qm1/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The quantitative method in the sciences</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/quant-method/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/quant-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie man Umfragen auswertet</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
+      <description>&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+&lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package pradadata</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/pradadata/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/pradadata/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;h1 id=&#34;pradadata&#34;&gt;pradadata&lt;/h1&gt;
+&lt;p&gt;data sets for practical data analysis&lt;/p&gt;
+&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+&lt;p&gt;Data sets featuring data from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;German elections 2017&lt;/li&gt;
+&lt;li&gt;OECD wellbeing 2016&lt;/li&gt;
+&lt;li&gt;survey on extraversion 2015-2016&lt;/li&gt;
+&lt;li&gt;Schwartz cultural values 1988-2000&lt;/li&gt;
+&lt;li&gt;sociol economic data of all German 2017 electoral districts&lt;/li&gt;
+&lt;li&gt;geomap of German electoral districts 2017&lt;/li&gt;
+&lt;li&gt;toy data set on sex, height, and shoe size&lt;/li&gt;
+&lt;li&gt;online dating platform experiment 2015&lt;/li&gt;
+&lt;li&gt;German sentiment lexicon (germanlex)&lt;/li&gt;
+&lt;li&gt;German sentiment lexicon (sentiws)&lt;/li&gt;
+&lt;li&gt;predictors and score of statistics test&lt;/li&gt;
+&lt;li&gt;names of world countries&lt;/li&gt;
+&lt;li&gt;party platform of the AfD party (&amp;ldquo;Alternative fuer Deutschland&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notes that some (most) of these data sets were not published by the author of this pacakge. The original authors and the respective licences can be found in the desription of each data set.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;devtools::install_github(&amp;quot;sebastiansauer/pradadata&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;p&gt;In R (or RStudio) type
+&lt;code&gt;library(&amp;quot;pradadata&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-help&#34;&gt;Get help&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;help(&amp;quot;pradadata&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;R&lt;/p&gt;
+&lt;h2 id=&#34;licence&#34;&gt;Licence&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat&#34; alt=&#34;Package-License&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;doi&#34;&gt;DOI&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/109450408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zenodo.org/badge/109450408.svg&#34; alt=&#34;DOI&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package teachertools</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/teachertools/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/teachertools/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/status-early%20state-red&#34; alt=&#34;Beware, very early status&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This repo provides tools for writing and grading exams/exercises, as well as publishing course materials.
+The tools consists of R functions.&lt;/p&gt;
+&lt;p&gt;Check-out the &lt;a href=&#34;https://github.com/sebastiansauer/teachertools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Videosammlung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/videos/</guid>
+      <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
+&lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
+&lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to causality 1: Any use for statistics?</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal1/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal1/</guid>
+      <description>&lt;p&gt;Why most published research findings are of little use for business decisions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/astra/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/astra/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;
+The effectiveness of most cancer targeted therapies is short-lived. Tumors often develop resistance that might be overcome with drug combinations. However, the number of possible combinations is vast, necessitating data-driven approaches to find optimal patient-specific treatments. Here we report AstraZeneca’s large drug combination dataset, consisting of 11,576 experiments from 910 combinations across 85 molecularly characterized cancer cell lines, and results of a DREAM Challenge to evaluate computational strategies for predicting synergistic drug pairs and biomarkers. 160 teams participated to provide a comprehensive methodological development and benchmarking. Winning methods incorporate prior knowledge of drug-target interactions. Synergy is predicted with an accuracy matching biological replicates for &amp;gt;60% of combinations. However, 20% of drug combinations are poorly predicted by all methods. Genomic rationale for synergy predictions are identified, including ADAM17 inhibitor antagonism when combined with PIK3CB/D inhibition contrasting to synergy when combined with other PI3K-pathway inhibitors in PIK3CA mutant cells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moderne Datenanalyse mit R</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/modar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/modar/</guid>
+      <description>&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
+&lt;p&gt;Ziel ist es, Leser mit der Art und Weise vertraut zu machen, wie führende Organisationen und Praktiker angewandte Statistik heute einsetzen. Weil sich mit der Digitalisierung auch die statistischen Verfahren verändert haben, vermittelt der Autor neben klassischen Analysemethoden wie Regression auch moderne Methoden wie Textmining und Random-Forest-Modelle. Dabei sind die Inhalte des Buchs durchgehend so aufbereitet, dass sie auch für Leser ohne umfangreiche mathematische Vorkenntnisse verständlich sind. Anhand von Fallbeispielen und Übungen werden die Leser durch alle Phasen der Datenanalyse geführt: Sie lernen, wie Daten eingelesen, aufbereitet, visualisiert, modelliert und kommuniziert werden können. Dabei wird vor allem die Aufbereitung, Umformung und Prüfung der Daten ausführlicher als in anderen Publikationen behandelt, da dieser Teil in der Praxis oft einen wesentlichen Teil des Aufwands ausmacht. Aber auch die Visualisierung bekommt viel Raum, denn gute Diagramme ermöglichen Einblicke, die Zahlen und Worte verbergen.
+Mit seinem praxisorientierten Ansatz will das Buch dazu befähigen,
+alle grundlegenden Schritte eines Datenanalyseprojekts durchzuführen,
+Daten kompetent in R zu bearbeiten,
+simulationsbasierte Inferenzstatistik anzuwenden und kritisch zu hinterfragen,
+klassische und moderne Vorhersagemethoden anzuwenden und
+betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodelle zu beantworten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handson data exploration with the R/tidyverse</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Populism among German politicians - A Twitter Mining approach</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/populism1/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/populism1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2017/11/01/afd01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out this post&lt;/a&gt; for a synopsis on the project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictors of AfD party success</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/populism2/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/populism2/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The party “Alternative fuer Deutschland” (AfD) is a right-wing to far-right political party in Germany. Founded in 2013, it that has managed to gain seats in all states parliaments as well as in the federal parliament within a short period of time. The AfD became the third-largest party in Germany after the 2017 federal elections. Such striking success is quite unique in German post-war politics. Consequently, AfD’s upsurge has sparked an intensive debate as to the why’s and hows of this success. Some explanations of AfD’s electoral success have been brought forward by scholars but also some “folk theories” circulate. In this study, we test some folk theories highlighting potential causes of AfD electoral success such as unemployment, migration rate, age, and east/west cultural diﬀerences. Our data are based on the German federal election results (2017), alongside with structural data on each German electoral district (n=299). Our analysis is novel insofar as a more rigorous Bayesian multilevel modeling is applied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Textbausteine zur Korrektur</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/textbausteine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/textbausteine/</guid>
+      <description>&lt;p&gt;In diesem Repositorium finden sich Textbausteine, die zur Korrektur von studentischen Seminar- und Abschlussarbeiten verwendet werden können.&lt;/p&gt;
+&lt;p&gt;Die Textbausteine sind primär dazu gedacht, wissenschaftliche Arbeiten in der Psychologie zu bewerten.&lt;/p&gt;
+&lt;p&gt;Dazu werden einige Bewertungskriterien eingeführt:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formales&lt;/li&gt;
+&lt;li&gt;Methodik&lt;/li&gt;
+&lt;li&gt;Inhalt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Für jeden der Punkte werden mehrere Unterkriterien beschrieben. Für die meisten der Unterkriterien existieren sowohl Bewertungssätze als auch Hinweissätze.&lt;/p&gt;
+&lt;p&gt;Bewertungssätze veorten die Leistung der Arbeit zu einem Bewertungskriterium auf einem Kriterium von sehr gut bis ungenügend. Hinweissätze erläutern Fehler, Schwächen, Verbesserungspotenzial oder Stärken zu einem Bewertungskriterium.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performanz in Echtzeit vorhersagen auf Basis von Pupillendaten</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/pupil1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/pupil1/</guid>
+      <description>&lt;h2 id=&#34;fragestellung&#34;&gt;Fragestellung&lt;/h2&gt;
+&lt;p&gt;Lässt sich die Performanz von Computer-Arbeitenden anhand der dynamischen Veränderung der Pupillengröße vorhersagen (vgl. Buettner et al. 2015)?&lt;/p&gt;
+&lt;h2 id=&#34;untersuchungsdesign&#34;&gt;Untersuchungsdesign&lt;/h2&gt;
+&lt;p&gt;In einer Beobachtungsstudie im Labor wurden N = 129 Probanden untersucht. Gemessen wurde primär die kontinuierliche Veränderung der Puppillengröße als Prädiktor für den Erfolg in drei verschiedenen realistischen Aufgaben von computerbezogenen Aufgaben aus einem Wirtschaftskontext.&lt;/p&gt;
+&lt;h2 id=&#34;ergebnisse&#34;&gt;Ergebnisse&lt;/h2&gt;
+&lt;p&gt;Ein Algorithmus aus dem Maschinellen Lernen (Random Forests) sagte die Performanz überzufällig gut vorher. Dieser Erfolg ist beachtenswert, da die Vorhersage ex-ante verlief: Die Pupillendilation während der Bearbeitung sagte den Erfolg am Ende der Bearbeitungszeit vorher.&lt;/p&gt;
+&lt;h2 id=&#34;limitationen&#34;&gt;Limitationen&lt;/h2&gt;
+&lt;p&gt;Zwar wurden eine Reihe von Störvariablen (z.B. Streulicht) im Labor kontrolliert, aber personengebundene Störvariablen könnten ebenfalls die Vorhersage beeinflusst haben. Das Aufgabenszenario war praxisnah gestaltet, aber die ökologische Validität einer Laborsituation ist eingeschränkt.&lt;/p&gt;
+&lt;h2 id=&#34;theoretischepraktische-implikationen&#34;&gt;Theoretische/Praktische Implikationen&lt;/h2&gt;
+&lt;p&gt;Der Grad von kognitiven Belastung bei Computerarbeit ist ein ausschlaggebender Faktor für die Performanz der Nutzer; Über-, Fehl- aber auch Unterbelastung können die Performanz von Nutzern begrenzen. Der Messung der kognitiven Belastung kommt daher hohe praktische Bedeutung bei Mensch-Maschine-Interaktionen zu. Gelänge es, die kognitive Belastung valide, praktikabel und in Echtzeit zu messen, so könnte die Nutzer-Performanz u.U. gesteigert werden. So könnte z.B. die Fehlerrate bei Fluglotsen verringert werden. Darüber hinaus sind genaue Vorhersagen sind ein Schlüssel zum besseren Verständnis der psycho-physiologischen Abläufe bei kognitiver Belastung.&lt;/p&gt;
+&lt;h2 id=&#34;relevanzbeitrag&#34;&gt;Relevanz/Beitrag&lt;/h2&gt;
+&lt;p&gt;Bislang liegen nur wenige Studien vor, die anhand einer größeren Stichprobe und in einem praxisnahem Design, Nutzer-Performanz in Echtzeit vorhersagen. Der Nutzen von alternativen prädiktiven Algorithmen wird durch den Vorhersageerfolg in dieser Studie demonstriert; damit ist zu hoffen, dass Maschinelles Lernen in anderen Forschungsgebieten zu verbesserten Vorhersageerfolgen führt.&lt;/p&gt;
+&lt;h2 id=&#34;literatur&#34;&gt;Literatur&lt;/h2&gt;
+&lt;p&gt;Buettner, Ricardo, Sebastian Sauer, Christian Maier, and Andreas Eckhardt. 2015. “Towards Ex Ante Prediction of User Performance: A Novel Neurois Methodology Based on Real-Time Measurement of Mental Effort.” In System Sciences (Hicss), 2015 48th Hawaii International Conference on, 533–42. IEEE.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Böse. Psychologie eines Phänomens.</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/boese/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/boese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible paper writing: Some practical recommendations</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/repro1/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/repro1/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Reproducible Paper Writing&lt;/p&gt;
+&lt;p&gt;Scientiﬁc publications should both announce a result and convince readers that the result is correct (Mesirov, 2010). Reproducibility refers to methods which help the reader to convince themselves by own means that a given result is plausible, at least. Thus, reproducibility, as opposed to replicability, is particularly important because successfully replicating a study is not neccessarily possible even if the study was well conducted (Peng, 2015). In any case, a reanalysis of the data must result in similar or identical results.&lt;/p&gt;
+&lt;p&gt;The current “reproducibility crisis” (Open Science Collaboration, 2015) is partly due to a lack of technical and statistical skills (Peng, 2015). Thus better technical skills for reproducible paper writing and data analyses may provide a remedy to the reproducibility crisis. In this talk, we present a method that is well-suited for writing reproducible academic papers. This method is a combination of Latex, R, Knitr, Git, and Pandoc. These software tools are robust, well established and not more than reasonable complex. Additional approaches, such as using word processors (MS Word), Markdown, or online collaborative writing tools (Authorea) are presented brieﬂy. The presentation is based on a practical software demonstration. A Github repository for easy reproducibility is provided.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;REFERENCES&lt;/h2&gt;
+&lt;p&gt;Mesirov, J. P. (2010). COMPUTER SCIENCE. Accessible Reproducible Research. Science, 327(5964), 10.1126/science.1179653. &lt;a href=&#34;http://doi.org/10.1126/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1126/&lt;/a&gt; science.1179653&lt;/p&gt;
+&lt;p&gt;Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251). &lt;a href=&#34;http://doi.org/10.1126/science.aac4716&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1126/science.aac4716&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Peng, R. (2015). The reproducibility crisis in science: A statistical counterattack. Signiﬁcance, 12(3), 30–32. &lt;a href=&#34;http://doi.org/10.1111/j.1740-9713.2015.00827.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1111/j.1740-9713.2015.00827.x&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wirkfaktoren von Achtsamkeit</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/diss/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/diss/</guid>
+      <description>&lt;p&gt;Die vorliegende Forschungsarbeit untersucht mögliche Wirkfaktoren von Achtsamkeit. Wirkfaktoren sind dabei die Prozesse, die die Effekte von Achtsamkeit auf Wohlbefinden und Gesundheit vermitteln. Bisherige Studien des Forschungsfelds haben sich auf den Nachweis der Wirksamkeit (vgl. Baer, 2003; Grossman, Niemann, Schmidt &amp;amp; Walach, 2004) sowie die Entwicklung von psychometrischen Achtsamkeitstests konzentriert (z.B. Brown &amp;amp; Ryan, 2003; Walach et al., 2006). Die Frage nach den Wirkfaktoren von Achtsamkeit ist demgegenüber bisher weitgehend unbeantwortet. Erst seit kurzem widmen sich Forschungsarbeiten dieser Frage (Arch &amp;amp; Craske, 2006; Shapiro, Carlson, Astin &amp;amp; Friedman, 2006; Zeidler, 2007). Kenntnis der Wirkfaktoren von Achtsamkeit ist der Schlüssel zum Verständnis des Phänomens sowie zur Verbesserung von Interventionen. Aus diesem Grund ist die Erforschung der Wirkfaktoren von Achtsamkeit die nächste zentrale Aufgabe des Forschungsfelds. Basierend auf einer Analyse des theoretischen Fundaments des Konstrukts insbesondere der buddhistischen Psychologie – wird in dieser Arbeit „Verringerung von affektiver Reaktivität“ als Wirkfaktor angenommen (Kalupahana, 1992; Davids, 2002; De Silva, 2005). Affektive Reaktivität bezeichnet die Tendenz, auf affektive Reize (z.B. unangenehme Bilder) mit affektiven Reaktionen (z.B. negativen Gefühlen) zu antworten. Das entsprechende Mediatormodell (Prädiktor: Achtsamkeit; Mediator: affektive Reaktivität; Kriterium: habituelles Wohlbefinden) wird in drei Studien empirisch untersucht. Studie I (N=247) fokussiert auf eine behaviorale Operationalisierung von affektiver Reaktivität anhand von expliziten (z.B. Bewertung aversiver Bilder) und impliziten (z.B. Emotional Stroop) Maßen. Studie II (N=221) erfasst alle Variablen des Modells mit Fragebögen. Beide Studien sind korrelativ und querschnittlich aufgebaut. Studie III (N=189) induziert experimentell State-Achtsamkeit und prüft die Effekte auf die Bewertung aversiver Bilder. Insgesamt bestätigen die Studien das vorgeschlagene Modell teilweise. Dabei finden sich sowohl für Fragebogen als auch für behaviorale Erfassung hypothesenkonforme Ergebnisse. Allerdings sind die Effekte für fragebogenbasierte Operationalisierungen stärker als für behaviorale Erfassung von affektiver Reaktivität. Das Design der Studien begrenzt die interne Validität, so dass die Ergebnisse als erste Hinweise zu verstehen sind. Zukünftige Studien sollten sich weiter auf diesen Wirkfaktor aber auch auf weitere mögliche Wirkfaktoren konzentrieren. Zur Erhöhung der internen Validität sind längsschnittliche Designs, experimentelle Designs und alternative Operationalisierungen vonnöten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sebastiansauer-academic.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reviewing rapid prototype candidates for data-driven projects</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/data2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/data2019/</guid>
+      <description>&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Employee retention: Predict employee propensity to leave the company&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Predictive competition: Compare the predictive performance of traditional/novel models&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Social Listening: Quantify brand opinion (and related emotions)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Objective organization climate: Build text-based model for organization climate&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causal | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/causal/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/causal/index.xml" rel="self" type="application/rss+xml" />
+    <description>causal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>causal</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/causal/</link>
+    </image>
+    
+    <item>
+      <title>Acting Data-Driven - But How?</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal3/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal3/</guid>
+      <description>&lt;p&gt;Talk presented at &lt;a href=&#34;http://ecda2020.unina.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECDA 2022&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;Karsten Lübke (FOM)&lt;/p&gt;
+&lt;p&gt;Matthias Gehrke (FOM)&lt;/p&gt;
+&lt;p&gt;Jörg Horst (FH Bielfeld)&lt;/p&gt;
+&lt;p&gt;Sebastian Sauer (HS Ansbach)&lt;/p&gt;
+&lt;p&gt;Gero Szepannek (HS Stralsund)&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In many cases, data is used to draw conclusions, e.g., to support decision-making processes.
+But quite often, the data is inconclusive, with Simpson&amp;rsquo;s paradox being the most prominent example where the adjusted or unadjusted effect may even show in opposite directions.
+But as causal inference is one of the data science tasks (Hern et al., 2019), the qualitative assumptions about the data generating process need to be considered and discussed in order to draw correct conclusions.&lt;/p&gt;
+&lt;p&gt;In a simulated scenario we asked students as well as practioners which conclusions they draw from a given regression output. In the simulation the sign of the estimate of interest changes if a covariable is added to the model.
+First the result is presented without a causal diagram, afterwards with a causal diagram.
+The results show that the chosen conclusions are quite often wrong given the information provided (with or without the causal diagram).
+As a consequence for data science projects, more emphasis should be put on the mapping and link between subject matter knowledge and data modeling to avoid drowning in the data.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+&lt;p&gt;HERN, M.A and HSU, J. and  HEALY, B. (2019). A Second Chance to Get
+Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42&amp;ndash;49.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to Causality 2: How to interpret observational studies causally</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal2/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forschungspraktikum in Psychologie</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The quantitative method in the sciences</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/quant-method/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/quant-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videosammlung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/videos/</guid>
+      <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
+&lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
+&lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to causality 1: Any use for statistics?</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal1/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal1/</guid>
+      <description>&lt;p&gt;Why most published research findings are of little use for business decisions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Populism among German politicians - A Twitter Mining approach</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/populism1/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/populism1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2017/11/01/afd01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out this post&lt;/a&gt; for a synopsis on the project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reviewing rapid prototype candidates for data-driven projects</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/data2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/data2019/</guid>
+      <description>&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Employee retention: Predict employee propensity to leave the company&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Predictive competition: Compare the predictive performance of traditional/novel models&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Social Listening: Quantify brand opinion (and related emotions)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Objective organization climate: Build text-based model for organization climate&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

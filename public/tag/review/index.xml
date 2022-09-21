@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>review | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/review/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/review/index.xml" rel="self" type="application/rss+xml" />
+    <description>review</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>review</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/review/</link>
+    </image>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Objective: To estimate the proportion of healthcare interventions tested within Cochrane Reviews that are effective according to high-quality evidence.&lt;/p&gt;
+&lt;p&gt;Methods: We selected a random sample of 2,428 (35%) of all Cochrane Reviews published between 1 January 2008 and 5 March 2021. We extracted data about interventions within these reviews that were compared with placebo, or no treatment, and whose outcome quality was rated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. We calculated the proportion of interventions whose benefits were based on high-quality evidence (defined as having high quality GRADE rating for at least one primary outcome, statistically significant positive results, and being judged by review authors as effective. We also calculated the proportion of interventions that suggested harm.&lt;/p&gt;
+&lt;p&gt;Results: Of 1,567 eligible interventions, 87 (5.6%) had high-quality evidence supporting their benefits. Harms were measured for 577 (36.8%) interventions. There was statistically significant evidence for harm in 127 (8.1%) of these. Our dependence on the reliability of Cochrane author assessments (including their GRADE assessments) was the main potential limitation of our study.&lt;/p&gt;
+&lt;p&gt;Conclusion: More than 9 in 10 healthcare interventions studied within recent Cochrane Reviews are not supported by high-quality evidence, and harms are under-reported.&lt;/p&gt;
+&lt;p&gt;Keywords: Epidemiology; Evidence; Harm; Quality; Safety; Systematic review.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The above figure does NOT appear in the final article.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

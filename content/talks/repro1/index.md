@@ -10,6 +10,7 @@ tags:
 - machine-learning
 title: "Reproducible paper writing: Some practical recommendations"
 url_slides: "https://sebastiansauer-academic.netlify.app/uploads/Repro_Writing.pdf"
+url_code: "https://github.com/sebastiansauer/talk_repro_writing_DGPs_2016"
 
 ---
 

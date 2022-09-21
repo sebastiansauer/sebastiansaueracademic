@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blitz | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/blitz/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/blitz/index.xml" rel="self" type="application/rss+xml" />
+    <description>blitz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>blitz</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/blitz/</link>
+    </image>
+    
+    <item>
+      <title>R-Blitzkurs</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</guid>
+      <description>&lt;p&gt;R ist die führende Software für Datenanalyse und insofern Eintrittskarte in das Datenzeitalter. Sie würden gerne R kennenlernen, aber das kostet Sie zu viel Zeit? Dann kommen Sie zum R-Blitzkurs! In 60 Minuten lernen Sie zentrale Schritte der Datenanalyse. OK, vielleicht reicht die Zeit auch nur für einen ersten Eindruck - aber der erste Schritt ist der wichtigste. Aus dem Inhalt: Daten importieren in R, deskriptive Statistiken erstellen, Diagramme erzeugen, Daten und Ergebnisse exportieren, inferenzstatistische Tests durchführen. Sie brauchen keine Software vorab installieren; im Kurs wird Ihnen eine Online-Version von R bereitgestellt (kostenlos). Es ist aber nötig, sich ein Konto dafür vorab anzulegen, bitte lesen Sie die Details in der Kursbeschreibung.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

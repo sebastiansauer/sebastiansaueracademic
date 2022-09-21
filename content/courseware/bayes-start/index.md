@@ -11,7 +11,7 @@ tags:
 - statistics
 - inference
 - course
-title: Bayes:Start
+title: "Bayes:Start"
 url_code: "https://sebastiansauer.github.io/bayes-start/"
 url_pdf: ""
 url_slides: "https://sebastiansauer.github.io/bayes-start/#skript-schnell"
