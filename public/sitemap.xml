@@ -4,13 +4,27 @@
   
   
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/bayes/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/course/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/courseware/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/inference/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/r/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/statistics/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tags/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/talks/causal3/</loc><lastmod>2022-09-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/causal/</loc><lastmod>2022-09-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/</loc><lastmod>2022-09-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tags/</loc><lastmod>2022-09-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/talks/</loc><lastmod>2022-09-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -18,21 +32,13 @@
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/publication-type/2/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/bayes/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/course/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/courseware/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/epidemiology/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/inference/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -54,13 +60,9 @@
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/publication/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/r/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/review/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/statistics/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -201,6 +203,22 @@
     <loc>https://sebastiansauer-academic.netlify.app/courseware/handson/</loc><lastmod>2018-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/tidyverse/</loc><lastmod>2018-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/data-science/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/human-computer-interaction/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/neuro/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/talks/populism1/</loc><lastmod>2018-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

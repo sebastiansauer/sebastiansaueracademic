@@ -5,12 +5,21 @@
     <link>https://sebastiansauer-academic.netlify.app/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Sauer Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>Sebastian Sauer Academic</title>
       <link>https://sebastiansauer-academic.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>Start:Bayes!</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</guid>
+      <description>&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Acting Data-Driven - But How?</title>
@@ -87,7 +96,7 @@ Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42
     </item>
     
     <item>
-      <title>Bayes:Start</title>
+      <title>Covid ICU</title>
       <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
@@ -344,6 +353,22 @@ betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodel
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Prediction of User Performance based on Pupillary Assessment via Eye Tracking</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We propose a method to predict user performance based on eye-tracking. The method uses eye-tracking-based pupillometry to capture pupil diameter data and calculates—based on a Random Forest algorithm—user performance expectations. We conducted a large-scale experimental evaluation (125 participants aged from 21 to 61 years) and found promising results that pave the way for a dynamic real-time adaption of IT to a user’s mental effort and expected user performance. We have already achieved a good classification accuracy of user performance after only 40 seconds (5% of the mean total trial time that our participants took to complete our experiment). The non-invasive contact-free method can be applied cost-efficiently both in research and practical environments.&lt;/p&gt;
+&lt;p&gt;Keywords: NeuroIS, user performance, mental effort, pupillometry, eye-tracking, Random Forest.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This paper was awared with an Best Paper Award
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>

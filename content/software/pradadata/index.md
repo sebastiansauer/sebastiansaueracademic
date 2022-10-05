@@ -8,6 +8,7 @@ summary: Collection of diverse data set for free use
 tags:
 - data
 title: R-package pradadata
+url_code: "https://github.com/sebastiansauer/pradadata"
 
 ---
 
