@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 74
+weight: 20
 
 title: Books 
 subtitle: 'Print and Online-Books'

@@ -31,6 +31,21 @@
     </item>
     
     <item>
+      <title>Data Science 2</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
+      <description>&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
+&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
+&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
+&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Videosammlung</title>
       <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>

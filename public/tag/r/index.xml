@@ -70,6 +70,21 @@
     </item>
     
     <item>
+      <title>Data Science 2</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
+      <description>&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
+&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
+&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
+&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Covid ICU</title>
       <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
@@ -225,14 +240,14 @@ betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodel
     <item>
       <title>Real-time Prediction of User Performance based on Pupillary Assessment via Eye Tracking</title>
       <link>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</guid>
       <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We propose a method to predict user performance based on eye-tracking. The method uses eye-tracking-based pupillometry to capture pupil diameter data and calculates—based on a Random Forest algorithm—user performance expectations. We conducted a large-scale experimental evaluation (125 participants aged from 21 to 61 years) and found promising results that pave the way for a dynamic real-time adaption of IT to a user’s mental effort and expected user performance. We have already achieved a good classification accuracy of user performance after only 40 seconds (5% of the mean total trial time that our participants took to complete our experiment). The non-invasive contact-free method can be applied cost-efficiently both in research and practical environments.&lt;/p&gt;
 &lt;p&gt;Keywords: NeuroIS, user performance, mental effort, pupillometry, eye-tracking, Random Forest.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    This paper was awared with an Best Paper Award
+    This paper was awarded in 2018 with an Best Paper Award by the Journal &lt;a href=&#34;https://aisel.aisnet.org/thci/awards.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transactions of Human-Computer Interaction&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

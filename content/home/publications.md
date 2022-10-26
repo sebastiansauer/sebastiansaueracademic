@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 10
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'See my Google Scholar profile for a full list'
 
 content:
   # Filter on criteria

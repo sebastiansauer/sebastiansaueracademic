@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Software 
-subtitle: ''
+subtitle: 'mostly R'
 
 content:
   # Page type to display. E.g. project.

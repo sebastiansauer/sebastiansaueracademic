@@ -84,6 +84,8 @@
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/book/ds1/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/book/ds2/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/data-viz/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -200,29 +202,31 @@
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/book/modar/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/software/prada/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/handson/</loc><lastmod>2018-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/tidyverse/</loc><lastmod>2018-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/data-science/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/human-computer-interaction/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/neuro/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://sebastiansauer-academic.netlify.app/talks/populism1/</loc><lastmod>2018-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/talks/populism2/</loc><lastmod>2018-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/data-science/</loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/human-computer-interaction/</loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/neuro/</loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2018-03-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/exam/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
