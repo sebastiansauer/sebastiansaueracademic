@@ -6,11 +6,19 @@
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/bayes/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/book/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/course/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/book/ds2/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/datascience/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/inference/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/machinelearning/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/r/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -70,21 +78,13 @@
   <url>
     <loc></loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://sebastiansauer-academic.netlify.app/book/</loc><lastmod>2022-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/datascience/</loc><lastmod>2022-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://sebastiansauer-academic.netlify.app/book/datenwerk/</loc><lastmod>2022-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/exercises/</loc><lastmod>2022-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/machinelearning/</loc><lastmod>2022-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/statitics/</loc><lastmod>2022-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/book/ds1/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/book/ds2/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -108,19 +108,33 @@
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/fopra/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/didaktik/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/research/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/tag/teaching/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/qm1/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/unterrichtsorganisation/</loc><lastmod>2021-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/gruppe/</loc><lastmod>2021-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/datenanalyse/</loc><lastmod>2021-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/openbookexam/</loc><lastmod>2021-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://sebastiansauer-academic.netlify.app/talks/quant-method/</loc><lastmod>2021-06-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://sebastiansauer-academic.netlify.app/teaching/seminararbeit/</loc><lastmod>2021-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/datawrangling/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/tag/survey/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://sebastiansauer-academic.netlify.app/tag/teaching/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

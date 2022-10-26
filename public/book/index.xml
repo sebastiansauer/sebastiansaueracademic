@@ -5,12 +5,27 @@
     <link>https://sebastiansauer-academic.netlify.app/book/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/book/index.xml" rel="self" type="application/rss+xml" />
     <description>Books</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>Books</title>
       <link>https://sebastiansauer-academic.netlify.app/book/</link>
     </image>
+    
+    <item>
+      <title>Data Science 2</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
+      <description>&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
+&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
+&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
+&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Datenwerk</title>
@@ -27,21 +42,6 @@
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
       <description>&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Science 2</title>
-      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
-      <description>&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
-&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
-&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
-&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

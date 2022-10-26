@@ -1,0 +1,33 @@
+---
+date: "2021-07-01"
+# external_link: "https://sebastiansauer.github.io/datascience1/"
+image:
+  caption: Title Cover by Sebastian Sauer
+  focal_point: Smart
+summary: 'Hinweise zur Prüfungsform "Datenanalyse"'
+
+tags:
+- teaching
+
+output: github_document
+
+title: 'Hinweise zur Prüfungsform "Datenanalyse"'
+url_code: "https://github.com/sebastiansauer/Lehre"
+
+---
+
+
+
+
+
+
+
+```{r hinweise-unterricht, results='asis', echo = FALSE}
+url <- "https://raw.githubusercontent.com/sebastiansauer/Lehre/main/Hinweise/Hinweise-Pruefung-Datenanalyse-Child.Rmd"
+childtext <- readLines(url)
+
+cat(childtext, sep="\n")
+```
+
+
+

@@ -1,4 +1,4 @@
-  ---
+---
 bio: My research interests include applying statistics and machine learning to psychological phenomena such as mindfulness and learning behavior.
 education:
   courses:
