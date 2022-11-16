@@ -1,6 +1,6 @@
 ---
 date: "2018-01-01"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
+# external_link: "https://sebastiansauer.github.io/textbausteine-korrektur/Textbausteine-Korrektur.html"
 image:
   caption: Title Cover 
   focal_point: Smart
@@ -12,10 +12,14 @@ tags:
 title: Textbausteine zur Korrektur
 url_code: "https://github.com/sebastiansauer/textbausteine-korrektur"
 url_pdf: "https://sebastiansauer.github.io/textbausteine-korrektur/Textbausteine-Korrektur.html"
-
+url_slides: "https://sebastiansauer.github.io/textbausteine-korrektur/Textbausteine-Korrektur.html"
 ---
 
-In diesem Repositorium finden sich Textbausteine, die zur Korrektur von studentischen Seminar- und Abschlussarbeiten verwendet werden können.
+
+[Textbausteine zur Beurteilung von Seminar- und Abschlussarbeiten](https://sebastiansauer.github.io/textbausteine-korrektur/Textbausteine-Korrektur.html)
+
+In [diesem Repositorium](https://github.com/sebastiansauer/textbausteine-korrektur) finden sich Textbausteine, die zur Korrektur von studentischen Seminar- und Abschlussarbeiten verwendet werden können.
+[Hier](https://sebastiansauer.github.io/textbausteine-korrektur/Textbausteine-Korrektur.html) geht's zur Homepage des Projekts.
 
 Die Textbausteine sind primär dazu gedacht, wissenschaftliche Arbeiten in der Psychologie zu bewerten.
 
