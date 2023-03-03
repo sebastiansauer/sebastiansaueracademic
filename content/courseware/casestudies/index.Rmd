@@ -1,0 +1,69 @@
+---
+date: "2023-03-33"
+
+image:
+  caption: Title Cover by Martha Sauer
+  focal_point: Smart
+summary: Case studies on data analysis, in German and English, mostly related to introductory statistics courses I taught
+tags:
+- R
+- causal
+- statistics
+- research
+- course
+- machinelearning
+- datascience
+title: Case studies
+---
+
+A case study on data analysis is sometimes dubbed "YACSDA", as for "Yet Another Case Study on Data Analysis".
+Well, here's my curated list of YACSDAs. 
+The indented audience is students are aspiring data analysts/scientists.
+
+All case studies are using R as the computational environment and are open eductational resource materials.
+That implies that all YACSDAs are reproducible (for the most part).
+
+
+## Explorative Data analysis
+
+
+```{r child1, results='asis', echo = FALSE}
+url <- "https://raw.githubusercontent.com/sebastiansauer/Lehre/main/Material/yacsdas-EDA.md"
+childtext <- readLines(url)
+cat(childtext, sep="\n")
+```
+
+
+
+
+
+
+
+
+## Linear models
+
+
+
+
+```{r child2, results='asis', echo = FALSE}
+url <- "https://raw.githubusercontent.com/sebastiansauer/Lehre/main/Material/yacsdas-lm.md"
+childtext <- readLines(url)
+cat(childtext, sep="\n")
+```
+
+
+
+## Machine Learning
+
+
+```{r child3, results='asis', echo = FALSE}
+url <- "https://raw.githubusercontent.com/sebastiansauer/Lehre/main/Material/yacsdas-tidymodels.md"
+childtext <- readLines(url)
+cat(childtext, sep="\n")
+```
+
+
+
+
+
+

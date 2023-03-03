@@ -1,0 +1,1516 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Sebastian Sauer" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Case studies on data analysis, in German and English, mostly related to introductory statistics courses I taught" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://sebastiansauer-academic.netlify.app/courseware/casestudies/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://sebastiansauer-academic.netlify.app/courseware/casestudies/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@sauer_sebastian" />
+    <meta property="twitter:creator" content="@sauer_sebastian" />
+  
+  <meta property="og:site_name" content="Sebastian Sauer Academic" />
+  <meta property="og:url" content="https://sebastiansauer-academic.netlify.app/courseware/casestudies/" />
+  <meta property="og:title" content="Case studies | Sebastian Sauer Academic" />
+  <meta property="og:description" content="Case studies on data analysis, in German and English, mostly related to introductory statistics courses I taught" /><meta property="og:image" content="https://sebastiansauer-academic.netlify.app/courseware/casestudies/featured.jpg" />
+    <meta property="twitter:image" content="https://sebastiansauer-academic.netlify.app/courseware/casestudies/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+    
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Case studies | Sebastian Sauer Academic</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="0f82aee5c0914099e8eb936056935fbd" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Sebastian Sauer Academic</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Sebastian Sauer Academic</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://data-se.netlify.app/" target="_blank" rel="noopener"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#books"><span>Books</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#courseware"><span>Courseware</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#software"><span>Software</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Case studies</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 283px; max-height: 378px;">
+  <div style="position: relative">
+    <img src="/courseware/casestudies/featured_huc2dc475ad98853b0622d7d7053626136_20466_720x2500_fit_q75_h2_lanczos.webp" width="283" height="378" alt="" class="featured-image">
+    <span class="article-header-caption">Title Cover by Martha Sauer</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+<p>A case study on data analysis is sometimes dubbed “YACSDA”, as for “Yet Another Case Study on Data Analysis”.
+Well, here’s my curated list of YACSDAs.
+The indented audience is students are aspiring data analysts/scientists.</p>
+<p>All case studies are using R as the computational environment and are open eductational resource materials.
+That implies that all YACSDAs are reproducible (for the most part).</p>
+<div id="explorative-data-analysis" class="section level2">
+<h2>Explorative Data analysis</h2>
+<p><strong>FALLSTUDIEN - NUR EXPLORATIVE DATENANALYSE</strong></p>
+<ul>
+<li><p><a href="https://allisonhorst.shinyapps.io/dplyr-learnr/#section-welcome">Datenjudo mit Pinguinen</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/02/24/exercises-to-data-wrangling-with-the-tidyverse/">Data-Wranglinng-Aufgaben zur Lebenserwartung</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/">Case study: data vizualization on flight delays using tidyverse tools</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2020/12/07/ex-visualizing-diamonds/">Aufgabe zur Datenvisualisierung des Diamantenpreises</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/03/08/eda-zu-flugversp%C3%A4tungen/">Fallstudie Flugverspätungen - EDA</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/02/11/yacda-topgear/">Fallstudie zur EDA: Top-Gear</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/02/11/explorative-datenanalyse-zum-datensatz-oecd-wellbeing/">Fallstudie zur EDA: OECD-Wellbeing-Studie</a></p></li>
+<li><p><a href="https://minimaxir.com/2018/07/imdb-data-analysis/">Fallstudie zur EDA: Movie Rating</a></p></li>
+<li><p><a href="https://github.com/saghirb/WiP-tidyverse/blob/master/doc/WiP-tidyverse.pdf">Fallstudie zur EDA: Women in Parliament</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/05/27/datensatz-flights-finde-den-tag-mit-den-meisten-abfl%C3%BCgen/">Finde den Tag mit den meisten Flugverspätungen, Datensatz ‘nycflights13’</a></p></li>
+<li><p><a href="http://varianceexplained.org/r/tidy-genomics/">Cleaning and visualizing genomic data: a case study in tidy analysis</a></p></li>
+<li><p><a href="https://www.njtierney.com/post/2017/11/07/tidyverse-billboard/">Tidyverse Case Study: Exploring the Billboard Charts</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/11/27/analyse-der-rki-coronadaten/">Analyse einiger RKI-Coronadaten: Eine reproduzierbare Fallstudie</a></p></li>
+<li><p><a href="https://www.opencasestudies.org/casestudies/ocs-healthexpenditure.html">OpenCaseStudies - Health Expenditure</a></p></li>
+<li><p><a href="https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard/#Motivation">Open Case Studies: School Shootings in the United States</a> - includes dashboards</p></li>
+<li><p><a href="https://www.opencasestudies.org/ocs-bp-youth-disconnection/">Open Case Studies: Disparities in Youth Disconnection</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/05/28/yacsda-seitenspr%C3%BCnge/">YACSDA Seitensprünge</a></p></li>
+<li><p><a href="https://www.opencasestudies.org/">The Open Case Study Search</a> provides a nice collection of helpful case studies.</p></li>
+<li><p><a href="https://fallstudien.netlify.app/">ifes@FOM Fallstudienseite</a></p></li>
+</ul>
+</div>
+<div id="linear-models" class="section level2">
+<h2>Linear models</h2>
+<p><strong>FALLSTUDIEN - NUR LINEARE MODELLE</strong></p>
+<ul>
+<li><p><a href="https://youtu.be/5pBTHrnRIZY">Beispiel für Prognosemodellierung 1, grundlegender Anspruch, Video</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2020/11/13/fallstudie-zur-regressionsanalyse-ggplot2movies/">Beispiel für Ihre Prognosemodellierung 2, mittlerer Anspruch</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/03/10/fallstudie-modellierung-von-flugversp%C3%A4tungen/">Beispiel für Ihre Prognosemodellierung 3, hoher Anspruch</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/03/10/fallstudie-modellierung-von-flugversp%C3%A4tungen/">Fallstudie: Modellierung von Flugverspätungen</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/02/24/modelling-movie-successes-linear-regression/">Modelling movie successes: linear regression</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2020/11/13/fallstudie-zur-regressionsanalyse-ggplot2movies/">Movies</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/ssauer/tmdb-simple-regression-beginners">Fallstudie Einfache lineare Regression in Base-R, Anfängerniveau, Kaggle-Competition TMDB</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2022/05/02/fallstudie-spritverbrauch/">Fallstudie Sprit sparen</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/saikatkumardey/linear-regression-case-study/notebook">Fallstudie zum Beitrag verschiedener Werbeformate zum Umsatz</a>; eine Fallstudie in Python, aber mit etwas Erfahrung wird man den Code einfach in R umsetzen können (wenn man nicht in Python schreiben will)</p></li>
+<li><p><a href="https://www.linkedin.com/pulse/practical-linear-regression-r-case-study-diamond-prices-valdeleon/?trk=public_profile_article_view">Practical Linear Regression with R: A case study on diamond prices</a></p></li>
+<li><p><a href="https://stat-ata-asu.github.io/MultipleAndLogisticRegression/case-study-italian-restaurants-in-nyc.html">Case Study: Italian restaurants in NYC</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/05/19/vohrersgage-modellierung-des-preises-von-diamanten/">Vorhersage-Modellierung des Preises von Diamanten</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2021/05/25/modellierung-diamantenpreis-2/">Modellierung Diamantenpreis 2</a></p></li>
+</ul>
+</div>
+<div id="machine-learning" class="section level2">
+<h2>Machine Learning</h2>
+<p><strong>FALLSTUDIEN - MASCHINELLES LERNEN MIT TIDYMODELS</strong></p>
+<ul>
+<li><p><a href="https://www.r-bloggers.com/2021/08/experimenting-with-machine-learning-in-r-with-tidymodels-and-the-kaggle-titanic-dataset/">Experimenting with machine learning in R with tidymodels and the Kaggle titanic dataset</a></p></li>
+<li><p><a href="https://hansjoerg.me/2020/02/09/tidymodels-for-machine-learning/">Tutorial on tidymodels for Machine Learning</a></p></li>
+<li><p><a href="https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/">Classification with Tidymodels, Workflows and Recipes</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/varimp/a-mostly-tidyverse-tour-of-the-titanic/report">A (mostly!) tidyverse tour of the Titanic</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/headsortails/personalised-medicine-eda-with-tidy-r/report">Personalised Medicine - EDA with tidy R</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/headsortails/tidy-titarnic/report">Tidy TitaRnic</a></p></li>
+<li><p><a href="https://www.tidymodels.org/start/models/">Fallstudie Seegurken</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/student-debt/">Sehr einfache Fallstudie zur Modellierung einer Regression mit tidymodels</a></p></li>
+<li><p><a href="https://www.gmudatamining.com/lesson-10-r-tutorial.html">Fallstudie zur linearen Regression mit Tidymodels</a></p></li>
+<li><p><a href="https://github.com/sebastiansauer/covid-icu">Analyse zum Verlauf von Covid-Fällen</a></p></li>
+<li><p><a href="https://onezero.blog/modelling-binary-logistic-regression-using-tidymodels-library-in-r-part-1/">Fallstudie zur Modellierung einer logististischen Regression mit tidymodels</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/multinomial-volcano-eruptions/">Fallstudie zu Vulkanausbrüchen</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/himalayan-climbing/">Fallstudie Himalaya</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/tuition-resampling/">Fallstudien zu Studiengebühren</a></p></li>
+<li><p><a href="https://www.tidymodels.org/start/case-study/">1. Modell der Fallstudie Hotel Bookings</a></p></li>
+<li><p><a href="https://github.com/sebastiansauer/datascience1/blob/main/Aufgaben/Thema8-Loesungen1.pdf">Aufgaben zur logistischen Regression, PDF</a></p></li>
+<li><p><a href="https://bcullen.rbind.io/post/2020-06-02-tidymodels-decision-tree-learning-in-r/">Fallstudie Oregon Schools</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/wind-turbine/">Fallstudie Windturbinen</a></p></li>
+<li><p><a href="https://www.gmudatamining.com/lesson-13-r-tutorial.html">Fallstudie Churn</a></p></li>
+<li><p><a href="https://data-se.netlify.app/2020/12/14/titanic-tidymodels-boost/">Einfache Durchführung eines Modellierung mit XGBoost</a></p></li>
+<li><p><a href="https://bcullen.rbind.io/post/2020-06-02-tidymodels-decision-tree-learning-in-r/">Fallstudie Oregon Schools</a></p></li>
+<li><p><a href="https://www.gmudatamining.com/lesson-13-r-tutorial.html">Fallstudie Churn</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/ikea-prices/">Fallstudie Ikea</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/water-sources/">Fallstudie Wasserquellen in Sierra Leone</a></p></li>
+<li><p><a href="https://dev.to/juliasilge/tuning-random-forest-hyperparameters-in-r-with-tidytuesday-trees-data-4ilh">Fallstudie Bäume in San Francisco</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/multinomial-volcano-eruptions/">Fallstudie Vulkanausbrüche</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/board-games/">Fallstudie Brettspiele mit XGBoost</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/lasso-the-office/">Fallstudie Serie The Office</a></p></li>
+<li><p><a href="https://juliasilge.com/blog/nber-papers/">Fallstudie NBER Papers</a></p></li>
+<li><p><a href="https://www.kaggle.com/ssauer/simple-linear-model-tidymodels">Fallstudie Einfache lineare Regression mit Tidymodels, Kaggle-Competition TMDB</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/ssauer/simple-rf-tuned">Fallstudie Einfaches Random-Forest-Modell mit Tidymodels, Kaggle-Competition TMDB</a></p></li>
+<li><p><a href="https://www.kaggle.com/ssauer/tmdb-xgboost-tidymodels">Fallstudie Workflow-Set mit Tidymodels, Kaggle-Competition TMDB</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/modesty520/a-tutorial-with-tidymodels/report#modeling">Fallstudie Titanic mit Tidymodels bei Kaggle</a></p></li>
+<li><p><a href="https://www.kaggle.com/code/benthecoder/tidymodels-in-r-using-measles-data/notebook">Einfache Fallstudie mit Tidymodels bei Kaggle</a></p></li>
+<li><p><a href="https://www.r-bloggers.com/2021/04/exploring-the-star-wars-prequel-renaissance-using-tidymodels-and-workflowsets/">Exploring the Star Wars “Prequel Renaissance” Using tidymodels and workflowsets</a></p></li>
+</ul>
+</div>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/r/">R</a>
+  
+  <a class="badge badge-light" href="/tag/causal/">causal</a>
+  
+  <a class="badge badge-light" href="/tag/statistics/">statistics</a>
+  
+  <a class="badge badge-light" href="/tag/research/">research</a>
+  
+  <a class="badge badge-light" href="/tag/course/">course</a>
+  
+  <a class="badge badge-light" href="/tag/machinelearning/">machinelearning</a>
+  
+  <a class="badge badge-light" href="/tag/datascience/">datascience</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://sebastiansauer-academic.netlify.app/courseware/casestudies/&amp;text=Case%20studies" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://sebastiansauer-academic.netlify.app/courseware/casestudies/&amp;t=Case%20studies" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Case%20studies&amp;body=https://sebastiansauer-academic.netlify.app/courseware/casestudies/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://sebastiansauer-academic.netlify.app/courseware/casestudies/&amp;title=Case%20studies" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Case%20studies%20https://sebastiansauer-academic.netlify.app/courseware/casestudies/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://sebastiansauer-academic.netlify.app/courseware/casestudies/&amp;title=Case%20studies" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://sebastiansauer-academic.netlify.app/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu2710d0311f26018885fba4812b0a063b_2467300_270x270_fill_q75_lanczos_center.jpg" alt="Sebastian Sauer"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://sebastiansauer-academic.netlify.app/">Sebastian Sauer</a></h5>
+      <h6 class="card-subtitle">Professor of Data Science</h6>
+      <p class="card-text">My research interests include applying statistics and machine learning to psychological phenomena such as mindfulness and learning behavior.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/sauer_sebastian" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.de/citations?user=r-2ssnAAAAAJ&amp;hl=de" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/sebastiansauer" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/dr-sebastian-sauer-4791762/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.3239609ca7abe02ed52d76ffcb22af1d.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+</body>
+</html>
