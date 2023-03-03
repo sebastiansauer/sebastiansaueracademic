@@ -4,7 +4,7 @@ date: "2021-10-01"
 image:
   caption: Title Cover by Allison Horst
   focal_point: Smart
-summary: Statistik1: Die Grundlagen der Statistik mit einem Schwerpunkt auf Modellierung
+summary: "Statistik1: Die Grundlagen der Statistik mit einem Schwerpunkt auf Modellierung"
 tags:
 - R
 - bayes

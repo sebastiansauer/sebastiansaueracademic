@@ -92,6 +92,28 @@
     </item>
     
     <item>
+      <title>Statistik1</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</guid>
+      <description>&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
+&lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
+&lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
+Anders gesagt: Sie lernen wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
+Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;.^[Darauf der Studenti: &amp;ldquo;Hpmf.&amp;rdquo;].
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft. Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
+Wir wollen aber belastbare Vorhersagen und zumindest wissen,
+wie gut die Vorhersagen bisher waren.&lt;/p&gt;
+&lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
+&lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
+&lt;h2 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h2&gt;
+&lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
+&lt;h2 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h2&gt;
+&lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vorhersagemodellierung</title>
       <link>https://sebastiansauer-academic.netlify.app/courseware/qm1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
