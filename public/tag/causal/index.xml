@@ -5,12 +5,22 @@
     <link>https://sebastiansauer-academic.netlify.app/tag/causal/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/tag/causal/index.xml" rel="self" type="application/rss+xml" />
     <description>causal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>causal</title>
       <link>https://sebastiansauer-academic.netlify.app/tag/causal/</link>
     </image>
+    
+    <item>
+      <title>Forschungsprojekt in Psychologie (2023 edition)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopro/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopro/</guid>
+      <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Acting Data-Driven - But How?</title>
@@ -39,20 +49,21 @@ Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42
     </item>
     
     <item>
+      <title>Forschungspraktikum in Psychologie (2022 edition)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Intro to Causality 2: How to interpret observational studies causally</title>
       <link>https://sebastiansauer-academic.netlify.app/talks/causal2/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/talks/causal2/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Forschungspraktikum in Psychologie</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
-      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
-</description>
     </item>
     
     <item>

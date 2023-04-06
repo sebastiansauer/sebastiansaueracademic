@@ -1,20 +1,20 @@
 ---
-date: "2022-03-01"
+date: "2023-03-01"
 
 image:
   caption: Title Cover by Image Flip Memes (65rf1d)
   focal_point: Smart
-summary: Learning early research in Psychology  (German)
+summary: Forschungsprojekt (Research Project, German)
 tags:
 - R
 - causal
 - statistics
 - research
 - course
-title: Forschungspraktikum in Psychologie (2022 edition)
+title: Forschungsprojekt in Psychologie (2023 edition)
 url_code: "https://github.com/sebastiansauer/fopra"
 url_pdf: ""
-url_slides: "https://github.com/sebastiansauer/fopra/tree/main/Skript-Folien"
+url_slides: "https://fopro.netlify.app/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 

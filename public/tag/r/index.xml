@@ -5,12 +5,44 @@
     <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>R</title>
       <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
     </image>
+    
+    <item>
+      <title>Forschungsprojekt in Psychologie (2023 edition)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopro/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopro/</guid>
+      <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistik1</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</guid>
+      <description>&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
+&lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
+&lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
+Anders gesagt: Sie lernen wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
+Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;.^[Darauf der Studenti: &amp;ldquo;Hpmf.&amp;rdquo;].
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft. Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
+Wir wollen aber belastbare Vorhersagen und zumindest wissen,
+wie gut die Vorhersagen bisher waren.&lt;/p&gt;
+&lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
+&lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
+&lt;h2 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h2&gt;
+&lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
+&lt;h2 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h2&gt;
+&lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Science 2</title>
@@ -97,6 +129,16 @@
     </item>
     
     <item>
+      <title>Forschungspraktikum in Psychologie (2022 edition)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
       <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
@@ -135,15 +177,6 @@
     </item>
     
     <item>
-      <title>Forschungspraktikum in Psychologie</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
-      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>R-Blitzkurs</title>
       <link>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
@@ -153,32 +186,10 @@
     </item>
     
     <item>
-      <title>Statistik1</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</guid>
-      <description>&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
-&lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
-&lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
-Anders gesagt: Sie lernen wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
-Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;.^[Darauf der Studenti: &amp;ldquo;Hpmf.&amp;rdquo;].
-Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft. Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
-Wir wollen aber belastbare Vorhersagen und zumindest wissen,
-wie gut die Vorhersagen bisher waren.&lt;/p&gt;
-&lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
-&lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
-&lt;h2 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h2&gt;
-&lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
-&lt;h2 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h2&gt;
-&lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Vorhersagemodellierung</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/qm1/</link>
+      <link>https://sebastiansauer-academic.netlify.app/book/qm1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/qm1/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/book/qm1/</guid>
       <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
 </description>
     </item>
