@@ -14,15 +14,16 @@
     
     <item>
       <title>Statistik1</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</link>
+      <link>https://sebastiansauer-academic.netlify.app/book/statistik1/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/statistik1/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/book/statistik1/</guid>
       <description>&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
 &lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
 &lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
-Anders gesagt: Sie lernen wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
-Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;.^[Darauf der Studenti: &amp;ldquo;Hpmf.&amp;rdquo;].
-Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft. Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
+Anders gesagt: Sie lernen, wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
+Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;. ([Darauf dis Studenti: &amp;ldquo;Hpmf.&amp;rdquo;].
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft.
+Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
 Wir wollen aber belastbare Vorhersagen und zumindest wissen,
 wie gut die Vorhersagen bisher waren.&lt;/p&gt;
 &lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
@@ -114,9 +115,9 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Vorhersagemodellierung</title>
+      <title>Vorhersagemodellierung (2021)</title>
       <link>https://sebastiansauer-academic.netlify.app/book/qm1/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/book/qm1/</guid>
       <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose: Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen. Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist. Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit. Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung; der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
 </description>

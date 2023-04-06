@@ -23,9 +23,10 @@ url_slides: "https://statistik1.netlify.app/"
 ### Was lerne ich hier?
 
 Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage. 
-Anders gesagt: Sie lernen wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt "Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?".
-Darauf Ihre Antwort: "Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!".^[Darauf der Studenti: "Hpmf."].
-Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft. Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen. 
+Anders gesagt: Sie lernen, wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt "Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?".
+Darauf Ihre Antwort: "Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!". ([Darauf dis Studenti: "Hpmf."].
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft. 
+Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen. 
 Wir wollen aber belastbare Vorhersagen und zumindest wissen,
 wie gut die Vorhersagen bisher waren.
 

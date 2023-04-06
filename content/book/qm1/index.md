@@ -1,6 +1,5 @@
 ---
-date: "2021-10-01"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
+date: "2021-03-01"
 image:
   caption: Title Cover by Allison Horst
   focal_point: Smart
@@ -11,7 +10,7 @@ tags:
 - statistics
 - inference
 - course
-title: Vorhersagemodellierung
+title: Vorhersagemodellierung (2021)
 url_code: "https://sebastiansauer.github.io/vorhersagemodellierung"
 url_pdf: ""
 url_slides: "https://sebastiansauer.github.io/vorhersagemodellierung/index.html#themen"
