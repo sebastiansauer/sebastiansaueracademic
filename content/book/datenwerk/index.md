@@ -24,6 +24,6 @@ url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 
 
-Willkomen beim Datenwerk: Eine Aufgabensammlung zur Datenanalyse
+Willkomen beim [Datenwerk](https://datenwerk.netlify.app/): Eine Aufgabensammlung zur Datenanalyse
 
 
