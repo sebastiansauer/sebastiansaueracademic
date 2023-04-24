@@ -1,0 +1,18 @@
+Emotionsdetektion in Textdaten
+
+
+Emotionsdetektion als ein Teilbereich des Natural Language Procesing versucht mit Hilfe von Methode v.a. des maschinellen Lernens, 
+Emotionen, Stimmungen, Affekte oder stimmungsgefärbte Meinungen aus Texten automasiert auszulesen.
+Emotionsdetektion ist in der Praxis z.B. das Marketing, etwa um auf Kunden adäquater reagieren zu können.
+Spezielle Bereiche der Emotionserkennung, wie Hate-Speech-Detektion, haben zunehmend Interesse erfahren, um etwa gruppenbezogener Aggression in sozialen Netzwerken wie Twitter besser entgegen treten zu können.
+Zur Emotionserkennung werden einfachere Algorithmen (z.b. baumbasierte Modelle) und komplexere wie verschiedene Varianten von neuronalen Netzwerken verwendet.
+Aufgrund der Komplexität und Kontextgebundenheit menschlicher Sprache ist es für Menschen und Computer nicht einfach, zuverlässig die Emotionen (der Autoren) von Texten zu erkennen. 
+Für erfolgreiche Prognose von Emotionen ist es oft nicht nur nötig, passende Algorithmen zu entwickeln, sondern die Datenvorverarbeitung (Feature Engineering und Featuire Selection) ist (vor allem außerhalb von neuronalen Netzen) von hoher Bedeutung.
+Neben der Analyse von Text kann es nützlich sein, Bildmaterial inkl. Emojis, das häufig Texten beigemengt ist (etwa in Social-Media-Posts) aus semantischen bzw. emotionalen Gehalt hin zu untersuchen und in die Analyse des Texts einfließen zu lassen.
+Daher ist es aus Sicht für die Praxis nötig, nicht nur Algorithmen bereitzustellen, sondern komplette Analyse-Workflows zu entwickeln und zugänglich zu machen, da nur auf dieser Basis für angewandte Forscher aus Wissenschaft und Praxis eine Teilhabe an neuen Erkenntnissen möglich ist.
+
+
+
+~                                                                                                                                                                                            
+~                                                                                                                                                                                            
+~                             
