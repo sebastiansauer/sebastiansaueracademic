@@ -1,18 +1,18 @@
 Emotionsdetektion in Textdaten
 
 
-Emotionsdetektion als ein Teilbereich des Natural Language Procesing versucht mit Hilfe von Methode v.a. des maschinellen Lernens, 
-Emotionen, Stimmungen, Affekte oder stimmungsgefärbte Meinungen aus Texten automasiert auszulesen.
-Emotionsdetektion ist in der Praxis z.B. das Marketing, etwa um auf Kunden adäquater reagieren zu können.
-Spezielle Bereiche der Emotionserkennung, wie Hate-Speech-Detektion, haben zunehmend Interesse erfahren, um etwa gruppenbezogener Aggression in sozialen Netzwerken wie Twitter besser entgegen treten zu können.
-Zur Emotionserkennung werden einfachere Algorithmen (z.b. baumbasierte Modelle) und komplexere wie verschiedene Varianten von neuronalen Netzwerken verwendet.
-Aufgrund der Komplexität und Kontextgebundenheit menschlicher Sprache ist es für Menschen und Computer nicht einfach, zuverlässig die Emotionen (der Autoren) von Texten zu erkennen. 
-Für erfolgreiche Prognose von Emotionen ist es oft nicht nur nötig, passende Algorithmen zu entwickeln, sondern die Datenvorverarbeitung (Feature Engineering und Featuire Selection) ist (vor allem außerhalb von neuronalen Netzen) von hoher Bedeutung.
-Neben der Analyse von Text kann es nützlich sein, Bildmaterial inkl. Emojis, das häufig Texten beigemengt ist (etwa in Social-Media-Posts) aus semantischen bzw. emotionalen Gehalt hin zu untersuchen und in die Analyse des Texts einfließen zu lassen.
-Daher ist es aus Sicht für die Praxis nötig, nicht nur Algorithmen bereitzustellen, sondern komplette Analyse-Workflows zu entwickeln und zugänglich zu machen, da nur auf dieser Basis für angewandte Forscher aus Wissenschaft und Praxis eine Teilhabe an neuen Erkenntnissen möglich ist.
+Emotionsdetektion als ein Teilbereich des Natural Language Processing versucht mit Hilfe von Methoden des maschinellen Lernens, 
+Emotionen, Sentimente oder emotionsgefärbte Meinungen aus Texten automatisiert zu erkennen.
+Dazu kommen überwachte, aber auch unüberwachte Methoden des maschinellen Lernens zum Einsatz.
+Emotionsdetektion ist in der Praxis z.B. das Marketing von Bedeutung, etwa um auf Kunden adäquater reagieren zu können.
+Spezielle Bereiche der Emotionserkennung, wie Hate-Speech-Detektion, haben zunehmend Interesse erfahren, um etwa gruppenbezogener Aggression in sozialen Netzwerken wie Twitter besser entgegentreten zu können.
+Zur Emotionserkennung werden einfachere Algorithmen (z.b. baumbasierte Modelle) und komplexere Algorithmen wie verschiedene Varianten von neuronalen Netzwerken verwendet.
+Aufgrund der Komplexität und Kontextgebundenheit menschlicher Sprache ist es für Menschen und Computer nicht einfach, zuverlässig Emotionen (der Autoren von Texten) zu erkennen. 
+Für eine erfolgreiche Prognose von Emotionen ist es oft nicht nur nötig, passende Algorithmen zu entwickeln, sondern die Datenvorverarbeitung (Feature Engineering und Feature Selection) ist (vor allem außerhalb von neuronalen Netzen) von hoher Bedeutung.
+Neben der Analyse von Text kann es nützlich sein, Bildmaterial inkl. Emojis (etwa in Social-Media-Posts) aus semantischen bzw. emotionalen Gehalt hin zu untersuchen und in die Analyse des Texts einfließen zu lassen.
+Daher ist es aus Sicht für die Praxis nötig, nicht nur Algorithmen bereitzustellen, sondern komplette Analyse-Workflows zu entwickeln und zugänglich zu machen, da nur auf dieser Basis für angewandte Forscher und Praktiker eine Teilhabe an neuen Erkenntnissen möglich ist.
+Ein Ziel dieser Forschung ist es, anderen Nutzern aus Wissenschaft und Praxis eine Vorlage eines Workflows zur Emotionsdetektion bereitzustellen.
+Um Nutzungshürden so gering wie möglich zu halten, kommen Open-Source-Werkzeuge (wie R) zum Einsatz; die Reproduzierbarkeit des Workflows wird ebenso sichergestellt wie einfache und kostengünstige Benutzbarkeit für andere Nutzer.~    
 
 
-
-~                                                                                                                                                                                            
-~                                                                                                                                                                                            
 ~                             

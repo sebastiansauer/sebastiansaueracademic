@@ -17,7 +17,12 @@
       <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
-      <description>&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;lernziele&#34;&gt;Lernziele&lt;/h2&gt;
+&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
 &lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
@@ -41,7 +46,13 @@
       <link>https://sebastiansauer-academic.netlify.app/book/ds1/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
-      <description>&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
 </description>
     </item>
     
@@ -61,7 +72,12 @@
       <link>https://sebastiansauer-academic.netlify.app/book/modar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/book/modar/</guid>
-      <description>&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://link.springer.com/book/10.1007/978-3-658-21587-3&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Moderne Datenanalyse mit R&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
 &lt;p&gt;Ziel ist es, Leser mit der Art und Weise vertraut zu machen, wie führende Organisationen und Praktiker angewandte Statistik heute einsetzen. Weil sich mit der Digitalisierung auch die statistischen Verfahren verändert haben, vermittelt der Autor neben klassischen Analysemethoden wie Regression auch moderne Methoden wie Textmining und Random-Forest-Modelle. Dabei sind die Inhalte des Buchs durchgehend so aufbereitet, dass sie auch für Leser ohne umfangreiche mathematische Vorkenntnisse verständlich sind. Anhand von Fallbeispielen und Übungen werden die Leser durch alle Phasen der Datenanalyse geführt: Sie lernen, wie Daten eingelesen, aufbereitet, visualisiert, modelliert und kommuniziert werden können. Dabei wird vor allem die Aufbereitung, Umformung und Prüfung der Daten ausführlicher als in anderen Publikationen behandelt, da dieser Teil in der Praxis oft einen wesentlichen Teil des Aufwands ausmacht. Aber auch die Visualisierung bekommt viel Raum, denn gute Diagramme ermöglichen Einblicke, die Zahlen und Worte verbergen.
 Mit seinem praxisorientierten Ansatz will das Buch dazu befähigen,
 alle grundlegenden Schritte eines Datenanalyseprojekts durchzuführen,

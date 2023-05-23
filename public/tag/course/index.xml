@@ -17,7 +17,13 @@
       <link>https://sebastiansauer-academic.netlify.app/courseware/fopro/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/fopro/</guid>
-      <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
 &lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
 </description>
     </item>
@@ -27,7 +33,10 @@
       <link>https://sebastiansauer-academic.netlify.app/book/statistik1/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/book/statistik1/</guid>
-      <description>&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://statistik1.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Statistik1&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
 &lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
 &lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
 Anders gesagt: Sie lernen, wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
@@ -50,7 +59,13 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
       <link>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</guid>
-      <description>&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://start-bayes.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Start: Bayes! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
 </description>
     </item>
     
@@ -80,7 +95,13 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
       <link>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</guid>
-      <description>&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
 </description>
     </item>
     

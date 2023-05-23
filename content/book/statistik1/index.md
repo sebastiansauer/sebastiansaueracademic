@@ -17,6 +17,13 @@ url_pdf: "https://statistik1.netlify.app/_book/statistik1.pdf"
 url_slides: "https://statistik1.netlify.app/"
 ---
   
+  
+ 
+
+  <button onclick="window.location.href='https://statistik1.netlify.app/';">
+     Hier geht's zum Buch "Statistik1"
+    </button>
+  
 
 ## Was lerne ich hier und wozu ist das gut?
 

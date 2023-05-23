@@ -18,9 +18,22 @@ tags:
 title: Data Science 2
 url_code: "https://github.com/sebastiansauer/datascience-text"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://datascience-text.netlify.app/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
+
+
+
+</br>
+
+  <button onclick="window.location.href='https://datascience-text.netlify.app/';">
+     Hier geht's zum Buch "Data Science - Analyse von Textdaten"
+    </button>
+
+
+## Lernziele
+
+
 
 Nach diesem Kurs sollten Sie …
 
