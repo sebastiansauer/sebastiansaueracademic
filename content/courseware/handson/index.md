@@ -19,4 +19,13 @@ url_slides: "https://data-se.netlify.app/slides/hands-on-data-exploration/handso
 
 
 
+</br>
+
+  <button onclick="window.location.href='https://data-se.netlify.app/slides/hands-on-data-exploration/handson-data-workshop_2018-11-21.html#1';">
+     Handson data exploration with the tidyverse in R
+    </button>
+
+
+
+</br>
 
