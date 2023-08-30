@@ -4,7 +4,7 @@ external_link: "https://stats-nutshell.netlify.app/"
 image:
   caption: Title Cover by Kjöl
   focal_point: Smart
-summary: Statistics in a nutshell: Introduction to Statistical Modelling
+summary: "Statistics in a nutshell: Introduction to Statistical Modelling"
 tags:
 - R
 - bayes

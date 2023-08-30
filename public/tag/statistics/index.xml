@@ -14,9 +14,9 @@
     
     <item>
       <title>Forschungsprojekt in Psychologie (2023 edition)</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/fopro/</link>
+      <link>https://sebastiansauer-academic.netlify.app/book/fopro/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopro/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/book/fopro/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
@@ -47,9 +47,9 @@ Wir wollen aber belastbare Vorhersagen und zumindest wissen,
 wie gut die Vorhersagen bisher waren.&lt;/p&gt;
 &lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
 &lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
-&lt;h2 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h2&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h3&gt;
 &lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
-&lt;h2 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h2&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h3&gt;
 &lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
 </description>
     </item>
@@ -74,9 +74,14 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
       <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://stats-nutshell.netlify.app/&#39;;&#34;&gt;
+     Statistics in a nutshell: Introduction to Statistical Modelling
+    &lt;/button&gt;
+&lt;/br&gt;
 &lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
 &lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -133,9 +138,9 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
     
     <item>
       <title>Bayes:Start</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</link>
+      <link>https://sebastiansauer-academic.netlify.app/book/bayes-start/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/book/bayes-start/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
      Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
@@ -185,7 +190,12 @@ der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie e
       <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
-      <description></description>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://data-se.netlify.app/slides/hands-on-data-exploration/handson-data-workshop_2018-11-21.html#1&#39;;&#34;&gt;
+     Handson data exploration with the tidyverse in R
+    &lt;/button&gt;
+&lt;/br&gt;
+</description>
     </item>
     
     <item>

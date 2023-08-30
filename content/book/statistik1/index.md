@@ -1,6 +1,6 @@
 ---
 date: "2023-03-01"
-# external_link: "https://statistik1.netlify.app/"
+external_link: "https://statistik1.netlify.app/"
 image:
   caption: Title Cover by Allison Horst
   focal_point: Smart
@@ -42,11 +42,11 @@ wie gut die Vorhersagen bisher waren.
 
 Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.
 
-## Wozu brauche ich das im Job?
+### Wozu brauche ich das im Job?
 
 Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.
 
-## Wozu brauche ich das im weiterem Studium?
+### Wozu brauche ich das im weiterem Studium?
 
 In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.
 

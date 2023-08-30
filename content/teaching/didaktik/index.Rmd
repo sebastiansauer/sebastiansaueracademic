@@ -1,6 +1,6 @@
 ---
 date: "2021-10-01"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
+external_link: "https://sebastiansauer.github.io/datascience1/"
 image:
   caption: Title Cover by Sebastian Sauer
   focal_point: Smart
@@ -21,7 +21,7 @@ url_code: "https://github.com/sebastiansauer/Lehre"
 
 
 ```{r hinweise-orga, results='asis', echo = FALSE}
-url <- "https://raw.githubusercontent.com/sebastiansauer/Lehre/main/Hinweise/Hinweise-Didaktik.Rmd"
+url <- "https://raw.githubusercontent.com/sebastiansauer/Lehre/main/Hinweise/Hinweise-Didaktik.qmd"
 childtext <- readLines(url)
 cat(childtext, sep="\n")
 ```

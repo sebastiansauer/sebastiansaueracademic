@@ -14,9 +14,9 @@
     
     <item>
       <title>Forschungsprojekt in Psychologie (2023 edition)</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/fopro/</link>
+      <link>https://sebastiansauer-academic.netlify.app/book/fopro/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopro/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/book/fopro/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
@@ -47,9 +47,9 @@ Wir wollen aber belastbare Vorhersagen und zumindest wissen,
 wie gut die Vorhersagen bisher waren.&lt;/p&gt;
 &lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
 &lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
-&lt;h2 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h2&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h3&gt;
 &lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
-&lt;h2 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h2&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h3&gt;
 &lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
 </description>
     </item>
@@ -139,17 +139,22 @@ Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42
       <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://stats-nutshell.netlify.app/&#39;;&#34;&gt;
+     Statistics in a nutshell: Introduction to Statistical Modelling
+    &lt;/button&gt;
+&lt;/br&gt;
 &lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
 &lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Datenwerk</title>
-      <link>https://sebastiansauer-academic.netlify.app/book/datenwerk/</link>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/book/datenwerk/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</guid>
       <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
 </description>
     </item>
@@ -230,9 +235,9 @@ Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42
     
     <item>
       <title>Bayes:Start</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</link>
+      <link>https://sebastiansauer-academic.netlify.app/book/bayes-start/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/book/bayes-start/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
      Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
@@ -251,47 +256,142 @@ Causal Inference Right: A Classification of Data Science Tasks CHANCE, 32(1), 42
       <description>
 
 
-&lt;div id=&#34;didaktik&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Didaktik&lt;/h2&gt;
 &lt;div id=&#34;grundlagen&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Grundlagen&lt;/h3&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Alle Lehrmaterialien stelle ich vor dem Unterricht online bereit&lt;/li&gt;
-&lt;li&gt;Alles prüfungsrelevante Material ist verschriftlicht&lt;/li&gt;
-&lt;li&gt;Die Prüfungsmodalitäten sind frühzeitig (schriftlich) bekannt gemacht&lt;/li&gt;
-&lt;li&gt;Jedes Modul ist auch ohne Besuchen des Unterrichts studierbar&lt;/li&gt;
-&lt;li&gt;Wenn möglich, wird der Präsenzunterricht durch Live-Streaming ergänzt&lt;/li&gt;
-&lt;li&gt;Für den Stoff existiert eine Gliederung und Lernziele, so dass ein roter Faden ersichtlich ist&lt;/li&gt;
-&lt;li&gt;Für jede Unterrichtseinheit ist ein Thema vorgegeben&lt;/li&gt;
-&lt;li&gt;Es werden für (möglichst) alle Unterrichtseinheiten Aufgaben bereitgestellt&lt;/li&gt;
-&lt;li&gt;Praxisbezug wird sichergestellt, z.B. durch Fallstudien&lt;/li&gt;
-&lt;li&gt;Infos an die Studierenden eines Moduls werden durch ein Nachrichtensystem zugestellt.&lt;/li&gt;
+&lt;li&gt;Alle &lt;em&gt;Lehrmaterialien&lt;/em&gt; stelle ich vor dem Unterricht &lt;em&gt;online&lt;/em&gt; bereit.&lt;/li&gt;
+&lt;li&gt;Alles prüfungsrelevante Material ist &lt;em&gt;verschriftlicht&lt;/em&gt; und die &lt;em&gt;Prüfungsmodalitäten&lt;/em&gt; sind &lt;em&gt;frühzeitig&lt;/em&gt; (schriftlich) bekannt gemacht.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Eigenstudierbarkeit&lt;/em&gt;: Das Modul ist auch ohne Besuchen des Unterrichts studierbar.&lt;/li&gt;
+&lt;li&gt;Wenn möglich, wird der Präsenzunterricht durch &lt;em&gt;Live-Streaming&lt;/em&gt; ergänzt.&lt;/li&gt;
+&lt;li&gt;Für den Stoff existiert eine &lt;em&gt;Gliederung&lt;/em&gt; und &lt;em&gt;Lernziele&lt;/em&gt;, so dass ein roter Faden ersichtlich ist.&lt;/li&gt;
+&lt;li&gt;Für jede Unterrichtseinheit ist ein &lt;em&gt;Stundenthema&lt;/em&gt; vorgegeben.&lt;/li&gt;
+&lt;li&gt;Es werden für (möglichst) alle Unterrichtseinheiten &lt;em&gt;Aufgaben&lt;/em&gt; bereitgestellt, so dass Lernende üben können und über den eigenen Fortschritt im Bilde sind.&lt;/li&gt;
+&lt;li&gt;Praxisbezug wird sichergestellt, z.B. durch &lt;em&gt;Fallstudien.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Infos an die Studierenden eines Moduls werden durch ein &lt;em&gt;Nachrichtensystem&lt;/em&gt; zugestellt.&lt;/li&gt;
+&lt;li&gt;Der Unterricht ist von einer &lt;em&gt;dialogischen Haltung&lt;/em&gt; geprägt, nicht von Frontaltunerricht.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div id=&#34;lehrkonzept&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Lehrkonzept&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;In der “Vorlesung” wird im Schwerpunkt &lt;em&gt;nicht&lt;/em&gt; ein Folienskript “vorgelesen”. Dieser Vortrag steht oft vorab als Video zur Verfügung (s. Links im Themenüberblick).&lt;/li&gt;
-&lt;li&gt;Stattdessen steht in der “Vorlesung” die Durcharbeiten und Vertiefen des Stoffes im Vordergrund, nicht aber das Vortragen des Stoffes.&lt;/li&gt;
-&lt;li&gt;Warum wird die Literatur oder das Folienskript nicht im Unterricht vorgetragen? Zum einen können Sie das alleine besser (in eigener Geschwindigkeit, mit Pausen nach Gusto, zu beliebiger Zeit und beliebigem Ort, so oft wiederholt wie Sie mögen). Zum anderen ist der Lerngewinn beim passiven Zuhören gering. Das Durchdenken, Durcharbeiten, “Durchfragen” des Stoffes ist es, was Ihnen den meisten Gewinn beschwert. Entsprechend liegt auf dem aktiven, gemeinsamen Arbeiten der Schwerpunkt.&lt;/li&gt;
-&lt;li&gt;Das heißt nicht, dass es nie Vorträge vom Dozenten im Unterricht gäbe; manchmal schon. Aber aus genannten Gründen liegt der Fokus des Unterrichts im aktivierenden Arbeiten.&lt;/li&gt;
-&lt;li&gt;Natürlich können im Unterricht jederzeit die Fragen der Studentis zum Stoff besprochen werden. Seien Sie ausdrücklich ermuntert, Ihre Fragen im Unterricht zu formulieren, vorzugsweise im direkten Gespräch, aber alternativ anonym (wie Frag-Jetzt).&lt;/li&gt;
-&lt;li&gt;In der Übung liegt der Schwerpunkt zumeist auf dem Bearbeiten von Aufgaben.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In der “Vorlesung” wird im Schwerpunkt &lt;em&gt;nicht&lt;/em&gt; ein Folienskript “vorgelesen”. Solcher Inhalt steht oft vorab als Video zur Verfügung (s. Links im Themenüberblick).
+Stattdessen steht in der “Vorlesung” die Durcharbeiten und Vertiefen des Stoffes im Vordergrund, nicht aber das Vortragen des Stoffes.
+Warum wird die Literatur oder das Folienskript nicht im Unterricht vorgetragen? Zum einen können Sie das alleine besser (in eigener Geschwindigkeit, mit Pausen nach Gusto, zu beliebiger Zeit und beliebigem Ort, so oft wiederholt wie Sie mögen). Zum anderen ist der Lerngewinn beim passiven Zuhören gering. Das Durchdenken, Durcharbeiten, “Durchfragen” des Stoffes ist es, was Ihnen den meisten Gewinn beschwert. Entsprechend liegt auf dem aktiven, gemeinsamen Arbeiten der Schwerpunkt.
+Das heißt nicht, dass es nie Vorträge vom Dozenten im Unterricht gäbe; manchmal schon. Aber aus genannten Gründen liegt der Fokus des Unterrichts im aktivierenden Arbeiten.
+Natürlich können im Unterricht jederzeit die Fragen der Studentis zum Stoff besprochen werden. Seien Sie ausdrücklich ermuntert, Ihre Fragen im Unterricht zu formulieren, vorzugsweise im direkten Gespräch, aber alternativ anonym (wie Frag-Jetzt).
+In der Übung liegt der Schwerpunkt zumeist auf dem Bearbeiten von Aufgaben.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;lerntipps&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Lerntipps&lt;/h3&gt;
+&lt;p&gt;Damit Sie vom Unterricht maximal profitieren, ist es essenziell, dass Sie aktiv mitarbeiten. Ein “Nur-Zuhören” nimmt Ihnen einen Gutteil des Nutzens des Unterrichts. Sie lernen nur zum kleinen Teil vom Zuhören; der größte Teil des Lernerfolgs kommt vom Selber-Erarbeiten!
+Bitte stellen Sie Ihre Kamera (Webcam) an, wenn Sie Kommilitonis oder den Dozenten ansprechen. Das ist der Güte der Kommunikation zuträglich.
+Bereiten Sie den Stoff vor und arbeiten Sie ihn gewissenhaft nach.
+Das gemeinsame Arbeiten in einer (virtuellen) Lerngruppe ist sehr nützlich.
+Tauschen Sie sich im Diskussionsforum auf unserer Modulseite aus; gehen Sie in den Diskurs mit den Kommiliton/innen. Falls Sie (im Internet) nützliches Material gefunden haben, können Sie es auch in das Forum einstellen.
+Nutzen Sie das Diskussionsforum auch, um den Dozenten Fragen zu stellen.
+Meine Erfahrung zeigt mir, dass der Lernerfolg zwar auch von der Lehrperson abhängt, aber entscheidend ist der Wille eines/r Studierenden/r, selbst aktiv zu lernen. Ich glaube, dass Sie gut mit Material ausgestattet sind, um selbständig und mit Erfolg zu lernen.
+Anbieter wie Google stellen (teilweise) kostenfreie Angebote zum kollaborativen Arbeiten zur Verfügung (Google Docs). Behalten Sie hier den Datenschutz im Blick.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;einstreuer&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;“Einstreuer”&lt;/h3&gt;
+&lt;p&gt;In jedem Kapitel, gibt es eine Reihe von Lehrmaterialien,
+sozusagen orthogonal zum Inhalt, die das Verstehen und die Umsetzung anreichernd unterstützen,
+das sind:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Damit Sie vom Unterricht maximal profitieren, ist es essenziell, dass Sie aktiv mitarbeiten. Ein “Nur-Zuhören” nimmt Ihnen einen Gutteil des Nutzens des Unterrichts. Sie lernen nur zum kleinen Teil vom Zuhören; der größte Teil des Lernerfolgs kommt vom Selber-Erarbeiten!&lt;/li&gt;
-&lt;li&gt;Bitte stellen Sie Ihre Kamera (Webcam) an, wenn Sie Kommilitonis oder den Dozenten ansprechen. Das ist der Güte der Kommunikation zuträglich.&lt;/li&gt;
-&lt;li&gt;Bereiten Sie den Stoff vor und arbeiten Sie ihn gewissenhaft nach.&lt;/li&gt;
-&lt;li&gt;Das gemeinsame Arbeiten in einer (virtuellen) Lerngruppe ist sehr nützlich.&lt;/li&gt;
-&lt;li&gt;Tauschen Sie sich im Diskussionsforum auf unserer Modulseite aus; gehen Sie in den Diskurs mit den Kommiliton/innen. Falls Sie (im Internet) nützliches Material gefunden haben, können Sie es auch in das Forum einstellen.&lt;/li&gt;
-&lt;li&gt;Nutzen Sie das Diskussionsforum auch, um den Dozenten Fragen zu stellen.&lt;/li&gt;
-&lt;li&gt;Meine Erfahrung zeigt mir, dass der Lernerfolg zwar auch von der Lehrperson abhängt, aber entscheidend ist der Wille eines/r Studierenden/r, selbst aktiv zu lernen. Ich glaube, dass Sie gut mit Material ausgestattet sind, um selbständig und mit Erfolg zu lernen.&lt;/li&gt;
-&lt;li&gt;Anbieter wie Google stellen (teilweise) kostenfreie Angebote zum kollaborativen Arbeiten zur Verfügung (Google Docs). Behalten Sie hier den Datenschutz im Blick.&lt;/li&gt;
+&lt;li&gt;Praxisbezüge&lt;/li&gt;
+&lt;li&gt;Beispiele&lt;/li&gt;
+&lt;li&gt;Definitionen&lt;/li&gt;
+&lt;li&gt;Hinweise&lt;/li&gt;
+&lt;li&gt;Achtung, Fehlerquelle&lt;/li&gt;
+&lt;li&gt;Besonders Wichtiges&lt;/li&gt;
+&lt;li&gt;Literatur&lt;/li&gt;
+&lt;li&gt;Aufgaben&lt;/li&gt;
+&lt;li&gt;Lernziele&lt;/li&gt;
+&lt;li&gt;Softwarehinweise&lt;/li&gt;
+&lt;li&gt;Überblick im Lernpfad&lt;/li&gt;
+&lt;li&gt;Exkurse&lt;/li&gt;
+&lt;li&gt;Blick in die Forschung&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div id=&#34;buch-2.0&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;“Buch 2.0”&lt;/h3&gt;
+&lt;p&gt;Modernes HTML bietet eine Reihe von technischen Vorteilen,
+dazu gehört, dass verschiedene Medien eingebettet werden können.
+In diesem Buch werden folgende verwendet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text, Bilder, Tabellen - voll referenziert&lt;/li&gt;
+&lt;li&gt;R-Syntax und Ausgabe&lt;/li&gt;
+&lt;li&gt;Animationen&lt;/li&gt;
+&lt;li&gt;Videos&lt;/li&gt;
+&lt;li&gt;Gleichungen und R-Syntax-Listings - voll referenziert&lt;/li&gt;
+&lt;li&gt;Copy-Paste-Funktion (für R-Syntax)&lt;/li&gt;
+&lt;li&gt;Code-Fold, so dass die R-Syntax und Exkurse nur nach Aufklappen sichtbar sind (und ansonsten nicht stören)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;barrierefrei&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Barrierefrei&lt;/h3&gt;
+&lt;p&gt;Auf Lehrinhalte wird oft zugegriffen, zumindest hofft das der Autor.
+Gehen wir davon aus, dass ein Kurs 15 Wochen dauert, und pro Unterrichtsstunde UE Material “im Wert von 50 Folien” angesehen werden, so kommt man auf 50 Klicks oder Kontakte,
+mal 4 UE pro Woche ergibt &lt;code&gt;r 50*4*15&lt;/code&gt; Kontakte mit Material pro Studi.
+Bei so vielen Kontakten bekommt das Wort &lt;em&gt;barrierefrei&lt;/em&gt; eine hohe Bedeutung.&lt;/p&gt;
+&lt;p&gt;Aus diesem Grund steht das Buch steht frei im Netz, genauso die Aufgaben und die Lösungen.
+Damit ist ein einfacher Zugriff möglich.
+Außerdem gibt es eine hohe Anzahl an URLs: Nicht nur pro Seite,
+sondern auch pro Abschnitt und für alle besonderen Objekte wie Tabellen und Diagramme.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;kompetenzorientiert&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Kompetenzorientiert&lt;/h3&gt;
+&lt;p&gt;Es gibt viele Übungsaufgaben, anhand derer die Studentis ihren Lernfortschritt überprüfen können. Diese Aufgaben haben zumeist eine klare, kurze richtige Antwort (oft im MC-Format),
+so dass einfach eine Punktzahl ausgegeben kann für ein maximal klares Feedback an die Studentis.
+Außerdem gibt es aber auch Fallstudien, für komplexere und reichhaltigeres Einüben der Kompetenzen.
+Schließlich ist die Prüfungsform komplett kompetenzorientiert gehalten und gleichzeitig maximal objektiv durch Berechnen der Vorhersagegüte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fokus-auf-modellierung&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fokus auf Modellierung&lt;/h3&gt;
+&lt;p&gt;Modelle stehen, auch in modernen und fortgeschrittenen Anwendungen, im Mittelpunkt der Statistik als (angewandte) Wissenschaft.
+Gleichzeitig sind Sie einsteigerfreundlich, denn jeder Mensch kennt Modelle aus dem alltäglichen Leben.
+Darüber hinaus lassen sich Modelle perfekt verbinden mit zentraler statistischer Methodik,
+namentlich dem Allgemeinen (Generalisierten) Linearen Modell (ALM bzw GLM).
+Aus diesem Grund wird das ALM als zentrale methodische Blaupause verwendet.
+Anstelle von einer Vielzahl statistischer Testverfahren, die letztlich aber fast immer Spezialfälle des ALM darstellen, wird hier zu zugunsten der Einfachheit,
+konzeptioneller Klarheit (und wissenschaftlicher Ästhetik) alles Modellieren auf dem ALM aufgebaut.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;praxisbezug&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Praxisbezug&lt;/h3&gt;
+&lt;p&gt;In allen Kapiteln werden Themen aus der (künftigen) Berufswelt der Teilnehmis herangezogen.
+Ganz zu Beginn eines neuen Themas wird davon abweichend immer wieder von extrem einfachen (aber auch lebensweltlich relevanten) Beispielen Gebraucht gemacht,
+zu Gunsten eines einfachen Einstiegs in neue Materie.
+Auf mathematische Herleitung wurde aus dem gleichen Grund weitgehend verzichtet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;anschaulichkeit&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Anschaulichkeit&lt;/h3&gt;
+&lt;p&gt;Es wurde versucht, möglichst viele Sachverhalte schematisch in Diagrammen zu illustieren.
+Damit ist bei weitem nicht nur gemeint, statische Diagramme aufzuzeichnen.
+Vielmehr ist versucht worden, zentrale theoretische Konzepte in einfachen Diagrammen widerzuspiegeln.
+Dieser eher informelle Wege nimmt zwar Einbußen an Präzision und inhaltlicher Tiefe in Kauf,
+öffnet aber gerade für in symbolischer Verarbeitung schwächeren Studentis einen Zugang.
+Darüber hinaus haben Diagramme bzw. Schemata den didaktischen Vorteil,
+dass sie sich hervorragend eignen für Unterricht im Hörsaal oder Seminarraum:
+Man betrachtet zusammen ein Bild und diskutiert darüber,
+das Konzept ständig vor Augen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bildreichtum&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Bildreichtum&lt;/h3&gt;
+&lt;p&gt;Dieses Buch verwendet viele Bilder. Das hat vor allem den Grund, das Lehren zu erleichtern.
+Es ist dröge - beim Zuhören und beim Lehren - sich durch Textwüsten und Stichpunkt-Wälder zu kämpfen.
+Viel angenehmer ist es (nach meiner Erfahrung),
+wenn die Lehrperson anhand eines guten Diagramms den wesentlichen Punkt erläutert.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;literatur&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Literatur&lt;/h3&gt;
+&lt;p&gt;Pro Thema wird Literatur ausgewiesen, die den Stoff ausführlicher erläutert oder auf vertiefende Aspekte eingeht (Aspekte, die über den Stoff und die Lernziele hinausgehen).
+Quellen der Inhalte sind pro Kapitel im Literaturverzeichnis aufgeführt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;für-autodidakten-geeignet&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Für Autodidakten geeignet&lt;/h3&gt;
+&lt;p&gt;Folien sind zu knapp, um sie ohne Erläuterung zu verstehen. Wären Sie ausführlich, würde man sie “Buch” nennen.
+Dieses Buch versteht sich als eine Art “Prosa-Skript”, also ausformuliertes Skript zur Begleitung des Unterrichts.
+Nicht zur zur Begleitung: Dieses Skript ist zwar “dünner” als ein Buch, aber versucht, die wesentlichen Inhalte abzudecken.
+Außerdem sollen nicht nur Inhalte abdeckt sein, sondern auch die Kompetenz entwickelt werden, etwa durch Aufgaben.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1039,7 +1139,12 @@ der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie e
       <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
-      <description>&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/umfragen-auswerten/index.html&#39;;&#34;&gt;
+     Wie man psychometrische Umfragedaten auswertet: Eine Einführung
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
 &lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
 </description>
     </item>
@@ -1224,7 +1329,12 @@ betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodel
       <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
-      <description></description>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://data-se.netlify.app/slides/hands-on-data-exploration/handson-data-workshop_2018-11-21.html#1&#39;;&#34;&gt;
+     Handson data exploration with the tidyverse in R
+    &lt;/button&gt;
+&lt;/br&gt;
+</description>
     </item>
     
     <item>

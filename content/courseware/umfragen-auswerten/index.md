@@ -11,7 +11,7 @@ tags:
 - survey
 - datawrangling
 title: Wie man Umfragen auswertet
-url_code: "https://github.com/sebastiansauer/textbausteine-korrektur"
+url_code: "https://sebastiansauer.github.io/umfragen-auswerten/index.html"
 url_pdf: "https://sebastiansauer.github.io/umfragen-auswerten/index.html"
 
 ---

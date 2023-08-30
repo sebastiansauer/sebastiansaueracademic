@@ -5,28 +5,12 @@
     <link>https://sebastiansauer-academic.netlify.app/courseware/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/courseware/index.xml" rel="self" type="application/rss+xml" />
     <description>Coursewares</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>Coursewares</title>
       <link>https://sebastiansauer-academic.netlify.app/courseware/</link>
     </image>
-    
-    <item>
-      <title>Forschungsprojekt in Psychologie (2023 edition)</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/fopro/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopro/</guid>
-      <description>&lt;/br&gt;
-  &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
-     Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
-    &lt;/button&gt;
-&lt;/br&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
-&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Start:Bayes!</title>
@@ -48,9 +32,23 @@
       <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://stats-nutshell.netlify.app/&#39;;&#34;&gt;
+     Statistics in a nutshell: Introduction to Statistical Modelling
+    &lt;/button&gt;
+&lt;/br&gt;
 &lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
 &lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
 </description>
     </item>
     
@@ -61,21 +59,6 @@
       <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
       <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
 &lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayes:Start</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/bayes-start/</guid>
-      <description>&lt;/br&gt;
-  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
-     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
-    &lt;/button&gt;
-&lt;/br&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
 </description>
     </item>
     
@@ -107,7 +90,12 @@ der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie e
       <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
-      <description>&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/umfragen-auswerten/index.html&#39;;&#34;&gt;
+     Wie man psychometrische Umfragedaten auswertet: Eine Einführung
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
 &lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
 </description>
     </item>
@@ -128,7 +116,12 @@ der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie e
       <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
-      <description></description>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://data-se.netlify.app/slides/hands-on-data-exploration/handson-data-workshop_2018-11-21.html#1&#39;;&#34;&gt;
+     Handson data exploration with the tidyverse in R
+    &lt;/button&gt;
+&lt;/br&gt;
+</description>
     </item>
     
     <item>

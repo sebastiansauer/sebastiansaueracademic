@@ -19,7 +19,7 @@ interests:
 - Mindfulness
 - Didactics of Statistics
 organizations:
-- name: University of applied Sciences Ansbach
+- name: University of Applied Sciences Ansbach
   url: https://www.hs-ansbach.de/personen/sauer-sebastian/
 role: Professor of Data Science
 social:
@@ -43,8 +43,8 @@ title: Sebastian Sauer
 ---
 
 
-Sebastian Sauer is a professor with a focus on data science and statistics at the University of applied sciences Ansbach. 
-His research interests include applied machine learning, didactics of statistics, mindfulness, and social media analysis.
+Sebastian Sauer is a professor with a focus on cognitive psychology and data science at the University of Applied Sciences Ansbach. 
+His research interests include applying machine learning to social science questions, didactics of statistics, mindfulness, and social media analysis.
 He thinks that science is obligated to truth and the social good.
 And in particular, each scientist is also citizen and should strive to defend and support basic ethical principles.
 For the moment, this includes lending a voice to the cause of Ukraine in her struggle to fight off the Russian invasion 🇺🇦.
