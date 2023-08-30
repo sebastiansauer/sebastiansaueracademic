@@ -1,6 +1,6 @@
 ---
 date: "2023-03-01"
-
+external_link: "https://fopro.netlify.app/"
 image:
   caption: Title Cover by Image Flip Memes (65rf1d)
   focal_point: Smart
@@ -11,10 +11,10 @@ tags:
 - statistics
 - research
 - course
-title: Forschungsprojekt in Psychologie (2023 edition)
+title: Forschungsprojekt in Psychologie
 url_code: "https://github.com/sebastiansauer/fopra"
 url_pdf: ""
-url_slides: "https://fopro.netlify.app/"
+#url_slides: "https://fopro.netlify.app/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 

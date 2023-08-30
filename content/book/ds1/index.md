@@ -1,6 +1,6 @@
 ---
 date: "2022-03-15"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
+external_link: "https://sebastiansauer.github.io/datascience1/"
 image:
   caption: Title Cover (689g8g) by Image Flip Meme Generator
   focal_point: Smart
@@ -18,7 +18,7 @@ tags:
 title: Data Science 1 
 url_code: "https://github.com/sebastiansauer/datascience1"
 url_pdf: ""
-url_slides: "https://ds1-prognosemodellierung.netlify.app/"
+#url_slides: "https://ds1-prognosemodellierung.netlify.app/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 

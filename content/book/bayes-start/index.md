@@ -1,6 +1,6 @@
 ---
 date: "2021-10-01"
-# external_link: "https://sebastiansauer.github.io/datascience1/"
+external_link: "https://sebastiansauer.github.io/datascience1/"
 image:
   caption: Title Cover by Klara Schaumann
   focal_point: Smart

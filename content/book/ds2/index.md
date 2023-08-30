@@ -1,6 +1,6 @@
 ---
 date: "2022-10-01"
-# external_link: "https://datascience-text.netlify.app//"
+external_link: "https://datascience-text.netlify.app//"
 image:
   caption: Title Cover (689g8g) by Image Flip Meme Generator
   focal_point: Smart
