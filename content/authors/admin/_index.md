@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: University of Applied Sciences Ansbach
   url: https://www.hs-ansbach.de/personen/sauer-sebastian/
-role: Professor of Data Science
+role: Professor for Computational Cognitive Sciences
 social:
 - icon: envelope
   icon_pack: fas
