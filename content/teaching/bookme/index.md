@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: consultation hours for students
 tags:
-- data
+- teaching 
 title: Sprechstunde
 ---
 

@@ -95,17 +95,6 @@
     </item>
     
     <item>
-      <title>Sprechstunde</title>
-      <link>https://sebastiansauer-academic.netlify.app/bookme/sprechstunde/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/bookme/sprechstunde/</guid>
-      <description>&lt;!-- Google Calendar Appointment Scheduling begin --&gt;
-&lt;iframe src=&#34;https://calendar.google.com/calendar/appointments/schedules/AcZssZ1PtHhHNR5uw8TJnCoQPFB2NTmXbdq8D3crJNJv3JSvc6inYSyPQ_3SxZ4DHI8YIgwNVbd9pbdS?gv=true&#34; style=&#34;border: 0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- end Google Calendar Appointment Scheduling --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>R-package prada</title>
       <link>https://sebastiansauer-academic.netlify.app/software/prada/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
