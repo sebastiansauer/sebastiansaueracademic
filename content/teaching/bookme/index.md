@@ -4,7 +4,7 @@ date: "2023-10-01"
 image:
   caption: Title Cover by Sebastian Sauer
   focal_point: Smart
-summary: Sprechstunde
+summary: consultation hours for students
 tags:
 - data
 title: Sprechstunde
