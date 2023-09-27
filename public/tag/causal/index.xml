@@ -5,12 +5,25 @@
     <link>https://sebastiansauer-academic.netlify.app/tag/causal/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/tag/causal/index.xml" rel="self" type="application/rss+xml" />
     <description>causal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>causal</title>
       <link>https://sebastiansauer-academic.netlify.app/tag/causal/</link>
     </image>
+    
+    <item>
+      <title>Maschinelles Lernen ohne Programmieren - Ein sanfter Einstieg in die KI</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/ds-school/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/ds-school/</guid>
+      <description>&lt;p&gt;Talk presented at &lt;a href=&#34;https://ankit.hs-ansbach.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ankit Ansbach&lt;/a&gt;&lt;/p&gt;
+&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/talks/talk-ai-school/#/title-slide&#39;;&#34;&gt;
+     Hier geht&#39;s zum Talk &#34;Maschinelles Lernen ohne Programmieren - Ein sanfter Einstieg in die KI&#34;
+    &lt;/button&gt;
+</description>
+    </item>
     
     <item>
       <title>Forschungsprojekt in Psychologie</title>
