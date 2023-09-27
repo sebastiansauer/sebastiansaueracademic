@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tidyverse | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/tidyverse/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/tidyverse/index.xml" rel="self" type="application/rss+xml" />
+    <description>tidyverse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>tidyverse</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/tidyverse/</link>
+    </image>
+    
+    <item>
+      <title>Handson data exploration with the R/tidyverse</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://data-se.netlify.app/slides/hands-on-data-exploration/handson-data-workshop_2018-11-21.html#1&#39;;&#34;&gt;
+     Handson data exploration with the tidyverse in R
+    &lt;/button&gt;
+&lt;/br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

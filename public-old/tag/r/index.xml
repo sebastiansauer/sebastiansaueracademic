@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>R</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Forschungsprojekt in Psychologie</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/fopro/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/fopro/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistik1</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/statistik1/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/statistik1/</guid>
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://statistik1.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Statistik1&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
+&lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
+&lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
+Anders gesagt: Sie lernen, wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
+Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;. (Darauf dis Studenti: &amp;ldquo;Hpmf.&amp;rdquo;).
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft.
+Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
+Wir wollen aber belastbare Vorhersagen und zumindest wissen,
+wie gut die Vorhersagen bisher waren.&lt;/p&gt;
+&lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
+&lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h3&gt;
+&lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h3&gt;
+&lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 2</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;lernziele&#34;&gt;Lernziele&lt;/h2&gt;
+&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
+&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
+&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
+&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Start:Bayes!</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://start-bayes.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Start: Bayes! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/jclinepi2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Objective: To estimate the proportion of healthcare interventions tested within Cochrane Reviews that are effective according to high-quality evidence.&lt;/p&gt;
+&lt;p&gt;Methods: We selected a random sample of 2,428 (35%) of all Cochrane Reviews published between 1 January 2008 and 5 March 2021. We extracted data about interventions within these reviews that were compared with placebo, or no treatment, and whose outcome quality was rated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. We calculated the proportion of interventions whose benefits were based on high-quality evidence (defined as having high quality GRADE rating for at least one primary outcome, statistically significant positive results, and being judged by review authors as effective. We also calculated the proportion of interventions that suggested harm.&lt;/p&gt;
+&lt;p&gt;Results: Of 1,567 eligible interventions, 87 (5.6%) had high-quality evidence supporting their benefits. Harms were measured for 577 (36.8%) interventions. There was statistically significant evidence for harm in 127 (8.1%) of these. Our dependence on the reliability of Cochrane author assessments (including their GRADE assessments) was the main potential limitation of our study.&lt;/p&gt;
+&lt;p&gt;Conclusion: More than 9 in 10 healthcare interventions studied within recent Cochrane Reviews are not supported by high-quality evidence, and harms are under-reported.&lt;/p&gt;
+&lt;p&gt;Keywords: Epidemiology; Evidence; Harm; Quality; Safety; Systematic review.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The above figure does NOT appear in the final article.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stats Nutshell</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://stats-nutshell.netlify.app/&#39;;&#34;&gt;
+     Statistics in a nutshell: Introduction to Statistical Modelling
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
+&lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 1</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds1/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Covid ICU</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forschungspraktikum in Psychologie (2022 edition)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/fopra/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/fopra/</guid>
+      <description>&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</guid>
+      <description>&lt;h1 id=&#34;what-factors-fuel-the-afd-election-success&#34;&gt;What factors fuel the AfD election success?&lt;/h1&gt;
+&lt;p&gt;The party “Alternative fuer Deutschland” (AfD) is a right-wing to far-right political party in Germany. Founded in 2013, it that has managed to gain seats in all states parliaments as well as in the federal parliament within a short period of time. The AfD became the third-largest party in Germany after the 2017 federal elections. Such striking success is quite unique in German post-war politics. Consequently, AfD’s upsurge has sparked an intensive debate as to the why’s and hows of this success. Some explanations of AfD’s electoral success have been brought forward by scholars but also some “folk theories” circulate. In this study, we test some folk theories highlighting potential causes of AfD electoral success such as unemployment, migration rate, age, and east/west cultural diﬀerences. Our data are based on the German federal election results (2017), alongside with structural data on each German electoral district (n=299). Our analysis is novel insofar as a more rigorous Bayesian multilevel modeling is applied.&lt;/p&gt;
+&lt;h1 id=&#34;methods-bayesian-multilevel-regression&#34;&gt;Methods: Bayesian multilevel regression&lt;/h1&gt;
+&lt;p&gt;Sample. All data were obtained from the Bundeswahlleiter (2017). There were no missing values, and we conﬁrm that the data were not transformed in any other way than reported here. z-Values were used as model inputs.&lt;/p&gt;
+&lt;p&gt;Hypotheses. Three factors were hypothesized to exert an eﬀect on the AfD votes: a) unemployment rate (positive), b) foreigner rate (positive), and c) East Germany (positive). All eﬀects are assumed linear.&lt;/p&gt;
+&lt;p&gt;Design. The study is based on a cross-sectional, observational design thereby precluding strong causal conclusions. Predictors were selected according to widely circulating folk theories of AfD success.&lt;/p&gt;
+&lt;p&gt;Analysis. Stan was used via the R packages rstan and rethinking (McElreath, 2017). For model estimation, Hamiltonian Markov Chain Monte Carlo (MCMC) with 2000 iterations, 2 chains, 1/2 burn-in time, was used. Information criteria (WAIC) served for model comparison. In an explorative matter, we included federal state as predictor and compared the model variations.&lt;/p&gt;
+&lt;h1 id=&#34;results-limited-support-for-proposed-model&#34;&gt;Results: Limited support for proposed model&lt;/h1&gt;
+&lt;p&gt;Interestingly, neither immigration (foreigner) rate nor unemployment rate played an important role. East Germany proved to be a more impactful predictor. However, federal state came out as the strongest predictor of AfD voting success. In sum, the multi level model state combined state, foreigner rate, and unemployment rate turned out to be best in class (cf. Table 1, model m15_stan). Figure 6 compares the (absolute) prediction errors between all models tested. The trace plot of the best model supported convergence of the model (not depicted). Figure 7 shows the mass intervals for the main coeﬃcients of the best model. A comparison between estimated and observed AfD votes per electoral district is shown in Figure 8.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion-unknown-role-of-state-aspects&#34;&gt;Conclusion: Unknown role of State aspects&lt;/h1&gt;
+&lt;p&gt;It can only be speculated as to why the state played a pivotal role in these models. A state can be seen as a bundle of shared cultural values, local socioeconomic factors, the impact of the aging society, or the inﬂuence of local politicians, to name a few. To be clear, the present model is simplistic. It remains unknown which (causally) relevant factors have been missed out. Sadly, the ﬁeld lacks strong theories that explain the pathways of voting behavior, particularly for the rise of (right-wing) populist parties. Given the importance of political liberty, and in the light of the experiences (and horrors) of populism in the 20th century Europe, it remains a duty to shed light on the whys and hows of of societal and electoral will articulation.&lt;/p&gt;
+&lt;h1 id=&#34;further-work&#34;&gt;Further work&lt;/h1&gt;
+&lt;p&gt;Also check-out this &lt;a href=&#34;https://github.com/sebastiansauer/afd-personality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related work on the possible impact of personality and voting for the AfD&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Template for the FOM University</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/xafom/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/bayes-start/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/bayes-start/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Blitzkurs</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</guid>
+      <description>&lt;p&gt;R ist die führende Software für Datenanalyse und insofern Eintrittskarte in das Datenzeitalter. Sie würden gerne R kennenlernen, aber das kostet Sie zu viel Zeit? Dann kommen Sie zum R-Blitzkurs! In 60 Minuten lernen Sie zentrale Schritte der Datenanalyse. OK, vielleicht reicht die Zeit auch nur für einen ersten Eindruck - aber der erste Schritt ist der wichtigste. Aus dem Inhalt: Daten importieren in R, deskriptive Statistiken erstellen, Diagramme erzeugen, Daten und Ergebnisse exportieren, inferenzstatistische Tests durchführen. Sie brauchen keine Software vorab installieren; im Kurs wird Ihnen eine Online-Version von R bereitgestellt (kostenlos). Es ist aber nötig, sich ein Konto dafür vorab anzulegen, bitte lesen Sie die Details in der Kursbeschreibung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vorhersagemodellierung (2021)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/qm1/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/qm1/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose:
+Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen.
+Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist.
+Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit.
+Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung;
+der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wie man Umfragen auswertet</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/umfragen-auswerten/index.html&#39;;&#34;&gt;
+     Wie man psychometrische Umfragedaten auswertet: Eine Einführung
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+&lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package teachertools</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/teachertools/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/teachertools/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/status-early%20state-red&#34; alt=&#34;Beware, very early status&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This repo provides tools for writing and grading exams/exercises, as well as publishing course materials.
+The tools consists of R functions.&lt;/p&gt;
+&lt;p&gt;Check-out the &lt;a href=&#34;https://github.com/sebastiansauer/teachertools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Videosammlung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/videos/</guid>
+      <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
+&lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
+&lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Most healthcare interventions tested in Cochrane Reviews are not effective according to high quality evidence: a systematic review and meta-analysis</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/astra/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/astra/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;
+The effectiveness of most cancer targeted therapies is short-lived. Tumors often develop resistance that might be overcome with drug combinations. However, the number of possible combinations is vast, necessitating data-driven approaches to find optimal patient-specific treatments. Here we report AstraZeneca’s large drug combination dataset, consisting of 11,576 experiments from 910 combinations across 85 molecularly characterized cancer cell lines, and results of a DREAM Challenge to evaluate computational strategies for predicting synergistic drug pairs and biomarkers. 160 teams participated to provide a comprehensive methodological development and benchmarking. Winning methods incorporate prior knowledge of drug-target interactions. Synergy is predicted with an accuracy matching biological replicates for &amp;gt;60% of combinations. However, 20% of drug combinations are poorly predicted by all methods. Genomic rationale for synergy predictions are identified, including ADAM17 inhibitor antagonism when combined with PIK3CB/D inhibition contrasting to synergy when combined with other PI3K-pathway inhibitors in PIK3CA mutant cells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moderne Datenanalyse mit R</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/modar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/modar/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://link.springer.com/book/10.1007/978-3-658-21587-3&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Moderne Datenanalyse mit R&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
+&lt;p&gt;Ziel ist es, Leser mit der Art und Weise vertraut zu machen, wie führende Organisationen und Praktiker angewandte Statistik heute einsetzen. Weil sich mit der Digitalisierung auch die statistischen Verfahren verändert haben, vermittelt der Autor neben klassischen Analysemethoden wie Regression auch moderne Methoden wie Textmining und Random-Forest-Modelle. Dabei sind die Inhalte des Buchs durchgehend so aufbereitet, dass sie auch für Leser ohne umfangreiche mathematische Vorkenntnisse verständlich sind. Anhand von Fallbeispielen und Übungen werden die Leser durch alle Phasen der Datenanalyse geführt: Sie lernen, wie Daten eingelesen, aufbereitet, visualisiert, modelliert und kommuniziert werden können. Dabei wird vor allem die Aufbereitung, Umformung und Prüfung der Daten ausführlicher als in anderen Publikationen behandelt, da dieser Teil in der Praxis oft einen wesentlichen Teil des Aufwands ausmacht. Aber auch die Visualisierung bekommt viel Raum, denn gute Diagramme ermöglichen Einblicke, die Zahlen und Worte verbergen.
+Mit seinem praxisorientierten Ansatz will das Buch dazu befähigen,
+alle grundlegenden Schritte eines Datenanalyseprojekts durchzuführen,
+Daten kompetent in R zu bearbeiten,
+simulationsbasierte Inferenzstatistik anzuwenden und kritisch zu hinterfragen,
+klassische und moderne Vorhersagemethoden anzuwenden und
+betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodelle zu beantworten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handson data exploration with the R/tidyverse</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/handson/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/handson/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://data-se.netlify.app/slides/hands-on-data-exploration/handson-data-workshop_2018-11-21.html#1&#39;;&#34;&gt;
+     Handson data exploration with the tidyverse in R
+    &lt;/button&gt;
+&lt;/br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time Prediction of User Performance based on Pupillary Assessment via Eye Tracking</title>
+      <link>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/publication/ais-hci-2018/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We propose a method to predict user performance based on eye-tracking. The method uses eye-tracking-based pupillometry to capture pupil diameter data and calculates—based on a Random Forest algorithm—user performance expectations. We conducted a large-scale experimental evaluation (125 participants aged from 21 to 61 years) and found promising results that pave the way for a dynamic real-time adaption of IT to a user’s mental effort and expected user performance. We have already achieved a good classification accuracy of user performance after only 40 seconds (5% of the mean total trial time that our participants took to complete our experiment). The non-invasive contact-free method can be applied cost-efficiently both in research and practical environments.&lt;/p&gt;
+&lt;p&gt;Keywords: NeuroIS, user performance, mental effort, pupillometry, eye-tracking, Random Forest.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This paper was awarded in 2018 with an Best Paper Award by the Journal &lt;a href=&#34;https://aisel.aisnet.org/thci/awards.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transactions of Human-Computer Interaction&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How populist are the tweets of German politicians? (Wie populistisch tweeten unsere Politiker?)</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/populism1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/populism1/</guid>
+      <description>&lt;h1 id=&#34;populism-in-tweets-of-german-politicians&#34;&gt;Populism in tweets of German politicians&lt;/h1&gt;
+&lt;p&gt;The last months (years? since ever???) have seen a surge in populism and a rise in nationalism. Not only in Russia, the United States, Turkey, but also in some EU countries the ghost of nationalism-populism seems to be marching and gaining ground.&lt;/p&gt;
+&lt;p&gt;As to Germany, in September 24, 2017, the 19. German federal elections took place. The newly founded alt-right AfD (Alternative for Deutschland) has made a leap and moved in the Bundestag. In some electoral districts, its share rose to 35%, being the strongest party (although normally its share was lower), and in total, the AfD collect 12.6% of the votes, according to the official results.&lt;/p&gt;
+&lt;p&gt;Given the “hell and back” Europe and the world had to witness in the 20th century, this backlash seems surprising and alarming. Of course, a number of ideas on the origin of populist thought and countermeasures are out there.&lt;/p&gt;
+&lt;h2 id=&#34;whats-populism&#34;&gt;What’s populism?&lt;/h2&gt;
+&lt;p&gt;Populism is hard to define, see Laclau, On Populist Reason. So maybe authoritarianism and nationalism are concepts more adequate to deal with enemies of open society. Another idea would be to follow Popper’s idea of what makes a society open and what are the components of a “closed” society.&lt;/p&gt;
+&lt;p&gt;Without worrying much on ongoing discussions, I have tried to define and measure populism as manifest in Tweets of German politicians. The theoretical concept is not too much elaborated (as yet), I confess, but it builds on a well-known and intriguing source, Poppers Open Society.&lt;/p&gt;
+&lt;h2 id=&#34;poppers-idea-of-populism&#34;&gt;Poppers idea of populism&lt;/h2&gt;
+&lt;p&gt;Basically, the following theoretical aspects were used for gauging populism.&lt;/p&gt;
+&lt;p&gt;The roots of the (Western) civilization may be traced to societies such as the ancient Greek clans. In the beginning (but in parts, later on too), those clans were patriarchal in the sense that there one men or one family or one cast who was ruling without any democratic basis. Basically, someone was telling what to do. And every one had to follow. Even more, know only what to do but rather what was right and what was wrong. There is, as a consequence, no place for questions and questioning or doubt and doubting in such societies. It’s pretty clear and easy what’s right and wrong, and what you ought to now. Now, modern society is quite complex, and as a consequence, it is difficult to say what will happen, and what you should do. There are much less guides and less guidance as to what the “right” way of living consists of. Poppers argues that people are suffering from this insecurity, albeit to a different degree. Especially in times of crisis, rapid change, and strong progress the desire too come back to “good old days”, with all their simplicity and security offered by strong men and strong ideas (in the sense of that they provide sure answers), rises.&lt;/p&gt;
+&lt;p&gt;Moreover, those old tribal communities consisted (often) of kinship, there were genetic similarity among the members of a tribe, compared to the people of other tribes. As a result, such tribes or rather such tribal thinking rejoices in evoking the “blood is thicker than water” ideas. You should prefer your relatives more than strangers; sounds plausible, doesn’t it? But taken farer this leads a walling-off from the outside, in the sense that outsiders are considered negative or eve as enemies. In short, the “we” as a group - family, caste, tribe, culture, people, folk - should hold together, and should regard outsiders with suspicion.&lt;/p&gt;
+&lt;p&gt;Similarly, not only our “blood” but also our “soil” is what defined (defines) us as tribal society. This is our land. Not yours. We have always, okay, at least for a long time, been inhabiting this land.&lt;/p&gt;
+&lt;p&gt;More coherently, this is our group, our land, our stories. Nobody (including myself and you, as possible parts of this group) may object to this notion. We may not even doubt, we must obey to the law of what the strong man says, and he says he knows what to know, that’s why he is strong. Admitting “I don’t know” would be considered as a sign of weakness, not of strength. Don’t propose that things could be like this, but also like that, and even this may vary from time to time or according to some unknown boundary conditions…&lt;/p&gt;
+&lt;p&gt;Such ideas provide the base of “closed society thinking”, and populism is nothing more than alluding to this thinking and supporting it.&lt;/p&gt;
+&lt;h2 id=&#34;indicators-of-populism-in-the-present-research&#34;&gt;Indicators of populism in the present research&lt;/h2&gt;
+&lt;p&gt;Much more down to earth, and certainly cum grano salis to say the least, I have tried to translate Popper’s ideas into these eight indicators:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;word length or rather word brevity&lt;/li&gt;
+&lt;li&gt;Number of negative connotated words vs. number of positively connotated words (odds)&lt;/li&gt;
+&lt;li&gt;Proportion of negatively connotated words&lt;/li&gt;
+&lt;li&gt;Proportion of emotional words&lt;/li&gt;
+&lt;li&gt;Score (intensity) of emotion&lt;/li&gt;
+&lt;li&gt;Score (intensity) of negative emotion&lt;/li&gt;
+&lt;li&gt;Proportion of words in CAPITAL LETTERS (shouted)&lt;/li&gt;
+&lt;li&gt;Number of adjectives vs. number of adverbs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Out of these indicators, I formed one populism measure, and I then compared political parties based on this measure. I did not want to tap too much into the individual persons, partly because an aggregated measure may be more reliable, and partly because not too be to nasty to individual persons.&lt;/p&gt;
+&lt;h2 id=&#34;data-material&#34;&gt;Data material&lt;/h2&gt;
+&lt;p&gt;I collected around 400k tweets via the Twitter API; plus approx. 30k Tweets by Donald Trump. In sum, about 200 politicians donated about 6 millions words for this analysis. Not all parties are included, only seven important, the remainder is ignored (sorry). Data was collected from several years, as provided by the API.&lt;/p&gt;
+&lt;p&gt;I think that the API prefers providing newer tweets. Note that Trump data has been accessed from the Trump Twitter Archive.&lt;/p&gt;
+&lt;p&gt;Not all parties tweet the same amount. As I have recently read on Twitter, the only 12 hours, Donald Trump did not tweet was the day he was elected President…&lt;/p&gt;
+&lt;p&gt;From some parties, I was able to find a lot of accounts, from other parties, not so many. This may of course provide some basis for bias. I have tried to find some overview or “official” list of politicians&amp;rsquo; twitter accounts. What I found was this. In addition, I added the accounts from the Bundesvorstaende of the AfD and the FDP, because these parties were especially lacking accounts.&lt;/p&gt;
+&lt;h1 id=&#34;reproducibility&#34;&gt;Reproducibility&lt;/h1&gt;
+&lt;p&gt;The code is on Github, completely. In this post, I will not discuss all technical aspects, but rather invite everyone interested to read the code.&lt;/p&gt;
+&lt;h1 id=&#34;cave-and-conclusion&#34;&gt;Cave and conclusion&lt;/h1&gt;
+&lt;p&gt;Whereas Poppers theory certainly is compelling, the choice of indicators remains subjective. This is not unique for the present analysis, but still different sets of indicators may provide different pictures. Note that this is an explorative study. Still, this picture appears well backup by the data. What’s your impression, your thoughts? Feel free to discuss your ideas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case studies</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/casestudies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/casestudies/</guid>
+      <description>
+
+
+&lt;p&gt;A case study on data analysis is sometimes dubbed “YACSDA”, as for “Yet Another Case Study on Data Analysis”.
+Well, here’s my curated list of YACSDAs.
+The indented audience is students are aspiring data analysts/scientists.&lt;/p&gt;
+&lt;p&gt;All case studies are using R as the computational environment and are open eductational resource materials.
+That implies that all YACSDAs are reproducible (for the most part).&lt;/p&gt;
+&lt;div id=&#34;explorative-data-analysis&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Explorative Data analysis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;FALLSTUDIEN - NUR EXPLORATIVE DATENANALYSE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://allisonhorst.shinyapps.io/dplyr-learnr/#section-welcome&#34;&gt;Datenjudo mit Pinguinen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/24/exercises-to-data-wrangling-with-the-tidyverse/&#34;&gt;Data-Wranglinng-Aufgaben zur Lebenserwartung&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/&#34;&gt;Case study: data vizualization on flight delays using tidyverse tools&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/12/07/ex-visualizing-diamonds/&#34;&gt;Aufgabe zur Datenvisualisierung des Diamantenpreises&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/03/08/eda-zu-flugversp%C3%A4tungen/&#34;&gt;Fallstudie Flugverspätungen - EDA&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/11/yacda-topgear/&#34;&gt;Fallstudie zur EDA: Top-Gear&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/11/explorative-datenanalyse-zum-datensatz-oecd-wellbeing/&#34;&gt;Fallstudie zur EDA: OECD-Wellbeing-Studie&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://minimaxir.com/2018/07/imdb-data-analysis/&#34;&gt;Fallstudie zur EDA: Movie Rating&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/saghirb/WiP-tidyverse/blob/master/doc/WiP-tidyverse.pdf&#34;&gt;Fallstudie zur EDA: Women in Parliament&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/27/datensatz-flights-finde-den-tag-mit-den-meisten-abfl%C3%BCgen/&#34;&gt;Finde den Tag mit den meisten Flugverspätungen, Datensatz ‘nycflights13’&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://varianceexplained.org/r/tidy-genomics/&#34;&gt;Cleaning and visualizing genomic data: a case study in tidy analysis&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.njtierney.com/post/2017/11/07/tidyverse-billboard/&#34;&gt;Tidyverse Case Study: Exploring the Billboard Charts&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/11/27/analyse-der-rki-coronadaten/&#34;&gt;Analyse einiger RKI-Coronadaten: Eine reproduzierbare Fallstudie&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/casestudies/ocs-healthexpenditure.html&#34;&gt;OpenCaseStudies - Health Expenditure&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard/#Motivation&#34;&gt;Open Case Studies: School Shootings in the United States&lt;/a&gt; - includes dashboards&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/ocs-bp-youth-disconnection/&#34;&gt;Open Case Studies: Disparities in Youth Disconnection&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/28/yacsda-seitenspr%C3%BCnge/&#34;&gt;YACSDA Seitensprünge&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/&#34;&gt;The Open Case Study Search&lt;/a&gt; provides a nice collection of helpful case studies.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://fallstudien.netlify.app/&#34;&gt;ifes@FOM Fallstudienseite&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;linear-models&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Linear models&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;FALLSTUDIEN - NUR LINEARE MODELLE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://youtu.be/5pBTHrnRIZY&#34;&gt;Beispiel für Prognosemodellierung 1, grundlegender Anspruch, Video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/11/13/fallstudie-zur-regressionsanalyse-ggplot2movies/&#34;&gt;Beispiel für Ihre Prognosemodellierung 2, mittlerer Anspruch&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/03/10/fallstudie-modellierung-von-flugversp%C3%A4tungen/&#34;&gt;Beispiel für Ihre Prognosemodellierung 3, hoher Anspruch&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/03/10/fallstudie-modellierung-von-flugversp%C3%A4tungen/&#34;&gt;Fallstudie: Modellierung von Flugverspätungen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/24/modelling-movie-successes-linear-regression/&#34;&gt;Modelling movie successes: linear regression&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/11/13/fallstudie-zur-regressionsanalyse-ggplot2movies/&#34;&gt;Movies&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/ssauer/tmdb-simple-regression-beginners&#34;&gt;Fallstudie Einfache lineare Regression in Base-R, Anfängerniveau, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2022/05/02/fallstudie-spritverbrauch/&#34;&gt;Fallstudie Sprit sparen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/saikatkumardey/linear-regression-case-study/notebook&#34;&gt;Fallstudie zum Beitrag verschiedener Werbeformate zum Umsatz&lt;/a&gt;; eine Fallstudie in Python, aber mit etwas Erfahrung wird man den Code einfach in R umsetzen können (wenn man nicht in Python schreiben will)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/practical-linear-regression-r-case-study-diamond-prices-valdeleon/?trk=public_profile_article_view&#34;&gt;Practical Linear Regression with R: A case study on diamond prices&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://stat-ata-asu.github.io/MultipleAndLogisticRegression/case-study-italian-restaurants-in-nyc.html&#34;&gt;Case Study: Italian restaurants in NYC&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/19/vohrersgage-modellierung-des-preises-von-diamanten/&#34;&gt;Vorhersage-Modellierung des Preises von Diamanten&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/25/modellierung-diamantenpreis-2/&#34;&gt;Modellierung Diamantenpreis 2&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;machine-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Machine Learning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;FALLSTUDIEN - MASCHINELLES LERNEN MIT TIDYMODELS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-bloggers.com/2021/08/experimenting-with-machine-learning-in-r-with-tidymodels-and-the-kaggle-titanic-dataset/&#34;&gt;Experimenting with machine learning in R with tidymodels and the Kaggle titanic dataset&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hansjoerg.me/2020/02/09/tidymodels-for-machine-learning/&#34;&gt;Tutorial on tidymodels for Machine Learning&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/&#34;&gt;Classification with Tidymodels, Workflows and Recipes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/varimp/a-mostly-tidyverse-tour-of-the-titanic/report&#34;&gt;A (mostly!) tidyverse tour of the Titanic&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/headsortails/personalised-medicine-eda-with-tidy-r/report&#34;&gt;Personalised Medicine - EDA with tidy R&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/headsortails/tidy-titarnic/report&#34;&gt;Tidy TitaRnic&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tidymodels.org/start/models/&#34;&gt;Fallstudie Seegurken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/student-debt/&#34;&gt;Sehr einfache Fallstudie zur Modellierung einer Regression mit tidymodels&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gmudatamining.com/lesson-10-r-tutorial.html&#34;&gt;Fallstudie zur linearen Regression mit Tidymodels&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sebastiansauer/covid-icu&#34;&gt;Analyse zum Verlauf von Covid-Fällen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://onezero.blog/modelling-binary-logistic-regression-using-tidymodels-library-in-r-part-1/&#34;&gt;Fallstudie zur Modellierung einer logististischen Regression mit tidymodels&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/multinomial-volcano-eruptions/&#34;&gt;Fallstudie zu Vulkanausbrüchen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/himalayan-climbing/&#34;&gt;Fallstudie Himalaya&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/tuition-resampling/&#34;&gt;Fallstudien zu Studiengebühren&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tidymodels.org/start/case-study/&#34;&gt;1. Modell der Fallstudie Hotel Bookings&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sebastiansauer/datascience1/blob/main/Aufgaben/Thema8-Loesungen1.pdf&#34;&gt;Aufgaben zur logistischen Regression, PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bcullen.rbind.io/post/2020-06-02-tidymodels-decision-tree-learning-in-r/&#34;&gt;Fallstudie Oregon Schools&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/wind-turbine/&#34;&gt;Fallstudie Windturbinen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gmudatamining.com/lesson-13-r-tutorial.html&#34;&gt;Fallstudie Churn&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/12/14/titanic-tidymodels-boost/&#34;&gt;Einfache Durchführung eines Modellierung mit XGBoost&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bcullen.rbind.io/post/2020-06-02-tidymodels-decision-tree-learning-in-r/&#34;&gt;Fallstudie Oregon Schools&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gmudatamining.com/lesson-13-r-tutorial.html&#34;&gt;Fallstudie Churn&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/ikea-prices/&#34;&gt;Fallstudie Ikea&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/water-sources/&#34;&gt;Fallstudie Wasserquellen in Sierra Leone&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://dev.to/juliasilge/tuning-random-forest-hyperparameters-in-r-with-tidytuesday-trees-data-4ilh&#34;&gt;Fallstudie Bäume in San Francisco&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/multinomial-volcano-eruptions/&#34;&gt;Fallstudie Vulkanausbrüche&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/board-games/&#34;&gt;Fallstudie Brettspiele mit XGBoost&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/lasso-the-office/&#34;&gt;Fallstudie Serie The Office&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/nber-papers/&#34;&gt;Fallstudie NBER Papers&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/ssauer/simple-linear-model-tidymodels&#34;&gt;Fallstudie Einfache lineare Regression mit Tidymodels, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/ssauer/simple-rf-tuned&#34;&gt;Fallstudie Einfaches Random-Forest-Modell mit Tidymodels, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/ssauer/tmdb-xgboost-tidymodels&#34;&gt;Fallstudie Workflow-Set mit Tidymodels, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/modesty520/a-tutorial-with-tidymodels/report#modeling&#34;&gt;Fallstudie Titanic mit Tidymodels bei Kaggle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/benthecoder/tidymodels-in-r-using-measles-data/notebook&#34;&gt;Einfache Fallstudie mit Tidymodels bei Kaggle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-bloggers.com/2021/04/exploring-the-star-wars-prequel-renaissance-using-tidymodels-and-workflowsets/&#34;&gt;Exploring the Star Wars “Prequel Renaissance” Using tidymodels and workflowsets&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

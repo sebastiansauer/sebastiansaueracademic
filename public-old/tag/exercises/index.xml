@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exercises | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/exercises/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <description>exercises</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>exercises</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/exercises/</link>
+    </image>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package teachertools</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/teachertools/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/teachertools/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/status-early%20state-red&#34; alt=&#34;Beware, very early status&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This repo provides tools for writing and grading exams/exercises, as well as publishing course materials.
+The tools consists of R functions.&lt;/p&gt;
+&lt;p&gt;Check-out the &lt;a href=&#34;https://github.com/sebastiansauer/teachertools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

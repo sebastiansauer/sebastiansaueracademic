@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/software/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>Softwares</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/</link>
+    </image>
+    
+    <item>
+      <title>R-package pradadata</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/pradadata/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/pradadata/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;h1 id=&#34;pradadata&#34;&gt;pradadata&lt;/h1&gt;
+&lt;p&gt;data sets for practical data analysis&lt;/p&gt;
+&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+&lt;p&gt;Data sets featuring data from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;German elections 2017&lt;/li&gt;
+&lt;li&gt;OECD wellbeing 2016&lt;/li&gt;
+&lt;li&gt;survey on extraversion 2015-2016&lt;/li&gt;
+&lt;li&gt;Schwartz cultural values 1988-2000&lt;/li&gt;
+&lt;li&gt;sociol economic data of all German 2017 electoral districts&lt;/li&gt;
+&lt;li&gt;geomap of German electoral districts 2017&lt;/li&gt;
+&lt;li&gt;toy data set on sex, height, and shoe size&lt;/li&gt;
+&lt;li&gt;online dating platform experiment 2015&lt;/li&gt;
+&lt;li&gt;German sentiment lexicon (germanlex)&lt;/li&gt;
+&lt;li&gt;German sentiment lexicon (sentiws)&lt;/li&gt;
+&lt;li&gt;predictors and score of statistics test&lt;/li&gt;
+&lt;li&gt;names of world countries&lt;/li&gt;
+&lt;li&gt;party platform of the AfD party (&amp;ldquo;Alternative fuer Deutschland&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notes that some (most) of these data sets were not published by the author of this pacakge. The original authors and the respective licences can be found in the desription of each data set.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;devtools::install_github(&amp;quot;sebastiansauer/pradadata&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;p&gt;In R (or RStudio) type
+&lt;code&gt;library(&amp;quot;pradadata&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-help&#34;&gt;Get help&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;help(&amp;quot;pradadata&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;R&lt;/p&gt;
+&lt;h2 id=&#34;licence&#34;&gt;Licence&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat&#34; alt=&#34;Package-License&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;doi&#34;&gt;DOI&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/109450408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zenodo.org/badge/109450408.svg&#34; alt=&#34;DOI&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package teachertools</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/teachertools/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/teachertools/</guid>
+      <description>&lt;p&gt;Collection on helper functions for teachers in quantitative fields&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/status-early%20state-red&#34; alt=&#34;Beware, very early status&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This repo provides tools for writing and grading exams/exercises, as well as publishing course materials.
+The tools consists of R functions.&lt;/p&gt;
+&lt;p&gt;Check-out the &lt;a href=&#34;https://github.com/sebastiansauer/teachertools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-package prada</title>
+      <link>https://sebastiansauer-academic.netlify.app/software/prada/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/software/prada/</guid>
+      <description>&lt;p&gt;R package for for practical data analysis&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

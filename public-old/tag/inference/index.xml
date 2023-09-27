@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inference | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/inference/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>inference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>inference</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/inference/</link>
+    </image>
+    
+    <item>
+      <title>Statistik1</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/statistik1/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/statistik1/</guid>
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://statistik1.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Statistik1&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
+&lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
+&lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
+Anders gesagt: Sie lernen, wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
+Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;. (Darauf dis Studenti: &amp;ldquo;Hpmf.&amp;rdquo;).
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft.
+Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
+Wir wollen aber belastbare Vorhersagen und zumindest wissen,
+wie gut die Vorhersagen bisher waren.&lt;/p&gt;
+&lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
+&lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h3&gt;
+&lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h3&gt;
+&lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Start:Bayes!</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://start-bayes.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Start: Bayes! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stats Nutshell</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/stats-nutshell/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://stats-nutshell.netlify.app/&#39;;&#34;&gt;
+     Statistics in a nutshell: Introduction to Statistical Modelling
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;p&gt;Analyzing research data can broadly be classified in three parts: explorative data analysis, modeling (including inference), and visualization. Either part is pivotal in its own right, but it can be argued that modeling is at the core of the scientific endeavor. However, in practice, modeling, visualization, and data exploration is heavily intertwined, so that three parts may be recognized (as individual entities) but not usefully separated from each other. This idea provides the rationale of this course: Data exploration, data visualization and data modeling is discussed as an integrated framework.&lt;/p&gt;
+&lt;p&gt;The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stats-nutshell.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-nutshell&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Covid ICU</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</guid>
+      <description>&lt;h1 id=&#34;what-factors-fuel-the-afd-election-success&#34;&gt;What factors fuel the AfD election success?&lt;/h1&gt;
+&lt;p&gt;The party “Alternative fuer Deutschland” (AfD) is a right-wing to far-right political party in Germany. Founded in 2013, it that has managed to gain seats in all states parliaments as well as in the federal parliament within a short period of time. The AfD became the third-largest party in Germany after the 2017 federal elections. Such striking success is quite unique in German post-war politics. Consequently, AfD’s upsurge has sparked an intensive debate as to the why’s and hows of this success. Some explanations of AfD’s electoral success have been brought forward by scholars but also some “folk theories” circulate. In this study, we test some folk theories highlighting potential causes of AfD electoral success such as unemployment, migration rate, age, and east/west cultural diﬀerences. Our data are based on the German federal election results (2017), alongside with structural data on each German electoral district (n=299). Our analysis is novel insofar as a more rigorous Bayesian multilevel modeling is applied.&lt;/p&gt;
+&lt;h1 id=&#34;methods-bayesian-multilevel-regression&#34;&gt;Methods: Bayesian multilevel regression&lt;/h1&gt;
+&lt;p&gt;Sample. All data were obtained from the Bundeswahlleiter (2017). There were no missing values, and we conﬁrm that the data were not transformed in any other way than reported here. z-Values were used as model inputs.&lt;/p&gt;
+&lt;p&gt;Hypotheses. Three factors were hypothesized to exert an eﬀect on the AfD votes: a) unemployment rate (positive), b) foreigner rate (positive), and c) East Germany (positive). All eﬀects are assumed linear.&lt;/p&gt;
+&lt;p&gt;Design. The study is based on a cross-sectional, observational design thereby precluding strong causal conclusions. Predictors were selected according to widely circulating folk theories of AfD success.&lt;/p&gt;
+&lt;p&gt;Analysis. Stan was used via the R packages rstan and rethinking (McElreath, 2017). For model estimation, Hamiltonian Markov Chain Monte Carlo (MCMC) with 2000 iterations, 2 chains, 1/2 burn-in time, was used. Information criteria (WAIC) served for model comparison. In an explorative matter, we included federal state as predictor and compared the model variations.&lt;/p&gt;
+&lt;h1 id=&#34;results-limited-support-for-proposed-model&#34;&gt;Results: Limited support for proposed model&lt;/h1&gt;
+&lt;p&gt;Interestingly, neither immigration (foreigner) rate nor unemployment rate played an important role. East Germany proved to be a more impactful predictor. However, federal state came out as the strongest predictor of AfD voting success. In sum, the multi level model state combined state, foreigner rate, and unemployment rate turned out to be best in class (cf. Table 1, model m15_stan). Figure 6 compares the (absolute) prediction errors between all models tested. The trace plot of the best model supported convergence of the model (not depicted). Figure 7 shows the mass intervals for the main coeﬃcients of the best model. A comparison between estimated and observed AfD votes per electoral district is shown in Figure 8.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion-unknown-role-of-state-aspects&#34;&gt;Conclusion: Unknown role of State aspects&lt;/h1&gt;
+&lt;p&gt;It can only be speculated as to why the state played a pivotal role in these models. A state can be seen as a bundle of shared cultural values, local socioeconomic factors, the impact of the aging society, or the inﬂuence of local politicians, to name a few. To be clear, the present model is simplistic. It remains unknown which (causally) relevant factors have been missed out. Sadly, the ﬁeld lacks strong theories that explain the pathways of voting behavior, particularly for the rise of (right-wing) populist parties. Given the importance of political liberty, and in the light of the experiences (and horrors) of populism in the 20th century Europe, it remains a duty to shed light on the whys and hows of of societal and electoral will articulation.&lt;/p&gt;
+&lt;h1 id=&#34;further-work&#34;&gt;Further work&lt;/h1&gt;
+&lt;p&gt;Also check-out this &lt;a href=&#34;https://github.com/sebastiansauer/afd-personality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related work on the possible impact of personality and voting for the AfD&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Template for the FOM University</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/xafom/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/bayes-start/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/bayes-start/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Blitzkurs</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/r-blitzkurse/</guid>
+      <description>&lt;p&gt;R ist die führende Software für Datenanalyse und insofern Eintrittskarte in das Datenzeitalter. Sie würden gerne R kennenlernen, aber das kostet Sie zu viel Zeit? Dann kommen Sie zum R-Blitzkurs! In 60 Minuten lernen Sie zentrale Schritte der Datenanalyse. OK, vielleicht reicht die Zeit auch nur für einen ersten Eindruck - aber der erste Schritt ist der wichtigste. Aus dem Inhalt: Daten importieren in R, deskriptive Statistiken erstellen, Diagramme erzeugen, Daten und Ergebnisse exportieren, inferenzstatistische Tests durchführen. Sie brauchen keine Software vorab installieren; im Kurs wird Ihnen eine Online-Version von R bereitgestellt (kostenlos). Es ist aber nötig, sich ein Konto dafür vorab anzulegen, bitte lesen Sie die Details in der Kursbeschreibung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vorhersagemodellierung (2021)</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/qm1/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/qm1/</guid>
+      <description>&lt;p&gt;In diesem Modul lernen Sie das Handwerk der Prognose:
+Auf Basis von Fakten (Daten) den (noch unbekannten) Wert einer Zielvariablen vorherzusagen.
+Zum Beispiel wieviel Umsatz von einem Kunden mit einem bestimmten Profil im Schnitt zu erwarten ist.
+Damit lernen Sie die Grundkompetenzen zum Berufsbild Data Scientist – ein angesagtes Berufsbild unserer Zeit.
+Außerdem lernen Sie etwas Handwerkszeug der (quantitativen) Forschung;
+der überwältigend große Teil der Forschung basiert auf Ideen, von denen Sie ein paar in diesem Kurs lernen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictors of AfD party success</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/populism2/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/populism2/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The party “Alternative fuer Deutschland” (AfD) is a right-wing to far-right political party in Germany. Founded in 2013, it that has managed to gain seats in all states parliaments as well as in the federal parliament within a short period of time. The AfD became the third-largest party in Germany after the 2017 federal elections. Such striking success is quite unique in German post-war politics. Consequently, AfD’s upsurge has sparked an intensive debate as to the why’s and hows of this success. Some explanations of AfD’s electoral success have been brought forward by scholars but also some “folk theories” circulate. In this study, we test some folk theories highlighting potential causes of AfD electoral success such as unemployment, migration rate, age, and east/west cultural diﬀerences. Our data are based on the German federal election results (2017), alongside with structural data on each German electoral district (n=299). Our analysis is novel insofar as a more rigorous Bayesian multilevel modeling is applied.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datascience | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/datascience/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/datascience/index.xml" rel="self" type="application/rss+xml" />
+    <description>datascience</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>datascience</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/datascience/</link>
+    </image>
+    
+    <item>
+      <title>Data Science 2</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;lernziele&#34;&gt;Lernziele&lt;/h2&gt;
+&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
+&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
+&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
+&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 1</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/ds1/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Videosammlung</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/videos/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/videos/</guid>
+      <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
+&lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
+&lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moderne Datenanalyse mit R</title>
+      <link>https://sebastiansauer-academic.netlify.app/book/modar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/book/modar/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://link.springer.com/book/10.1007/978-3-658-21587-3&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Moderne Datenanalyse mit R&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
+&lt;p&gt;Ziel ist es, Leser mit der Art und Weise vertraut zu machen, wie führende Organisationen und Praktiker angewandte Statistik heute einsetzen. Weil sich mit der Digitalisierung auch die statistischen Verfahren verändert haben, vermittelt der Autor neben klassischen Analysemethoden wie Regression auch moderne Methoden wie Textmining und Random-Forest-Modelle. Dabei sind die Inhalte des Buchs durchgehend so aufbereitet, dass sie auch für Leser ohne umfangreiche mathematische Vorkenntnisse verständlich sind. Anhand von Fallbeispielen und Übungen werden die Leser durch alle Phasen der Datenanalyse geführt: Sie lernen, wie Daten eingelesen, aufbereitet, visualisiert, modelliert und kommuniziert werden können. Dabei wird vor allem die Aufbereitung, Umformung und Prüfung der Daten ausführlicher als in anderen Publikationen behandelt, da dieser Teil in der Praxis oft einen wesentlichen Teil des Aufwands ausmacht. Aber auch die Visualisierung bekommt viel Raum, denn gute Diagramme ermöglichen Einblicke, die Zahlen und Worte verbergen.
+Mit seinem praxisorientierten Ansatz will das Buch dazu befähigen,
+alle grundlegenden Schritte eines Datenanalyseprojekts durchzuführen,
+Daten kompetent in R zu bearbeiten,
+simulationsbasierte Inferenzstatistik anzuwenden und kritisch zu hinterfragen,
+klassische und moderne Vorhersagemethoden anzuwenden und
+betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodelle zu beantworten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case studies</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/casestudies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/casestudies/</guid>
+      <description>
+
+
+&lt;p&gt;A case study on data analysis is sometimes dubbed “YACSDA”, as for “Yet Another Case Study on Data Analysis”.
+Well, here’s my curated list of YACSDAs.
+The indented audience is students are aspiring data analysts/scientists.&lt;/p&gt;
+&lt;p&gt;All case studies are using R as the computational environment and are open eductational resource materials.
+That implies that all YACSDAs are reproducible (for the most part).&lt;/p&gt;
+&lt;div id=&#34;explorative-data-analysis&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Explorative Data analysis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;FALLSTUDIEN - NUR EXPLORATIVE DATENANALYSE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://allisonhorst.shinyapps.io/dplyr-learnr/#section-welcome&#34;&gt;Datenjudo mit Pinguinen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/24/exercises-to-data-wrangling-with-the-tidyverse/&#34;&gt;Data-Wranglinng-Aufgaben zur Lebenserwartung&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/&#34;&gt;Case study: data vizualization on flight delays using tidyverse tools&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/12/07/ex-visualizing-diamonds/&#34;&gt;Aufgabe zur Datenvisualisierung des Diamantenpreises&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/03/08/eda-zu-flugversp%C3%A4tungen/&#34;&gt;Fallstudie Flugverspätungen - EDA&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/11/yacda-topgear/&#34;&gt;Fallstudie zur EDA: Top-Gear&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/11/explorative-datenanalyse-zum-datensatz-oecd-wellbeing/&#34;&gt;Fallstudie zur EDA: OECD-Wellbeing-Studie&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://minimaxir.com/2018/07/imdb-data-analysis/&#34;&gt;Fallstudie zur EDA: Movie Rating&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/saghirb/WiP-tidyverse/blob/master/doc/WiP-tidyverse.pdf&#34;&gt;Fallstudie zur EDA: Women in Parliament&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/27/datensatz-flights-finde-den-tag-mit-den-meisten-abfl%C3%BCgen/&#34;&gt;Finde den Tag mit den meisten Flugverspätungen, Datensatz ‘nycflights13’&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://varianceexplained.org/r/tidy-genomics/&#34;&gt;Cleaning and visualizing genomic data: a case study in tidy analysis&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.njtierney.com/post/2017/11/07/tidyverse-billboard/&#34;&gt;Tidyverse Case Study: Exploring the Billboard Charts&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/11/27/analyse-der-rki-coronadaten/&#34;&gt;Analyse einiger RKI-Coronadaten: Eine reproduzierbare Fallstudie&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/casestudies/ocs-healthexpenditure.html&#34;&gt;OpenCaseStudies - Health Expenditure&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard/#Motivation&#34;&gt;Open Case Studies: School Shootings in the United States&lt;/a&gt; - includes dashboards&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/ocs-bp-youth-disconnection/&#34;&gt;Open Case Studies: Disparities in Youth Disconnection&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/28/yacsda-seitenspr%C3%BCnge/&#34;&gt;YACSDA Seitensprünge&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.opencasestudies.org/&#34;&gt;The Open Case Study Search&lt;/a&gt; provides a nice collection of helpful case studies.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://fallstudien.netlify.app/&#34;&gt;ifes@FOM Fallstudienseite&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;linear-models&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Linear models&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;FALLSTUDIEN - NUR LINEARE MODELLE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://youtu.be/5pBTHrnRIZY&#34;&gt;Beispiel für Prognosemodellierung 1, grundlegender Anspruch, Video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/11/13/fallstudie-zur-regressionsanalyse-ggplot2movies/&#34;&gt;Beispiel für Ihre Prognosemodellierung 2, mittlerer Anspruch&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/03/10/fallstudie-modellierung-von-flugversp%C3%A4tungen/&#34;&gt;Beispiel für Ihre Prognosemodellierung 3, hoher Anspruch&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/03/10/fallstudie-modellierung-von-flugversp%C3%A4tungen/&#34;&gt;Fallstudie: Modellierung von Flugverspätungen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/02/24/modelling-movie-successes-linear-regression/&#34;&gt;Modelling movie successes: linear regression&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/11/13/fallstudie-zur-regressionsanalyse-ggplot2movies/&#34;&gt;Movies&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/ssauer/tmdb-simple-regression-beginners&#34;&gt;Fallstudie Einfache lineare Regression in Base-R, Anfängerniveau, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2022/05/02/fallstudie-spritverbrauch/&#34;&gt;Fallstudie Sprit sparen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/saikatkumardey/linear-regression-case-study/notebook&#34;&gt;Fallstudie zum Beitrag verschiedener Werbeformate zum Umsatz&lt;/a&gt;; eine Fallstudie in Python, aber mit etwas Erfahrung wird man den Code einfach in R umsetzen können (wenn man nicht in Python schreiben will)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/practical-linear-regression-r-case-study-diamond-prices-valdeleon/?trk=public_profile_article_view&#34;&gt;Practical Linear Regression with R: A case study on diamond prices&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://stat-ata-asu.github.io/MultipleAndLogisticRegression/case-study-italian-restaurants-in-nyc.html&#34;&gt;Case Study: Italian restaurants in NYC&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/19/vohrersgage-modellierung-des-preises-von-diamanten/&#34;&gt;Vorhersage-Modellierung des Preises von Diamanten&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2021/05/25/modellierung-diamantenpreis-2/&#34;&gt;Modellierung Diamantenpreis 2&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;machine-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Machine Learning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;FALLSTUDIEN - MASCHINELLES LERNEN MIT TIDYMODELS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-bloggers.com/2021/08/experimenting-with-machine-learning-in-r-with-tidymodels-and-the-kaggle-titanic-dataset/&#34;&gt;Experimenting with machine learning in R with tidymodels and the Kaggle titanic dataset&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hansjoerg.me/2020/02/09/tidymodels-for-machine-learning/&#34;&gt;Tutorial on tidymodels for Machine Learning&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/&#34;&gt;Classification with Tidymodels, Workflows and Recipes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/varimp/a-mostly-tidyverse-tour-of-the-titanic/report&#34;&gt;A (mostly!) tidyverse tour of the Titanic&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/headsortails/personalised-medicine-eda-with-tidy-r/report&#34;&gt;Personalised Medicine - EDA with tidy R&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/headsortails/tidy-titarnic/report&#34;&gt;Tidy TitaRnic&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tidymodels.org/start/models/&#34;&gt;Fallstudie Seegurken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/student-debt/&#34;&gt;Sehr einfache Fallstudie zur Modellierung einer Regression mit tidymodels&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gmudatamining.com/lesson-10-r-tutorial.html&#34;&gt;Fallstudie zur linearen Regression mit Tidymodels&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sebastiansauer/covid-icu&#34;&gt;Analyse zum Verlauf von Covid-Fällen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://onezero.blog/modelling-binary-logistic-regression-using-tidymodels-library-in-r-part-1/&#34;&gt;Fallstudie zur Modellierung einer logististischen Regression mit tidymodels&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/multinomial-volcano-eruptions/&#34;&gt;Fallstudie zu Vulkanausbrüchen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/himalayan-climbing/&#34;&gt;Fallstudie Himalaya&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/tuition-resampling/&#34;&gt;Fallstudien zu Studiengebühren&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tidymodels.org/start/case-study/&#34;&gt;1. Modell der Fallstudie Hotel Bookings&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sebastiansauer/datascience1/blob/main/Aufgaben/Thema8-Loesungen1.pdf&#34;&gt;Aufgaben zur logistischen Regression, PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bcullen.rbind.io/post/2020-06-02-tidymodels-decision-tree-learning-in-r/&#34;&gt;Fallstudie Oregon Schools&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/wind-turbine/&#34;&gt;Fallstudie Windturbinen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gmudatamining.com/lesson-13-r-tutorial.html&#34;&gt;Fallstudie Churn&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://data-se.netlify.app/2020/12/14/titanic-tidymodels-boost/&#34;&gt;Einfache Durchführung eines Modellierung mit XGBoost&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bcullen.rbind.io/post/2020-06-02-tidymodels-decision-tree-learning-in-r/&#34;&gt;Fallstudie Oregon Schools&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gmudatamining.com/lesson-13-r-tutorial.html&#34;&gt;Fallstudie Churn&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/ikea-prices/&#34;&gt;Fallstudie Ikea&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/water-sources/&#34;&gt;Fallstudie Wasserquellen in Sierra Leone&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://dev.to/juliasilge/tuning-random-forest-hyperparameters-in-r-with-tidytuesday-trees-data-4ilh&#34;&gt;Fallstudie Bäume in San Francisco&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/multinomial-volcano-eruptions/&#34;&gt;Fallstudie Vulkanausbrüche&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/board-games/&#34;&gt;Fallstudie Brettspiele mit XGBoost&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/lasso-the-office/&#34;&gt;Fallstudie Serie The Office&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://juliasilge.com/blog/nber-papers/&#34;&gt;Fallstudie NBER Papers&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/ssauer/simple-linear-model-tidymodels&#34;&gt;Fallstudie Einfache lineare Regression mit Tidymodels, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/ssauer/simple-rf-tuned&#34;&gt;Fallstudie Einfaches Random-Forest-Modell mit Tidymodels, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/ssauer/tmdb-xgboost-tidymodels&#34;&gt;Fallstudie Workflow-Set mit Tidymodels, Kaggle-Competition TMDB&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/modesty520/a-tutorial-with-tidymodels/report#modeling&#34;&gt;Fallstudie Titanic mit Tidymodels bei Kaggle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/benthecoder/tidymodels-in-r-using-measles-data/notebook&#34;&gt;Einfache Fallstudie mit Tidymodels bei Kaggle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-bloggers.com/2021/04/exploring-the-star-wars-prequel-renaissance-using-tidymodels-and-workflowsets/&#34;&gt;Exploring the Star Wars “Prequel Renaissance” Using tidymodels and workflowsets&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

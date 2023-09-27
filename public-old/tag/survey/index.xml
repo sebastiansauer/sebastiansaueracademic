@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/survey/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>survey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>survey</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/survey/</link>
+    </image>
+    
+    <item>
+      <title>Wie man Umfragen auswertet</title>
+      <link>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/courseware/umfragen-auswerten/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/umfragen-auswerten/index.html&#39;;&#34;&gt;
+     Wie man psychometrische Umfragedaten auswertet: Eine Einführung
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;p&gt;Fragebogendaten zu psychologischen Variablen (wie z.B. Extraversion), die wissenschaftlichen Ansprüchen genügen, bezeichnet man als psychometrische Daten (vgl. Steyer and Eid 1993). Der Analyse psychometrischer Daten kommt große Bedeutung innerhalb der Psychologie (und angrenzender Gebiete wie Marketing) zu. Der Grund ist, dass Daten häufig in Form von Fragebogen, psychometrischer Fragebogen, erhoben werden. Besonders für Persönlichkeitskonstrukte und Einstellungen, kurz für Fragestellungen der Persönlichkeitspsychologie und, davon abgeleitet, der Diagnostik, erfreuen sie sich weiter Verbreitung.&lt;/p&gt;
+&lt;p&gt;Ziel dieses Beitrags ist es, eine praktische Anleitung für typische (und grundlegende) psychometrischen Analysen mittels R zu geben. Dabei soll demonstriert und erläutert werden, welche Analysen und wie durchgeführt werden in einer grundständigen psychometrischen Analyse. Es wird sowohl der Einzelfall-Diagnostik Rechnung getragen, als auch der Testvalidierung. Anders gesagt, dieses Dokument hilft, u.a. folgende Fragen zu beantworten: “Wie leistungsfähig war der Applikant im Vergleich zu seiner Referenzgruppe?”, “Wie ist die Qualität dieses Testverfahrens einzuschätzen?”.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

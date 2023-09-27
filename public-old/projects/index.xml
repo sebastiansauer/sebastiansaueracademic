@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/projects/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/</link>
+    </image>
+    
+    <item>
+      <title>Covid ICU</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/covid-icu/</guid>
+      <description>&lt;p&gt;Analysis related to Covid 19 severity in patients at an ICU&lt;/p&gt;
+&lt;p&gt;This repo describes the analyses of correlates of Covid 19 severity in patients at a large intensiv cure unit (ICU) in a German hospital in 2022.&lt;/p&gt;
+&lt;p&gt;More specifically, the main research question is which predictors allow to classify the severity of a Covid 19 infection in the inpatients (ie., observations of the present sample).&lt;/p&gt;
+&lt;p&gt;The analyses was performed in R, primarily relying on tidyverse and tidymodels. Check out the Rmd files for a reproducible account of your analyses. The analyses source file are numbered as to their order in the main analyses (ie., start file 01, then comes 02, &amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the predictors of the party success of the Alternative fuer Deutschland (AfD) in the 2021 German federal elections?</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/afd-2021/</guid>
+      <description>&lt;h1 id=&#34;what-factors-fuel-the-afd-election-success&#34;&gt;What factors fuel the AfD election success?&lt;/h1&gt;
+&lt;p&gt;The party “Alternative fuer Deutschland” (AfD) is a right-wing to far-right political party in Germany. Founded in 2013, it that has managed to gain seats in all states parliaments as well as in the federal parliament within a short period of time. The AfD became the third-largest party in Germany after the 2017 federal elections. Such striking success is quite unique in German post-war politics. Consequently, AfD’s upsurge has sparked an intensive debate as to the why’s and hows of this success. Some explanations of AfD’s electoral success have been brought forward by scholars but also some “folk theories” circulate. In this study, we test some folk theories highlighting potential causes of AfD electoral success such as unemployment, migration rate, age, and east/west cultural diﬀerences. Our data are based on the German federal election results (2017), alongside with structural data on each German electoral district (n=299). Our analysis is novel insofar as a more rigorous Bayesian multilevel modeling is applied.&lt;/p&gt;
+&lt;h1 id=&#34;methods-bayesian-multilevel-regression&#34;&gt;Methods: Bayesian multilevel regression&lt;/h1&gt;
+&lt;p&gt;Sample. All data were obtained from the Bundeswahlleiter (2017). There were no missing values, and we conﬁrm that the data were not transformed in any other way than reported here. z-Values were used as model inputs.&lt;/p&gt;
+&lt;p&gt;Hypotheses. Three factors were hypothesized to exert an eﬀect on the AfD votes: a) unemployment rate (positive), b) foreigner rate (positive), and c) East Germany (positive). All eﬀects are assumed linear.&lt;/p&gt;
+&lt;p&gt;Design. The study is based on a cross-sectional, observational design thereby precluding strong causal conclusions. Predictors were selected according to widely circulating folk theories of AfD success.&lt;/p&gt;
+&lt;p&gt;Analysis. Stan was used via the R packages rstan and rethinking (McElreath, 2017). For model estimation, Hamiltonian Markov Chain Monte Carlo (MCMC) with 2000 iterations, 2 chains, 1/2 burn-in time, was used. Information criteria (WAIC) served for model comparison. In an explorative matter, we included federal state as predictor and compared the model variations.&lt;/p&gt;
+&lt;h1 id=&#34;results-limited-support-for-proposed-model&#34;&gt;Results: Limited support for proposed model&lt;/h1&gt;
+&lt;p&gt;Interestingly, neither immigration (foreigner) rate nor unemployment rate played an important role. East Germany proved to be a more impactful predictor. However, federal state came out as the strongest predictor of AfD voting success. In sum, the multi level model state combined state, foreigner rate, and unemployment rate turned out to be best in class (cf. Table 1, model m15_stan). Figure 6 compares the (absolute) prediction errors between all models tested. The trace plot of the best model supported convergence of the model (not depicted). Figure 7 shows the mass intervals for the main coeﬃcients of the best model. A comparison between estimated and observed AfD votes per electoral district is shown in Figure 8.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion-unknown-role-of-state-aspects&#34;&gt;Conclusion: Unknown role of State aspects&lt;/h1&gt;
+&lt;p&gt;It can only be speculated as to why the state played a pivotal role in these models. A state can be seen as a bundle of shared cultural values, local socioeconomic factors, the impact of the aging society, or the inﬂuence of local politicians, to name a few. To be clear, the present model is simplistic. It remains unknown which (causally) relevant factors have been missed out. Sadly, the ﬁeld lacks strong theories that explain the pathways of voting behavior, particularly for the rise of (right-wing) populist parties. Given the importance of political liberty, and in the light of the experiences (and horrors) of populism in the 20th century Europe, it remains a duty to shed light on the whys and hows of of societal and electoral will articulation.&lt;/p&gt;
+&lt;h1 id=&#34;further-work&#34;&gt;Further work&lt;/h1&gt;
+&lt;p&gt;Also check-out this &lt;a href=&#34;https://github.com/sebastiansauer/afd-personality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related work on the possible impact of personality and voting for the AfD&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Template for the FOM University</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/xafom/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How populist are the tweets of German politicians? (Wie populistisch tweeten unsere Politiker?)</title>
+      <link>https://sebastiansauer-academic.netlify.app/projects/populism1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/projects/populism1/</guid>
+      <description>&lt;h1 id=&#34;populism-in-tweets-of-german-politicians&#34;&gt;Populism in tweets of German politicians&lt;/h1&gt;
+&lt;p&gt;The last months (years? since ever???) have seen a surge in populism and a rise in nationalism. Not only in Russia, the United States, Turkey, but also in some EU countries the ghost of nationalism-populism seems to be marching and gaining ground.&lt;/p&gt;
+&lt;p&gt;As to Germany, in September 24, 2017, the 19. German federal elections took place. The newly founded alt-right AfD (Alternative for Deutschland) has made a leap and moved in the Bundestag. In some electoral districts, its share rose to 35%, being the strongest party (although normally its share was lower), and in total, the AfD collect 12.6% of the votes, according to the official results.&lt;/p&gt;
+&lt;p&gt;Given the “hell and back” Europe and the world had to witness in the 20th century, this backlash seems surprising and alarming. Of course, a number of ideas on the origin of populist thought and countermeasures are out there.&lt;/p&gt;
+&lt;h2 id=&#34;whats-populism&#34;&gt;What’s populism?&lt;/h2&gt;
+&lt;p&gt;Populism is hard to define, see Laclau, On Populist Reason. So maybe authoritarianism and nationalism are concepts more adequate to deal with enemies of open society. Another idea would be to follow Popper’s idea of what makes a society open and what are the components of a “closed” society.&lt;/p&gt;
+&lt;p&gt;Without worrying much on ongoing discussions, I have tried to define and measure populism as manifest in Tweets of German politicians. The theoretical concept is not too much elaborated (as yet), I confess, but it builds on a well-known and intriguing source, Poppers Open Society.&lt;/p&gt;
+&lt;h2 id=&#34;poppers-idea-of-populism&#34;&gt;Poppers idea of populism&lt;/h2&gt;
+&lt;p&gt;Basically, the following theoretical aspects were used for gauging populism.&lt;/p&gt;
+&lt;p&gt;The roots of the (Western) civilization may be traced to societies such as the ancient Greek clans. In the beginning (but in parts, later on too), those clans were patriarchal in the sense that there one men or one family or one cast who was ruling without any democratic basis. Basically, someone was telling what to do. And every one had to follow. Even more, know only what to do but rather what was right and what was wrong. There is, as a consequence, no place for questions and questioning or doubt and doubting in such societies. It’s pretty clear and easy what’s right and wrong, and what you ought to now. Now, modern society is quite complex, and as a consequence, it is difficult to say what will happen, and what you should do. There are much less guides and less guidance as to what the “right” way of living consists of. Poppers argues that people are suffering from this insecurity, albeit to a different degree. Especially in times of crisis, rapid change, and strong progress the desire too come back to “good old days”, with all their simplicity and security offered by strong men and strong ideas (in the sense of that they provide sure answers), rises.&lt;/p&gt;
+&lt;p&gt;Moreover, those old tribal communities consisted (often) of kinship, there were genetic similarity among the members of a tribe, compared to the people of other tribes. As a result, such tribes or rather such tribal thinking rejoices in evoking the “blood is thicker than water” ideas. You should prefer your relatives more than strangers; sounds plausible, doesn’t it? But taken farer this leads a walling-off from the outside, in the sense that outsiders are considered negative or eve as enemies. In short, the “we” as a group - family, caste, tribe, culture, people, folk - should hold together, and should regard outsiders with suspicion.&lt;/p&gt;
+&lt;p&gt;Similarly, not only our “blood” but also our “soil” is what defined (defines) us as tribal society. This is our land. Not yours. We have always, okay, at least for a long time, been inhabiting this land.&lt;/p&gt;
+&lt;p&gt;More coherently, this is our group, our land, our stories. Nobody (including myself and you, as possible parts of this group) may object to this notion. We may not even doubt, we must obey to the law of what the strong man says, and he says he knows what to know, that’s why he is strong. Admitting “I don’t know” would be considered as a sign of weakness, not of strength. Don’t propose that things could be like this, but also like that, and even this may vary from time to time or according to some unknown boundary conditions…&lt;/p&gt;
+&lt;p&gt;Such ideas provide the base of “closed society thinking”, and populism is nothing more than alluding to this thinking and supporting it.&lt;/p&gt;
+&lt;h2 id=&#34;indicators-of-populism-in-the-present-research&#34;&gt;Indicators of populism in the present research&lt;/h2&gt;
+&lt;p&gt;Much more down to earth, and certainly cum grano salis to say the least, I have tried to translate Popper’s ideas into these eight indicators:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;word length or rather word brevity&lt;/li&gt;
+&lt;li&gt;Number of negative connotated words vs. number of positively connotated words (odds)&lt;/li&gt;
+&lt;li&gt;Proportion of negatively connotated words&lt;/li&gt;
+&lt;li&gt;Proportion of emotional words&lt;/li&gt;
+&lt;li&gt;Score (intensity) of emotion&lt;/li&gt;
+&lt;li&gt;Score (intensity) of negative emotion&lt;/li&gt;
+&lt;li&gt;Proportion of words in CAPITAL LETTERS (shouted)&lt;/li&gt;
+&lt;li&gt;Number of adjectives vs. number of adverbs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Out of these indicators, I formed one populism measure, and I then compared political parties based on this measure. I did not want to tap too much into the individual persons, partly because an aggregated measure may be more reliable, and partly because not too be to nasty to individual persons.&lt;/p&gt;
+&lt;h2 id=&#34;data-material&#34;&gt;Data material&lt;/h2&gt;
+&lt;p&gt;I collected around 400k tweets via the Twitter API; plus approx. 30k Tweets by Donald Trump. In sum, about 200 politicians donated about 6 millions words for this analysis. Not all parties are included, only seven important, the remainder is ignored (sorry). Data was collected from several years, as provided by the API.&lt;/p&gt;
+&lt;p&gt;I think that the API prefers providing newer tweets. Note that Trump data has been accessed from the Trump Twitter Archive.&lt;/p&gt;
+&lt;p&gt;Not all parties tweet the same amount. As I have recently read on Twitter, the only 12 hours, Donald Trump did not tweet was the day he was elected President…&lt;/p&gt;
+&lt;p&gt;From some parties, I was able to find a lot of accounts, from other parties, not so many. This may of course provide some basis for bias. I have tried to find some overview or “official” list of politicians&amp;rsquo; twitter accounts. What I found was this. In addition, I added the accounts from the Bundesvorstaende of the AfD and the FDP, because these parties were especially lacking accounts.&lt;/p&gt;
+&lt;h1 id=&#34;reproducibility&#34;&gt;Reproducibility&lt;/h1&gt;
+&lt;p&gt;The code is on Github, completely. In this post, I will not discuss all technical aspects, but rather invite everyone interested to read the code.&lt;/p&gt;
+&lt;h1 id=&#34;cave-and-conclusion&#34;&gt;Cave and conclusion&lt;/h1&gt;
+&lt;p&gt;Whereas Poppers theory certainly is compelling, the choice of indicators remains subjective. This is not unique for the present analysis, but still different sets of indicators may provide different pictures. Note that this is an explorative study. Still, this picture appears well backup by the data. What’s your impression, your thoughts? Feel free to discuss your ideas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
