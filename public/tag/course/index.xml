@@ -5,12 +5,20 @@
     <link>https://sebastiansauer-academic.netlify.app/tag/course/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/tag/course/index.xml" rel="self" type="application/rss+xml" />
     <description>course</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>course</title>
       <link>https://sebastiansauer-academic.netlify.app/tag/course/</link>
     </image>
+    
+    <item>
+      <title>Thesis</title>
+      <link>https://sebastiansauer-academic.netlify.app/teaching/thesis/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/teaching/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forschungsprojekt in Psychologie</title>
