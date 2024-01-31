@@ -1,10 +1,10 @@
 ---
 date: "2022-10-01"
-external_link: "https://start-bayes.netlify.app/"
+external_link: "https://sebastiansauer.github.io/bayes-start/#skript-schnell"
 image:
   caption: Title Cover by Klara Schaumann
   focal_point: Smart
-summary: Introduction to Bayes Inference (since 2022) 
+summary: Introduction to Bayes Inference (2021 edition) 
 tags:
 - R
 - bayes
@@ -19,7 +19,7 @@ url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 </br>
 
-  <button onclick="window.location.href='https://start-bayes.netlify.app/';">
+  <button onclick="window.location.href='https://sebastiansauer.github.io/bayes-start/#skript-schnell/';">
      Hier geht's zum Skript "Start: Bayes! Inferenzstatistik mit Bayes"
     </button>
 

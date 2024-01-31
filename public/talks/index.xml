@@ -5,12 +5,22 @@
     <link>https://sebastiansauer-academic.netlify.app/talks/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
       <link>https://sebastiansauer-academic.netlify.app/talks/</link>
     </image>
+    
+    <item>
+      <title>Warum Sie nicht (nur) auf Basis von Daten entscheiden sollten&#34;</title>
+      <link>https://sebastiansauer-academic.netlify.app/talks/causal4/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/talks/causal4/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;Sebastian Sauer (HS Ansbach)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Maschinelles Lernen ohne Programmieren - Ein sanfter Einstieg in die KI</title>

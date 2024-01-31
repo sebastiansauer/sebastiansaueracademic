@@ -39,6 +39,13 @@ superuser: true
 title: Sebastian Sauer
 ---
 
+---
+
+{{< icon name="language" pack="fas" >}} {{< icon name="lightbulb" pack="fas" >}} Pro-Tipp: Use your browser's translation tool to translate this webpage to your favorite language.
+
+---
+
+
 
 Sebastian Sauer is a professor with a focus on cognitive psychology and data science at the University of Applied Sciences Ansbach. 
 His research interests include applying machine learning to social science questions, didactics of statistics, mindfulness, and social media analysis.

@@ -1,10 +1,11 @@
 ---
-date: "2021-10-01"
-external_link: "https://sebastiansauer.github.io/datascience1/"
+date: "2024-01-01"
+# external_link: "https://sebastiansauer.github.io/datascience1/"
+external_link: "https://start-bayes.netlify.app/"
 image:
   caption: Title Cover by Klara Schaumann
   focal_point: Smart
-summary: Introduction to Bayes Inference (German), 2021 edition
+summary: Introduction to Bayes Inference (German)
 tags:
 - R
 - bayes
@@ -12,9 +13,9 @@ tags:
 - inference
 - course
 title: "Bayes:Start"
-url_code: "https://sebastiansauer.github.io/bayes-start/"
-url_pdf: ""
-url_slides: "https://sebastiansauer.github.io/bayes-start/#skript-schnell"
+url_code: "https://github.com/sebastiansauer/start-bayes/tree/main"
+# url_pdf: ""
+# url_slides: "https://sebastiansauer.github.io/bayes-start/#skript-schnell"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 

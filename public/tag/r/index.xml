@@ -5,7 +5,7 @@
     <link>https://sebastiansauer-academic.netlify.app/tag/r/</link>
       <atom:link href="https://sebastiansauer-academic.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
       <title>R</title>
@@ -13,10 +13,25 @@
     </image>
     
     <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/bayes-start/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/bayes-start/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Forschungsprojekt in Psychologie</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/fopro/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/fopro/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/fopro/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/fopro/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
@@ -30,9 +45,9 @@
     
     <item>
       <title>Statistik1</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/statistik1/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/statistik1/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/statistik1/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/statistik1/</guid>
       <description>  &lt;button onclick=&#34;window.location.href=&#39;https://statistik1.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Statistik1&#34;
     &lt;/button&gt;
@@ -56,9 +71,9 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
     
     <item>
       <title>Data Science 2</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/ds2/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/ds2/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/ds2/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/ds2/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
@@ -80,7 +95,7 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/courseware/start-bayes/</guid>
       <description>&lt;/br&gt;
-  &lt;button onclick=&#34;window.location.href=&#39;https://start-bayes.netlify.app/&#39;;&#34;&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell/&#39;;&#34;&gt;
      Hier geht&#39;s zum Skript &#34;Start: Bayes! Inferenzstatistik mit Bayes&#34;
     &lt;/button&gt;
 &lt;/br&gt;
@@ -126,18 +141,18 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
     
     <item>
       <title>Datenwerk</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/datenwerk/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/datenwerk/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/datenwerk/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/datenwerk/</guid>
       <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Science 1</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/ds1/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/ds1/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/ds1/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/ds1/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
@@ -197,21 +212,6 @@ wie gut die Vorhersagen bisher waren.&lt;/p&gt;
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/projects/xafom/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Bayes:Start</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/bayes-start/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/bayes-start/</guid>
-      <description>&lt;/br&gt;
-  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
-     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
-    &lt;/button&gt;
-&lt;/br&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
-</description>
     </item>
     
     <item>

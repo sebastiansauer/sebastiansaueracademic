@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebooks | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/ebooks/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ebooks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>Ebooks</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/</link>
+    </image>
+    
+    <item>
+      <title>Bayes:Start</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/bayes-start/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/bayes-start/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://sebastiansauer.github.io/bayes-start/#skript-schnell&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Bayes: Start! Inferenzstatistik mit Bayes&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bayes-Start ist ein frei verfügbarer Einführungskurs in die Bayes-Statistik. Ziel ist, die grundlegende Logik von Bayes-Inferenz zu vermitteln und zu zeigen, wie man mit linearen Modellen viele typische Forschungsfragen beantworten kann. Ein wichtiger Baustein betrifft kausale Überlegungen, also die Frage, wie man kausale Forschungsfragen statistisch umsetzt und beurteilt. Als Software wird R verwendet (R Core Team, 2019) ; für Bayes-Modellierung wird das R-Paket rstanarm verwendet (Goodrich, Gabry, Ali, and Brilleman, 2020). Inhaltlich wird zum Teil auf Richard McElreath’s hervorragenden Lehrbuch, Statistical Rethinking aufgebaut (McElreath, 2020). Außerdem stellt Gelman’s et al. neues, ebenfalls sehr gutes Lehrbuch Regression and other Stories (Gelman, Hill, and Vehtari, 2021) eine Grundlage für die Inhalte dieses Kurses dar. Beide Bücher sind als Lektüre zu empfehlen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forschungsprojekt in Psychologie</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/fopro/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/fopro/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://fopro.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Skript &#34;Forschungsprojekt in Psychologie (2023 edition)&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ihr eigenes Forschungsprojekt ist das vielleicht schönste Projekt in Ihrem Studium: Es vereint echtes Problemlösen mit Kreativität und wohl fundierter Analyse. Sie haben viele Freiheitsgrade: Führen Sie eine echte Studie durch, unterstützt von den Dozentis und nach Ihren Vorstellungen. Jedes Mal erlebt man als Dozenti aufs Neue studentische Studien, die begeistern. Um nur ein Beispiel zu nennen: Vor einiger Zeit zeigt eine Gruppe, dass es sich lohnt, Follower bei Instagram zu kaufen – die Anzahl der Likes steigt überproportional an. Ach ja, falls Sie es sich schon mal gefragt haben: Wer als Mann mit einem Sportwagen auf dem Profilfoto der Single-Börse posiert, erntet ebenfalls mehr Likes als ohne Karre, zumindest laut einem studentischen Experiment … Vielleicht sollten Sie diese Studie auch dringend replizieren, vielleicht wurde ja ein entscheidendes Detail übersehen? Sie Forschung wartet auf Sie!&lt;/p&gt;
+&lt;p&gt;Kurz gesagt lernen Sie also, wie man eine wissenschaftliche Studie durchzieht. Das können Sie als Generalprobe für die Abschlussarbeit nutzen. Für Ihre berufliche Laufbahn ist Forschungskompetenz vielleicht die zentrale Kompetenz, wenn Sie nicht nur Bekanntes abarbeiten möchten, sondern Abläufe verbessern, Produkte erneuern, Chancen entdecken wollen – wenn Sie Neuland betreten und Dinge weiterentwickeln wollen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hinweisbuch</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/hinweisbuch/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/hinweisbuch/</guid>
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://hinweisbuch.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Hinweisbuch&#34;
+    &lt;/button&gt;
+&lt;p&gt;In diesem Buch werden Hinweise zum Unterricht und insbesondere zu Prüfungen bei Professor Sauer gegeben.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistik1</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/statistik1/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/statistik1/</guid>
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://statistik1.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Statistik1&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;was-lerne-ich-hier-und-wozu-ist-das-gut&#34;&gt;Was lerne ich hier und wozu ist das gut?&lt;/h2&gt;
+&lt;h3 id=&#34;was-lerne-ich-hier&#34;&gt;Was lerne ich hier?&lt;/h3&gt;
+&lt;p&gt;Sie lernen die Grundlagen der Datenanalyse mit einem Schwerpunkt auf Vorhersage.
+Anders gesagt: Sie lernen, wie man aus Daten Vorhersagen ableitet. Zum Beispiel: Kommt ein Student zu Ihnen und sagt &amp;ldquo;Ich habe 42 Stunden für die Klausur gelernt, welche Note kann ich in der Klausur erwarten?&amp;rdquo;.
+Darauf Ihre Antwort: &amp;ldquo;Auf Basis meiner Daten und meines Modells müsstest du eine 2.7 schreiben!&amp;rdquo;. (Darauf dis Studenti: &amp;ldquo;Hpmf.&amp;rdquo;).
+Außerdem lernen Sie, wie man die Güte einer Vorhersage auf Stichhaltigkeit prüft.
+Denn Vorhersagen kann man ja in jeder Eckkneipe oder beim Wahrsager bekommen.
+Wir wollen aber belastbare Vorhersagen und zumindest wissen,
+wie gut die Vorhersagen bisher waren.&lt;/p&gt;
+&lt;h3 id=&#34;warum-ist-das-wichtig&#34;&gt;Warum ist das wichtig?&lt;/h3&gt;
+&lt;p&gt;Wir wollen nicht auf Leuten vertrauen, die behaupten, sie wüssten, was für uns richtig und gut ist. Wir wollen selber die Fakten prüfen können.&lt;/p&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-job&#34;&gt;Wozu brauche ich das im Job?&lt;/h3&gt;
+&lt;p&gt;Datenanalyse spielt bereits heute in vielen Berufen eine Rolle. Tendenz stark zunehmend.&lt;/p&gt;
+&lt;h3 id=&#34;wozu-brauche-ich-das-im-weiterem-studium&#34;&gt;Wozu brauche ich das im weiterem Studium?&lt;/h3&gt;
+&lt;p&gt;In Forschungsarbeiten (wie in empirischen Forschungsprojekten, etwa in der Abschlussarbeit) ist es üblich, statistische Ergebnisse hinsichtlich quantitativ zu analysieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 2</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/ds2/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/ds2/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
+    &lt;/button&gt;
+&lt;h2 id=&#34;lernziele&#34;&gt;Lernziele&lt;/h2&gt;
+&lt;p&gt;Nach diesem Kurs sollten Sie …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten aus Sozialen Netzwerken wie Twitter automatisiert in großer Menge auslesen können&lt;/li&gt;
+&lt;li&gt;Gängige Methoden des Textminings mit R anwenden können (z.B. Tokenizing, Stemming, Regex)&lt;/li&gt;
+&lt;li&gt;Verfahren des Maschinenlernens auf Textdaten anwenden können&lt;/li&gt;
+&lt;li&gt;Den Forschungsstand zum Thema Erkennung von Hate Speech in Ausschnitten kennen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datenwerk</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/datenwerk/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/datenwerk/</guid>
+      <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science 1</title>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/ds1/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/ds1/</guid>
+      <description>&lt;/br&gt;
+  &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
+    &lt;/button&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Alle Welt spricht von Big Data, aber ohne die Analyse sind die großen Daten nur großes Rauschen. Was letztlich interessiert, sind die Erkenntnisse, die Einblicke, nicht die Daten an sich. Dabei ist es egal, ob die Daten groß oder klein sind. Natürlich erlauben die heutigen Datenmengen im Verbund mit leistungsfähigen Rechnern und neuen Analysemethoden ein Verständnis, das vor Kurzem noch nicht möglich war. Und wir stehen erst am Anfang dieser Entwicklung. Vielleicht handelt es sich bei diesem Feld um eines der dynamischsten Fachgebiete der heutigen Zeit. Sie sind dabei: Sie lernen einiges Handwerkszeugs des “Datenwissenschaftlers”. Wir konzentrieren uns auf das vielleicht bekannteste Teilgebiet: Ereignisse vorhersagen auf Basis von hoch strukturierten Daten und geeigneter Algorithmen und Verfahren. Nach diesem Kurs sollten Sie in der Lage sein, typisches Gebabbel des Fachgebiet mit Lässigkeit mitzumachen. Ach ja, und mit einigem Erfolg Vorhersagemodelle entwickeln.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

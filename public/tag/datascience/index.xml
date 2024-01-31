@@ -14,9 +14,9 @@
     
     <item>
       <title>Data Science 2</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/ds2/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/ds2/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/ds2/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/ds2/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
@@ -34,18 +34,18 @@
     
     <item>
       <title>Datenwerk</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/datenwerk/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/datenwerk/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/datenwerk/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/datenwerk/</guid>
       <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Science 1</title>
-      <link>https://sebastiansauer-academic.netlify.app/webbooks/ds1/</link>
+      <link>https://sebastiansauer-academic.netlify.app/ebooks/ds1/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/webbooks/ds1/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/ebooks/ds1/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
