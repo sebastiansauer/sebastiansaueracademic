@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: eBooks 
-subtitle: 'eBooks - free and open on the internet'
+subtitle: "eBooks - free and open on the internet. Tipp: Use your browser's translation tools to translate an ebook to your preferred language."
 
 content:
   # Page type to display. E.g. project.
