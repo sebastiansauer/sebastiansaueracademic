@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Books 
-subtitle: 'Print and Online-Books'
+title: eBooks 
+subtitle: 'eBooks - free and open on the internet'
 
 content:
   # Page type to display. E.g. project.
-  page_type: book
+  page_type: ebooks
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0

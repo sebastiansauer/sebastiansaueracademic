@@ -26,9 +26,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sauer_sebastian
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.de/citations?user=r-2ssnAAAAAJ&hl=de
@@ -50,8 +47,8 @@ And in particular, each scientist is also citizen and should strive to defend an
 For the moment, this includes lending a voice to the cause of Ukraine in her struggle to fight off the Russian invasion 🇺🇦.
 
 
+{{< icon name="scroll" pack="fas" >}} Check-out my publication list at [Google Scholar](https://scholar.google.de/citations?user=r-2ssnAAAAAJ).
 
-
-Check-out my [LinkedIn Profile](https://www.linkedin.com/in/dr-sebastian-sauer-4791762/) for details on my vita.
+{{< icon name="file" pack="fas" >}} Check-out my [LinkedIn Profile](https://www.linkedin.com/in/dr-sebastian-sauer-4791762/) for details on my vita.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-sebastian-sauer.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: sebastiansauer1@gmail.com
@@ -38,11 +38,11 @@ content:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
   directions: Drive to Retti Campus (Rettistr.) and park there
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/sauer_sebastian'
+  # contact_links:
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: 'https://twitter.com/sauer_sebastian'
  
 
 design:

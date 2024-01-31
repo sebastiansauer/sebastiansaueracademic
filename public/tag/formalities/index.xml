@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formalities | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/formalities/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/formalities/index.xml" rel="self" type="application/rss+xml" />
+    <description>formalities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>formalities</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/formalities/</link>
+    </image>
+    
+    <item>
+      <title>Hinweisbuch</title>
+      <link>https://sebastiansauer-academic.netlify.app/webbooks/hinweisbuch/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/webbooks/hinweisbuch/</guid>
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://hinweisbuch.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Hinweisbuch&#34;
+    &lt;/button&gt;
+&lt;p&gt;In diesem Buch werden Hinweise zum Unterricht und insbesondere zu Prüfungen bei Professor Sauer gegeben.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

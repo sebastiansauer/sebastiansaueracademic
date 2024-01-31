@@ -14,9 +14,9 @@
     
     <item>
       <title>Data Science 2</title>
-      <link>https://sebastiansauer-academic.netlify.app/book/ds2/</link>
+      <link>https://sebastiansauer-academic.netlify.app/webbooks/ds2/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/book/ds2/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/webbooks/ds2/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://datascience-text.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Data Science - Analyse von Textdaten&#34;
@@ -34,18 +34,18 @@
     
     <item>
       <title>Datenwerk</title>
-      <link>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</link>
+      <link>https://sebastiansauer-academic.netlify.app/webbooks/datenwerk/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/courseware/datenwerk/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/webbooks/datenwerk/</guid>
       <description>&lt;p&gt;Willkomen beim &lt;a href=&#34;https://datenwerk.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenwerk&lt;/a&gt;: Eine Aufgabensammlung zur Datenanalyse&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Science 1</title>
-      <link>https://sebastiansauer-academic.netlify.app/book/ds1/</link>
+      <link>https://sebastiansauer-academic.netlify.app/webbooks/ds1/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/book/ds1/</guid>
+      <guid>https://sebastiansauer-academic.netlify.app/webbooks/ds1/</guid>
       <description>&lt;/br&gt;
   &lt;button onclick=&#34;window.location.href=&#39;https://ds1-prognosemodellierung.netlify.app/&#39;;&#34;&gt;
      Hier geht&#39;s zum Buch &#34;Data Science - Prognosemodellierung&#34;
@@ -64,27 +64,6 @@
       <description>&lt;p&gt;YouTube channel on applied statistics&lt;/p&gt;
 &lt;p&gt;YouTube-Kanal zu verschiedenen Themen der (angewandten) Datenanalyse im weiteren Sinne.&lt;/p&gt;
 &lt;p&gt;Der größte Teil der Videos sind für und aus meinen Unterricht entstanden. Es werden u.a. folgende Themen behandelt: Explorative Datenanalyse, Inferenzstatistik, R, Machine Learning, Kausalinferenz, wissenschaftliches Schreiben, Versuchsplanung.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Moderne Datenanalyse mit R</title>
-      <link>https://sebastiansauer-academic.netlify.app/book/modar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sebastiansauer-academic.netlify.app/book/modar/</guid>
-      <description>&lt;/br&gt;
-  &lt;button onclick=&#34;window.location.href=&#39;https://link.springer.com/book/10.1007/978-3-658-21587-3&#39;;&#34;&gt;
-     Hier geht&#39;s zum Buch &#34;Moderne Datenanalyse mit R&#34;
-    &lt;/button&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Die Kaufempfehlung, die Ihnen ein Webstore ausspricht, die Einschätzung, welcher Kunde kreditwürdig ist, oder die Analyse der Werttreiber von Immobilien – alle diese Beispiele aus dem heutigen Leben sind Ergebnis moderner Verfahren der Datenanalyse. Dieses Buch führt in solche statistische Verfahren anhand der Programmiersprache R ein.&lt;/p&gt;
-&lt;p&gt;Ziel ist es, Leser mit der Art und Weise vertraut zu machen, wie führende Organisationen und Praktiker angewandte Statistik heute einsetzen. Weil sich mit der Digitalisierung auch die statistischen Verfahren verändert haben, vermittelt der Autor neben klassischen Analysemethoden wie Regression auch moderne Methoden wie Textmining und Random-Forest-Modelle. Dabei sind die Inhalte des Buchs durchgehend so aufbereitet, dass sie auch für Leser ohne umfangreiche mathematische Vorkenntnisse verständlich sind. Anhand von Fallbeispielen und Übungen werden die Leser durch alle Phasen der Datenanalyse geführt: Sie lernen, wie Daten eingelesen, aufbereitet, visualisiert, modelliert und kommuniziert werden können. Dabei wird vor allem die Aufbereitung, Umformung und Prüfung der Daten ausführlicher als in anderen Publikationen behandelt, da dieser Teil in der Praxis oft einen wesentlichen Teil des Aufwands ausmacht. Aber auch die Visualisierung bekommt viel Raum, denn gute Diagramme ermöglichen Einblicke, die Zahlen und Worte verbergen.
-Mit seinem praxisorientierten Ansatz will das Buch dazu befähigen,
-alle grundlegenden Schritte eines Datenanalyseprojekts durchzuführen,
-Daten kompetent in R zu bearbeiten,
-simulationsbasierte Inferenzstatistik anzuwenden und kritisch zu hinterfragen,
-klassische und moderne Vorhersagemethoden anzuwenden und
-betriebswirtschaftliche Fragestellungen mittels datengetriebener Vorhersagemodelle zu beantworten.&lt;/p&gt;
 </description>
     </item>
     

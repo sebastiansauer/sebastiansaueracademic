@@ -10,8 +10,8 @@ main:
   - name: Blog
     url: https://data-se.netlify.app/
     weight: 20
-  - name: Books
-    url: '#books'
+  - name: eBooks
+    url: '#ebooks'
     weight: 30
   - name: Courseware
     url: '#courseware'

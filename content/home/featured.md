@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ''
+subtitle: 'Check-out my Google Scholar profile for my publication list'
 
 content:
   # Page type to display. E.g. post, talk, publication...

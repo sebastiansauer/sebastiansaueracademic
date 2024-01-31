@@ -13,11 +13,34 @@
     </image>
     
     <item>
+      <title>Sprechstunden-Termin buchen (für Studentis)</title>
+      <link>https://sebastiansauer-academic.netlify.app/teaching/booking/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/teaching/booking/</guid>
+      <description>&lt;!-- Google Calendar Appointment Scheduling begin --&gt;
+&lt;iframe src=&#34;https://calendar.google.com/calendar/appointments/schedules/AcZssZ2KLQ6U85OX18QYDqIpGu16swZktYEPa5z4JHEv9lyTUm9EVBZbaj1sCaM533U1G6V01jiwRFbN?gv=true&#34; style=&#34;border: 0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- end Google Calendar Appointment Scheduling --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Thesis</title>
       <link>https://sebastiansauer-academic.netlify.app/teaching/thesis/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://sebastiansauer-academic.netlify.app/teaching/thesis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hinweisbuch</title>
+      <link>https://sebastiansauer-academic.netlify.app/webbooks/hinweisbuch/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/webbooks/hinweisbuch/</guid>
+      <description>  &lt;button onclick=&#34;window.location.href=&#39;https://hinweisbuch.netlify.app/&#39;;&#34;&gt;
+     Hier geht&#39;s zum Buch &#34;Hinweisbuch&#34;
+    &lt;/button&gt;
+&lt;p&gt;In diesem Buch werden Hinweise zum Unterricht und insbesondere zu Prüfungen bei Professor Sauer gegeben.&lt;/p&gt;
+</description>
     </item>
     
     <item>

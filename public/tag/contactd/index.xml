@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contactd | Sebastian Sauer Academic</title>
+    <link>https://sebastiansauer-academic.netlify.app/tag/contactd/</link>
+      <atom:link href="https://sebastiansauer-academic.netlify.app/tag/contactd/index.xml" rel="self" type="application/rss+xml" />
+    <description>contactd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastiansauer-academic.netlify.app/media/icon_hufe30330db5c3dae5647fd2ef1714014b_368463_512x512_fill_lanczos_center_3.png</url>
+      <title>contactd</title>
+      <link>https://sebastiansauer-academic.netlify.app/tag/contactd/</link>
+    </image>
+    
+    <item>
+      <title>Sprechstunden-Termin buchen (für Studentis)</title>
+      <link>https://sebastiansauer-academic.netlify.app/teaching/booking/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastiansauer-academic.netlify.app/teaching/booking/</guid>
+      <description>&lt;!-- Google Calendar Appointment Scheduling begin --&gt;
+&lt;iframe src=&#34;https://calendar.google.com/calendar/appointments/schedules/AcZssZ2KLQ6U85OX18QYDqIpGu16swZktYEPa5z4JHEv9lyTUm9EVBZbaj1sCaM533U1G6V01jiwRFbN?gv=true&#34; style=&#34;border: 0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- end Google Calendar Appointment Scheduling --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
