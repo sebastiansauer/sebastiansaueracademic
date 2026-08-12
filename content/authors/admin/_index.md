@@ -50,8 +50,8 @@ title: Sebastian Sauer
 Sebastian Sauer is a professor with a focus on cognitive psychology and data science at the University of Applied Sciences Ansbach. 
 His research interests include applying machine learning to social science questions, didactics of statistics, mindfulness, and social media analysis.
 He thinks that science is obligated to truth and the social good.
-And in particular, each scientist is also citizen and should strive to defend and support basic ethical principles.
-For the moment, this includes lending a voice to the cause of Ukraine in her struggle to fight off the Russian invasion 🇺🇦.
+And in particular, each scientist is also citizen and 
+should strive to defend and support basic ethical principles.
 
 
 {{< icon name="scroll" pack="fas" >}} Check-out my publication list at [Google Scholar](https://scholar.google.de/citations?user=r-2ssnAAAAAJ).

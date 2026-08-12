@@ -1,5 +1,6 @@
 ---
 date: "2022-07-15"
+external_link: "https://datenwerk.netlify.app/"
 image:
   caption: Title Cover by Martha Sauer
   focal_point: Smart
