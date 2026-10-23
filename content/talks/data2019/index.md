@@ -9,7 +9,7 @@ summary: Rapid prototyping project candidates for data-driven projects
 tags:
 - causal
 title: "Reviewing rapid prototype candidates for data-driven projects"
-url_pdf: "https://sebastiansauer-academic.netlify.app/uploads/prototype-candidates-2019.pdf"
+url_pdf: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/prototype-candidates-2019.pdf"
 ---
 
 

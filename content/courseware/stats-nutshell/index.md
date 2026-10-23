@@ -1,6 +1,6 @@
 ---
 date: "2022-08-01"
-external_link: "https://stats-nutshell.netlify.app/"
+external_link: "https://sebastiansauer.github.io/stats-nutshell/"
 image:
   caption: Title Cover by Kjöl
   focal_point: Smart
@@ -18,7 +18,7 @@ url_code: "https://github.com/sebastiansauer/stats-nutshell"
 
 </br>
 
-  <button onclick="window.location.href='https://stats-nutshell.netlify.app/';">
+  <button onclick="window.location.href='https://sebastiansauer.github.io/stats-nutshell/';">
      Statistics in a nutshell: Introduction to Statistical Modelling
     </button>
 
@@ -33,4 +33,4 @@ Analyzing research data can broadly be classified in three parts: explorative da
 The focus is on practical data analysis; theoretical concepts are, where mentioned, second class citizens due to time constraints and the didactic aims of the course.
 
 
-[stats-nutshell](https://stats-nutshell.netlify.app/)
+[stats-nutshell](https://sebastiansauer.github.io/stats-nutshell/)

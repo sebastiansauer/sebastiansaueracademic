@@ -18,7 +18,7 @@ tags:
 title: Data Science 1 
 url_code: "https://github.com/sebastiansauer/datascience1"
 url_pdf: ""
-#url_slides: "https://ds1-prognosemodellierung.netlify.app/"
+#url_slides: "https://sebastiansauer.github.io/datascience1/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 
@@ -27,7 +27,7 @@ url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 
 </br>
 
-  <button onclick="window.location.href='https://ds1-prognosemodellierung.netlify.app/';">
+  <button onclick="window.location.href='https://sebastiansauer.github.io/datascience1/';">
      Hier geht's zum Buch "Data Science - Prognosemodellierung"
     </button>
     

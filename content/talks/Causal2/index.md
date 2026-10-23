@@ -8,7 +8,7 @@ summary: How to interpret observational studies causally
 tags:
 - causal
 title: "Intro to Causality 2: How to interpret observational studies causally"
-url_slides: "https://sebastiansauer-academic.netlify.app/uploads/Kausal-Workshop-2021-10-08.pdf"
+url_slides: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/Kausal-Workshop-2021-10-08.pdf"
 
 
 

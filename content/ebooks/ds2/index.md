@@ -1,6 +1,6 @@
 ---
 date: "2022-10-01"
-external_link: "https://datascience-text.netlify.app//"
+external_link: "https://sebastiansauer.github.io/datascience-text/"
 image:
   caption: Title Cover (689g8g) by Image Flip Meme Generator
   focal_point: Smart
@@ -18,7 +18,7 @@ tags:
 title: Data Science 2
 url_code: "https://github.com/sebastiansauer/datascience-text"
 url_pdf: ""
-url_slides: "https://datascience-text.netlify.app/"
+url_slides: "https://sebastiansauer.github.io/datascience-text/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 
@@ -26,7 +26,7 @@ url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 
 </br>
 
-  <button onclick="window.location.href='https://datascience-text.netlify.app/';">
+  <button onclick="window.location.href='https://sebastiansauer.github.io/datascience-text/';">
      Hier geht's zum Buch "Data Science - Analyse von Textdaten"
     </button>
 

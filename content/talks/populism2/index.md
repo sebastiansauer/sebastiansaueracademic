@@ -11,7 +11,7 @@ tags:
 - inference
 - modelling
 title: "Predictors of AfD party success"
-url_pdf: "https://sebastiansauer-academic.netlify.app/uploads(afd-wahlerfolg"
+url_pdf: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads(afd-wahlerfolg"
 ---
 
 ## Abstract

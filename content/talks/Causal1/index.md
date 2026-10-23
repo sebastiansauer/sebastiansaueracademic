@@ -8,7 +8,7 @@ summary: Why most published research findings are of little use for business dec
 tags:
 - causal
 title: "Intro to causality 1: Any use for statistics?"
-url_slides: "https://sebastiansauer-academic.netlify.app/uploads/Intro-to-Causality.pdf"
+url_slides: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/Intro-to-Causality.pdf"
 
 ---
 

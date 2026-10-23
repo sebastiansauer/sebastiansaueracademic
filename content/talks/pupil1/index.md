@@ -9,7 +9,7 @@ tags:
 - eyetracking
 - machine-learning
 title: "Performanz in Echtzeit vorhersagen auf Basis von Pupillendaten"
-url_slides: "https://sebastiansauer-academic.netlify.app/uploads/Talk_eyetracking_2017.pdf"
+url_slides: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/Talk_eyetracking_2017.pdf"
 
 ---
 

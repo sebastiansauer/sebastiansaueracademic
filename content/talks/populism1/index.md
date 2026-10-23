@@ -10,7 +10,7 @@ tags:
 - causal
 title: "Populism among German politicians - A Twitter Mining approach"
 url_slides: "https://data-se.netlify.com/slides/populist-twitter/populist-twitter-dgps2018.html#1"
-url_pdf: "https://sebastiansauer-academic.netlify.app/uploads/populism-tweets.pdf"
+url_pdf: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/populism-tweets.pdf"
 url_code: "https://github.com/sebastiansauer/polits_tweet_mining"
 ---
 

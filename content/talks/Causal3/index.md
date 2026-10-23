@@ -8,7 +8,7 @@ summary: More emphasis should be put on the mapping and link between subject mat
 tags:
 - causal
 title: "Acting Data-Driven - But How?"
-url_pdf: "https://sebastiansauer-academic.netlify.app/uploads/ECDA-2022-causal-luebke-etal.pdf"
+url_pdf: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/ECDA-2022-causal-luebke-etal.pdf"
 url_code: "https://luebby.github.io/ECDA-2022"
 ---
 

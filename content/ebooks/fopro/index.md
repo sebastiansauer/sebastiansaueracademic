@@ -1,6 +1,6 @@
 ---
 date: "2023-03-01"
-external_link: "https://fopro.netlify.app/"
+external_link: "https://sebastiansauer.github.io/fopra/"
 image:
   caption: Title Cover by Image Flip Memes (65rf1d)
   focal_point: Smart
@@ -14,14 +14,14 @@ tags:
 title: Forschungsprojekt in Psychologie
 url_code: "https://github.com/sebastiansauer/fopra"
 url_pdf: ""
-#url_slides: "https://fopro.netlify.app/"
+#url_slides: "https://sebastiansauer.github.io/fopra/"
 url_video: "https://www.youtube.com/channel/UCkvdtj8maE7g-SOCh4aDB9g"
 ---
 
 
 </br>
 
-  <button onclick="window.location.href='https://fopro.netlify.app/';">
+  <button onclick="window.location.href='https://sebastiansauer.github.io/fopra/';">
      Hier geht's zum Skript "Forschungsprojekt in Psychologie (2023 edition)"
     </button>
 

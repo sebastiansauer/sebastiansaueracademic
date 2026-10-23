@@ -9,7 +9,7 @@ tags:
 - eyetracking
 - machine-learning
 title: "Das Böse. Psychologie eines Phänomens."
-url_slides: "https://sebastiansauer-academic.netlify.app/uploads/Psycho_Boese.pdf"
+url_slides: "https://sebastiansauer.github.io/sebastiansaueracademic/uploads/Psycho_Boese.pdf"
 
 ---
 

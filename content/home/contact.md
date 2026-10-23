@@ -17,7 +17,7 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: ""  # Netlify-Formulare funktionieren auf GitHub Pages nicht
     formspree:
       id:
     netlify:
